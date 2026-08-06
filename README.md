@@ -36,8 +36,9 @@ Bei einem privaten Repo ist die Pages-Seite nur für Personen mit Repo-Zugriff s
 
 ```bash
 pip install requests beautifulsoup4
-python scrape.py            # aktueller Monat
-python scrape.py 2026-09    # bestimmter Monat
+python scrape.py                # aktueller Monat + die 2 folgenden Monate
+python scrape.py 2026-09        # 2026-09, 2026-10, 2026-11
+python scrape.py 2026-09 1      # nur 2026-09 (zweiter Parameter = Anzahl Monate)
 ```
 
 Der GitHub-Actions-Workflow lässt sich auch manuell anstoßen: Actions → "Update library
@@ -55,5 +56,9 @@ events" → "Run workflow", optional mit gewünschtem Monat (`YYYY-MM`).
   in die entstandene `events.json`, um zu prüfen, ob Titel/Datum/Ort korrekt erkannt werden.
 - **Beschreibungstexte** werden aktuell nicht mitgescraped (`desc` bleibt leer) – ließe
   sich ergänzen, indem `scrape.py` zusätzlich die Detailseite jedes Termins abruft.
-- **Monatsauswahl im Frontend** ist vorbereitet, aber noch nicht interaktiv: aktuell
-  zeigt die Seite immer den Monat, der zuletzt gescraped wurde.
+- **Monatsauswahl im Frontend** funktioniert jetzt: sie zeigt die drei Monate an, die
+  `scrape.py` zuletzt geholt hat (aktueller Monat + 2 folgende), Standard ist der
+  aktuelle Monat.
+- Die Actions-Meldung "Node.js 20 is deprecated ..." ist nur ein informativer Hinweis
+  von GitHub zu den verwendeten Action-Versionen, kein Fehler – der Workflow läuft
+  trotzdem normal durch.

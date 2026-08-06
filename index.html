@@ -304,12 +304,15 @@ function renderEventCard(e, swap) {
 
 let allEvents = [];
 let currentView = "date";
+let currentMonth = null;
 const container = document.getElementById("eventsContainer");
 const toggleButtons = document.querySelectorAll("#viewToggle button");
 
 function currentEvents() {
   const hideRecurring = document.getElementById("hideRecurring").checked;
-  return hideRecurring ? allEvents.filter(e => !e.recurring) : allEvents;
+  let evts = allEvents.filter(e => e.date.slice(0, 7) === currentMonth);
+  if (hideRecurring) evts = evts.filter(e => !e.recurring);
+  return evts;
 }
 
 function renderByDate() {
@@ -360,12 +363,20 @@ fetch("events.json?_=" + Date.now())
     allEvents = data.events || [];
     const status = document.getElementById("statusLine");
     const generated = data.generatedAt ? new Date(data.generatedAt).toLocaleString("de-DE") : "unbekannt";
-    status.textContent = `${data.monthLabel || ""} · zuletzt aktualisiert ${generated}`;
+    status.textContent = `Zuletzt aktualisiert ${generated}`;
+
+    const monthsCovered = data.monthsCovered || (data.month ? [data.month] : []);
+    const monthLabels = data.monthLabels || (data.month ? {[data.month]: data.monthLabel} : {});
+    currentMonth = data.defaultMonth || monthsCovered[0];
 
     const select = document.getElementById("monthSelect");
-    select.innerHTML = `<option value="${data.month}" selected>${data.monthLabel}</option>`;
+    select.innerHTML = monthsCovered.map(m =>
+      `<option value="${m}"${m === currentMonth ? " selected" : ""}>${monthLabels[m] || m}</option>`
+    ).join("");
+    select.addEventListener("change", () => { currentMonth = select.value; render(); });
+
     document.getElementById("monthHint").textContent =
-      "Aktuell wird nur der oben angezeigte Monat automatisch aktualisiert (per GitHub Actions).";
+      `Automatisch aktuell gehalten für: ${monthsCovered.map(m => monthLabels[m] || m).join(", ")}.`;
 
     const missing = (data.unsupportedLibraries || []).join(", ");
     document.getElementById("footerText").textContent =

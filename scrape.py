@@ -3,16 +3,15 @@
 Scrapes Veranstaltungen (events) for a set of Berlin Stadtbibliotheken from the
 central berlin.de event calendar (berlin.de/land/kalender) and writes events.json.
 
-Each supported library has a fixed "c" (channel) id in that calendar system.
-Not all 12 Berlin districts have their own channel id yet -- see UNSUPPORTED_LIBRARIES.
+By default this scrapes the CURRENT month plus the following two months (three
+months total). Each supported library has a fixed "c" (channel) id in that
+calendar system. Not all 12 Berlin districts have their own channel id yet --
+see UNSUPPORTED_LIBRARIES.
 
 Usage:
-    python scrape.py                # current month
-    python scrape.py 2026-09        # specific month (YYYY-MM)
-
-This is a first working version. berlin.de's HTML structure was inferred from
-rendered output, not verified byte-for-byte -- if a run produces zero events for
-a library that normally has some, that library's parsing likely needs adjusting.
+    python scrape.py                # current month + next 2 months
+    python scrape.py 2026-09        # 2026-09, 2026-10, 2026-11
+    python scrape.py 2026-09 1      # only 2026-09 (second arg = number of months)
 """
 
 import sys
@@ -46,13 +45,20 @@ UNSUPPORTED_LIBRARIES = [
     "Stadtbibliothek Treptow-Köpenick",
 ]
 
+MONTH_LABELS_DE = ["", "Januar", "Februar", "März", "April", "Mai", "Juni",
+                    "Juli", "August", "September", "Oktober", "November", "Dezember"]
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; BibliothekenTermineBerlinBot/1.0; +https://github.com/)"
 }
 
 
-def month_bounds(month_str):
-    year, month = (int(x) for x in month_str.split("-"))
+def add_months(year, month, delta):
+    total = (year * 12 + (month - 1)) + delta
+    return total // 12, total % 12 + 1
+
+
+def month_bounds(year, month):
     start = datetime(year, month, 1)
     last_day = calendar.monthrange(year, month)[1]
     end = datetime(year, month, last_day)
@@ -78,7 +84,7 @@ def fetch_page(channel_id, date_start, date_stop, offset):
 TERMIN_RE = re.compile(r"Termin:\s*([\d.]{10})(?:\s*-\s*[\d.]{10})?(?:\s+(\d{1,2}:\d{2})(?:\s*-\s*(\d{1,2}:\d{2}))?)?", re.S)
 
 
-def parse_events(html, channel_id, library_name):
+def parse_events(html, library_name):
     soup = BeautifulSoup(html, "html.parser")
     events = []
     seen_links = set()
@@ -137,13 +143,13 @@ def parse_events(html, channel_id, library_name):
     return events
 
 
-def scrape_library(channel_id, library_name, date_start, date_stop):
+def scrape_library_month(channel_id, library_name, date_start, date_stop):
     all_events = []
     offset = 0
     seen_this_run = set()
     while True:
         html = fetch_page(channel_id, date_start, date_stop, offset)
-        page_events = parse_events(html, channel_id, library_name)
+        page_events = parse_events(html, library_name)
         new_events = [e for e in page_events if e["link"] not in seen_this_run]
         if not new_events:
             break
@@ -151,33 +157,47 @@ def scrape_library(channel_id, library_name, date_start, date_stop):
             seen_this_run.add(e["link"])
         all_events.extend(new_events)
         offset += 10
-        time.sleep(0.5)
+        time.sleep(0.4)
         if offset > 2000:
             break
     return all_events
 
 
 def main():
-    month_str = sys.argv[1] if len(sys.argv) > 1 else datetime.now().strftime("%Y-%m")
-    date_start, date_stop = month_bounds(month_str)
+    if len(sys.argv) > 1:
+        year, month = (int(x) for x in sys.argv[1].split("-"))
+    else:
+        now = datetime.now()
+        year, month = now.year, now.month
+
+    num_months = int(sys.argv[2]) if len(sys.argv) > 2 else 3
+
+    months = []
+    for i in range(num_months):
+        y, m = add_months(year, month, i)
+        months.append((y, m))
 
     all_events = []
-    for channel_id, library_name in LIBRARIES.items():
-        try:
-            events = scrape_library(channel_id, library_name, date_start, date_stop)
-            print(f"{library_name}: {len(events)} Veranstaltungen")
-            all_events.extend(events)
-        except Exception as exc:
-            print(f"Fehler bei {library_name}: {exc}", file=sys.stderr)
+    for y, m in months:
+        date_start, date_stop = month_bounds(y, m)
+        month_str = f"{y:04d}-{m:02d}"
+        print(f"\n=== Monat {month_str} ===")
+        for channel_id, library_name in LIBRARIES.items():
+            try:
+                events = scrape_library_month(channel_id, library_name, date_start, date_stop)
+                print(f"{library_name}: {len(events)} Veranstaltungen")
+                all_events.extend(events)
+            except Exception as exc:
+                print(f"Fehler bei {library_name} ({month_str}): {exc}", file=sys.stderr)
 
-    month_labels_de = ["", "Januar", "Februar", "März", "April", "Mai", "Juni",
-                        "Juli", "August", "September", "Oktober", "November", "Dezember"]
-    year, month = (int(x) for x in month_str.split("-"))
+    month_strs = [f"{y:04d}-{m:02d}" for y, m in months]
+    month_labels = {f"{y:04d}-{m:02d}": f"{MONTH_LABELS_DE[m]} {y}" for y, m in months}
 
     output = {
         "generatedAt": datetime.now(timezone.utc).isoformat(),
-        "month": month_str,
-        "monthLabel": f"{month_labels_de[month]} {year}",
+        "monthsCovered": month_strs,
+        "monthLabels": month_labels,
+        "defaultMonth": month_strs[0],
         "libraries": LIBRARIES,
         "unsupportedLibraries": UNSUPPORTED_LIBRARIES,
         "events": all_events,
@@ -186,7 +206,8 @@ def main():
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n{len(all_events)} Veranstaltungen insgesamt geschrieben nach events.json")
+    print(f"\n{len(all_events)} Veranstaltungen insgesamt geschrieben nach events.json "
+          f"({', '.join(month_strs)})")
 
 
 if __name__ == "__main__":
