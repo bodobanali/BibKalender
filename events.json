@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T13:57:18.366104+00:00",
+  "generatedAt": "2026-08-06T17:49:22.454015+00:00",
   "monthsCovered": [
     "2026-08"
   ],
@@ -5041,17 +5041,6 @@
       "recurring": true
     },
     {
-      "title": "Sprachcafé",
-      "date": "2026-08-11",
-      "dateLabel": "11.08.2026",
-      "time": "15:00–17:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=265675&ls=30&c=409&date_start=06.08.2026",
-      "recurring": true
-    },
-    {
       "title": "Bibliotheksnachmittag für die Kleinsten",
       "date": "2026-08-11",
       "dateLabel": "11.08.2026",
@@ -5092,7 +5081,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283291&ls=40&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283291&ls=30&c=409&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -5202,7 +5191,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=254515&ls=50&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=254515&ls=40&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5312,7 +5301,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=283972&ls=60&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=283972&ls=50&c=409&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -5415,14 +5404,14 @@
       "recurring": true
     },
     {
-      "title": "Basteln in den Sommerferien",
+      "title": "Bastelfabrik mit Daniela",
       "date": "2026-08-14",
       "dateLabel": "14.08.2026",
-      "time": "15:00–17:00",
+      "time": "15:00",
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=282307&ls=70&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285583&ls=60&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5532,7 +5521,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=80&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=70&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5642,7 +5631,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=271021&ls=90&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=271021&ls=80&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5688,17 +5677,6 @@
       "desc": "",
       "link": "https://www.berlin.de/index.php?detail=286777&ls=90&c=409&date_start=06.08.2026",
       "recurring": false
-    },
-    {
-      "title": "Sprachcafé",
-      "date": "2026-08-18",
-      "dateLabel": "18.08.2026",
-      "time": "15:00–17:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=265675&ls=90&c=409&date_start=06.08.2026",
-      "recurring": true
     },
     {
       "title": "Bibliotheksnachmittag für die Kleinsten",
@@ -5752,7 +5730,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=100&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=90&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5763,7 +5741,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241687&ls=100&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241687&ls=90&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5862,7 +5840,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=247570&ls=110&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=247570&ls=100&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5873,7 +5851,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281644&ls=110&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281644&ls=100&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5972,7 +5950,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=120&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=110&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -5983,7 +5961,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284527&ls=120&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284527&ls=110&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6053,17 +6031,6 @@
       "recurring": false
     },
     {
-      "title": "Nähmaschinen Workshop",
-      "date": "2026-08-22",
-      "dateLabel": "22.08.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284911&ls=120&c=409&date_start=06.08.2026",
-      "recurring": false
-    },
-    {
       "title": "Tanz-Workshop",
       "date": "2026-08-22",
       "dateLabel": "22.08.2026",
@@ -6075,6 +6042,17 @@
       "recurring": false
     },
     {
+      "title": "Nähmaschinen Workshop",
+      "date": "2026-08-22",
+      "dateLabel": "22.08.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=284911&ls=120&c=409&date_start=06.08.2026",
+      "recurring": false
+    },
+    {
       "title": "Erzähltheater mit Kathleen Rappold",
       "date": "2026-08-22",
       "dateLabel": "22.08.2026",
@@ -6082,7 +6060,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=286591&ls=130&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=286591&ls=120&c=409&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -6093,7 +6071,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=274189&ls=130&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=274189&ls=120&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6192,7 +6170,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=285208&ls=140&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=285208&ls=130&c=409&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -6203,7 +6181,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270247&ls=140&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270247&ls=130&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6302,7 +6280,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270517&ls=150&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270517&ls=140&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6313,7 +6291,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=265675&ls=150&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=265675&ls=140&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6412,7 +6390,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=284920&ls=160&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=284920&ls=150&c=409&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -6423,7 +6401,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=267133&ls=160&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=267133&ls=150&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6522,7 +6500,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=281644&ls=170&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=281644&ls=160&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6533,7 +6511,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=270280&ls=170&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=270280&ls=160&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6632,7 +6610,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279628&ls=180&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279628&ls=170&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6643,7 +6621,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=241852&ls=180&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=241852&ls=170&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6742,7 +6720,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=287554&ls=190&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=287554&ls=180&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6753,7 +6731,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=246874&ls=190&c=409&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=246874&ls=180&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -6842,6 +6820,28 @@
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/index.php?detail=242077&ls=190&c=409&date_start=06.08.2026",
+      "recurring": true
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "13:00–16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=271021&ls=190&c=409&date_start=06.08.2026",
+      "recurring": true
+    },
+    {
+      "title": "Coding & Co.",
+      "date": "2026-08-31",
+      "dateLabel": "31.08.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=270247&ls=190&c=409&date_start=06.08.2026",
       "recurring": true
     },
     {
@@ -7769,6 +7769,17 @@
       "recurring": false
     },
     {
+      "title": "Sprechstunde zu den Digitalen Angeboten des VÖBB in der Stadtteilbibliothek Lankwitz",
+      "date": "2026-08-12",
+      "dateLabel": "12.08.2026",
+      "time": "11:00–12:00",
+      "library": "Stadtbibliothek Steglitz-Zehlendorf",
+      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=240862&ls=20&c=67&date_start=06.08.2026",
+      "recurring": false
+    },
+    {
       "title": "Kriminalprävention & Verkehrssicherheit mit der Polizei Berlin in der Ingeborg-Drewitz-Bibliothek",
       "date": "2026-08-12",
       "dateLabel": "12.08.2026",
@@ -7780,14 +7791,14 @@
       "recurring": false
     },
     {
-      "title": "Sprechstunde zu den Digitalen Angeboten des VÖBB in der Stadtteilbibliothek Lankwitz",
+      "title": "Familiencafé in der Ingeborg-Drewitz-Bibliothek",
       "date": "2026-08-12",
       "dateLabel": "12.08.2026",
-      "time": "11:00–12:00",
+      "time": "12:00–14:00",
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
+      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=240862&ls=20&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=249334&ls=20&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -7831,7 +7842,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Stadtbibliothek Steglitz-Zehlendorfin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279112&ls=20&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279112&ls=30&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -7941,7 +7952,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Stadtbibliothek Steglitz-Zehlendorfin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=279112&ls=30&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=279112&ls=40&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -7956,17 +7967,6 @@
       "recurring": false
     },
     {
-      "title": "Der Krimiclub der Gottfried-Benn-Bibliothek",
-      "date": "2026-08-17",
-      "dateLabel": "17.08.2026",
-      "time": "16:30–18:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=157566&ls=40&c=67&date_start=06.08.2026",
-      "recurring": false
-    },
-    {
       "title": "Bilderbuchkino am Nachmittag in der Ingeborg-Drewitz-Bibliothek",
       "date": "2026-08-17",
       "dateLabel": "17.08.2026",
@@ -7975,6 +7975,17 @@
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
       "link": "https://www.berlin.de/index.php?detail=279121&ls=40&c=67&date_start=06.08.2026",
+      "recurring": false
+    },
+    {
+      "title": "Der Krimiclub der Gottfried-Benn-Bibliothek",
+      "date": "2026-08-17",
+      "dateLabel": "17.08.2026",
+      "time": "16:30–18:00",
+      "library": "Stadtbibliothek Steglitz-Zehlendorf",
+      "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=157566&ls=40&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -8051,7 +8062,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=239014&ls=40&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=239014&ls=50&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -8161,7 +8172,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=256159&ls=50&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=256159&ls=60&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -8271,7 +8282,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=238648&ls=60&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=238648&ls=70&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -8374,6 +8385,17 @@
       "recurring": false
     },
     {
+      "title": "Familiencafé in der Ingeborg-Drewitz-Bibliothek",
+      "date": "2026-08-26",
+      "dateLabel": "26.08.2026",
+      "time": "12:00–14:00",
+      "library": "Stadtbibliothek Steglitz-Zehlendorf",
+      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/index.php?detail=249334&ls=80&c=67&date_start=06.08.2026",
+      "recurring": false
+    },
+    {
       "title": "Mietberatung in der Ingeborg-Drewitz-Bibliothek",
       "date": "2026-08-26",
       "dateLabel": "26.08.2026",
@@ -8381,7 +8403,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=238651&ls=70&c=67&date_start=06.08.2026",
+      "link": "https://www.berlin.de/index.php?detail=238651&ls=80&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
@@ -8470,28 +8492,6 @@
       "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
       "desc": "",
       "link": "https://www.berlin.de/index.php?detail=267691&ls=80&c=67&date_start=06.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Popcornkino in der Gottfried-Benn-Bibliothek für Kinder",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=239023&ls=80&c=67&date_start=06.08.2026",
-      "recurring": false
-    },
-    {
-      "title": "Vorlesezeit in der Stadtteilbibliothek Lankwitz",
-      "date": "2026-08-28",
-      "dateLabel": "28.08.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/index.php?detail=250450&ls=80&c=67&date_start=06.08.2026",
       "recurring": false
     },
     {
