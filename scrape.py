@@ -23,6 +23,8 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 BASE = "https://www.berlin.de/land/kalender/index.php"
@@ -52,6 +54,25 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; BibliothekenTermineBerlinBot/1.0; +https://github.com/)"
 }
 
+REQUEST_DELAY_SECONDS = 2.5
+
+def make_session():
+    session = requests.Session()
+    retries = Retry(
+        total=6,
+        backoff_factor=8,  # 8s, 16s, 32s, 64s, ... on repeated 429s
+        status_forcelist=[429, 500, 502, 503, 504],
+        respect_retry_after_header=True,
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+SESSION = make_session()
+
 
 def add_months(year, month, delta):
     total = (year * 12 + (month - 1)) + delta
@@ -76,7 +97,7 @@ def fetch_page(channel_id, date_start, date_stop, offset):
         "date_stop": fmt(date_stop),
         "ls": offset,
     }
-    resp = requests.get(BASE, params=params, headers=HEADERS, timeout=30)
+    resp = SESSION.get(BASE, params=params, headers=HEADERS, timeout=30)
     resp.raise_for_status()
     return resp.text
 
@@ -164,7 +185,7 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop):
             seen_this_run.add(e["link"])
         all_events.extend(new_events)
         offset += 10
-        time.sleep(0.4)
+        time.sleep(REQUEST_DELAY_SECONDS)
         if offset > 2000:
             break
     return all_events
@@ -196,6 +217,7 @@ def main():
                 all_events.extend(events)
             except Exception as exc:
                 print(f"Fehler bei {library_name} ({month_str}): {exc}", file=sys.stderr)
+            time.sleep(3)
 
     month_strs = [f"{y:04d}-{m:02d}" for y, m in months]
     month_labels = {f"{y:04d}-{m:02d}": f"{MONTH_LABELS_DE[m]} {y}" for y, m in months}
