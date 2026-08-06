@@ -176,7 +176,13 @@ def parse_events(html, library_name):
 def scrape_library_month(channel_id, library_name, date_start, date_stop):
     """Paginates through results. If a page fails (e.g. berlin.de blocks us
     mid-way), keeps whatever events were already collected instead of
-    discarding the whole library's results."""
+    discarding the whole library's results.
+
+    berlin.de sometimes silently drops the date_start/date_stop filter once
+    the offset gets high, causing pagination to run away through the
+    channel's entire history instead of just the requested month. As a
+    safety net, we stop as soon as a page returns events outside the
+    requested date range and discard that page's events."""
     all_events = []
     offset = 0
     seen_this_run = set()
@@ -191,6 +197,17 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop):
         new_events = [e for e in page_events if e["link"] not in seen_this_run]
         if not new_events:
             break
+
+        out_of_range = [
+            e for e in new_events
+            if not (date_start <= datetime.strptime(e["dateLabel"], "%d.%m.%Y") <= date_stop)
+        ]
+        if out_of_range:
+            print(f"  -> Datumsfilter offenbar verloren bei ls={offset} "
+                  f"(z.B. {out_of_range[0]['dateLabel']} außerhalb {fmt(date_start)}-{fmt(date_stop)}); "
+                  f"breche Paginierung ab, behalte {len(all_events)} Termine", file=sys.stderr)
+            break
+
         for e in new_events:
             seen_this_run.add(e["link"])
         all_events.extend(new_events)
