@@ -81,43 +81,51 @@ def fetch_page(channel_id, date_start, date_stop, offset):
     return resp.text
 
 
-TERMIN_RE = re.compile(r"Termin:\s*([\d.]{10})(?:\s*-\s*[\d.]{10})?(?:\s+(\d{1,2}:\d{2})(?:\s*-\s*(\d{1,2}:\d{2}))?)?", re.S)
+LOCATION_SUFFIX_RE = re.compile(r"\s+in\s+[\w\-]+$")
 
 
 def parse_events(html, library_name):
+    """Parses one results page of berlin.de/land/kalender.
+
+    Structure (verified against live HTML, August 2026):
+      article.teaser--event
+        h3.title > a.js-ems-event-teaser-heading   (title + link)
+        div.teaser__meta .categories a              (category tags, incl. "Regelmäßige Veranstaltung")
+        dl.attributes
+          dt "Termin:" / dd (span.date, span.time)
+          dt "Veranstaltungsort:" / dd (location text, e.g. "X-Bibliothek in Neukölln")
+    """
     soup = BeautifulSoup(html, "html.parser")
     events = []
-    seen_links = set()
 
-    detail_links = soup.select('a[href*="detail="]')
-    for link_tag in detail_links:
-        href = link_tag.get("href", "")
-        if "detail=" not in href:
+    for article in soup.select("article.teaser--event"):
+        heading = article.select_one("h3.title a")
+        if not heading:
+            continue
+        title = heading.get_text(strip=True)
+        href = heading.get("href", "")
+        if not title or not href:
             continue
         full_link = urljoin("https://www.berlin.de", href)
-        if full_link in seen_links:
-            continue
 
-        title = link_tag.get_text(strip=True)
-        if not title:
-            continue
+        categories = [a.get_text(strip=True) for a in article.select(".categories a")]
+        recurring = any("regelmäßig" in c.lower() for c in categories)
 
-        block = link_tag.find_parent(["article", "div", "li"])
-        block_text = block.get_text(" ", strip=True) if block else ""
-
-        date_label, time_label = None, None
-        m = TERMIN_RE.search(block_text)
-        if m:
-            date_label = m.group(1)
-            if m.group(2) and m.group(3):
-                time_label = f"{m.group(2)}–{m.group(3)}"
-            elif m.group(2):
-                time_label = m.group(2)
-
-        loc_match = re.search(r"Veranstaltungsort:\s*([^:]+?)(?:\s+in\s+\S+)?(?:Zur Veranstaltung|$)", block_text)
-        location = loc_match.group(1).strip() if loc_match else ""
-
-        recurring = "Regelmäßige Veranstaltung" in block_text
+        dl = article.select_one("dl.attributes")
+        date_label, time_label, location = None, "", ""
+        if dl:
+            dts = dl.select("dt")
+            dds = dl.select("dd")
+            for dt, dd in zip(dts, dds):
+                label = dt.get_text(strip=True).lower()
+                if label.startswith("termin"):
+                    date_span = dd.select_one("span.date")
+                    time_span = dd.select_one("span.time")
+                    date_label = date_span.get_text(strip=True) if date_span else None
+                    if time_span:
+                        time_label = time_span.get_text(strip=True).replace(" Uhr", "").replace(" - ", "–")
+                elif label.startswith("veranstaltungsort"):
+                    location = LOCATION_SUFFIX_RE.sub("", dd.get_text(strip=True))
 
         if not date_label:
             continue
@@ -127,12 +135,11 @@ def parse_events(html, library_name):
         except ValueError:
             continue
 
-        seen_links.add(full_link)
         events.append({
             "title": title,
             "date": iso_date,
             "dateLabel": date_label,
-            "time": time_label or "",
+            "time": time_label,
             "library": library_name,
             "location": location,
             "desc": "",
