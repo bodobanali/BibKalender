@@ -61,8 +61,8 @@ REQUEST_DELAY_SECONDS = 5
 def make_session():
     session = requests.Session()
     retries = Retry(
-        total=5,
-        backoff_factor=30,  # 30s, 60s, 120s, 240s, 480s -- long enough to outlast a temp IP block
+        total=2,
+        backoff_factor=5,  # 5s, 10s -- give up quickly rather than stall the whole run
         status_forcelist=[429, 500, 502, 503, 504],
         respect_retry_after_header=False,  # berlin.de's Retry-After is too short to be useful here
         allowed_methods=["GET"],
@@ -174,11 +174,19 @@ def parse_events(html, library_name):
 
 
 def scrape_library_month(channel_id, library_name, date_start, date_stop):
+    """Paginates through results. If a page fails (e.g. berlin.de blocks us
+    mid-way), keeps whatever events were already collected instead of
+    discarding the whole library's results."""
     all_events = []
     offset = 0
     seen_this_run = set()
     while True:
-        html = fetch_page(channel_id, date_start, date_stop, offset)
+        try:
+            html = fetch_page(channel_id, date_start, date_stop, offset)
+        except Exception as exc:
+            print(f"  -> Abbruch bei Seite ls={offset} ({exc}); "
+                  f"behalte {len(all_events)} bereits gefundene Termine", file=sys.stderr)
+            break
         page_events = parse_events(html, library_name)
         new_events = [e for e in page_events if e["link"] not in seen_this_run]
         if not new_events:
