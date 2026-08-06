@@ -3,15 +3,17 @@
 Scrapes Veranstaltungen (events) for a set of Berlin Stadtbibliotheken from the
 central berlin.de event calendar (berlin.de/land/kalender) and writes events.json.
 
-By default this scrapes the CURRENT month plus the following two months (three
-months total). Each supported library has a fixed "c" (channel) id in that
-calendar system. Not all 12 Berlin districts have their own channel id yet --
-see UNSUPPORTED_LIBRARIES.
+By default this scrapes only the CURRENT month (num_months=1), to stay well
+under berlin.de's rate limiting while we confirm stability. Once a run
+completes cleanly, bump this back up (e.g. via the second CLI arg, or by
+changing the default below) to cover more months. Each supported library has
+a fixed "c" (channel) id in that calendar system. Not all 12 Berlin districts
+have their own channel id yet -- see UNSUPPORTED_LIBRARIES.
 
 Usage:
-    python scrape.py                # current month + next 2 months
-    python scrape.py 2026-09        # 2026-09, 2026-10, 2026-11
-    python scrape.py 2026-09 1      # only 2026-09 (second arg = number of months)
+    python scrape.py                # current month only
+    python scrape.py 2026-09        # 2026-09 only
+    python scrape.py 2026-09 3      # 2026-09, 2026-10, 2026-11 (second arg = number of months)
 """
 
 import sys
@@ -54,15 +56,15 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; BibliothekenTermineBerlinBot/1.0; +https://github.com/)"
 }
 
-REQUEST_DELAY_SECONDS = 2.5
+REQUEST_DELAY_SECONDS = 5
 
 def make_session():
     session = requests.Session()
     retries = Retry(
-        total=6,
-        backoff_factor=8,  # 8s, 16s, 32s, 64s, ... on repeated 429s
+        total=5,
+        backoff_factor=30,  # 30s, 60s, 120s, 240s, 480s -- long enough to outlast a temp IP block
         status_forcelist=[429, 500, 502, 503, 504],
-        respect_retry_after_header=True,
+        respect_retry_after_header=False,  # berlin.de's Retry-After is too short to be useful here
         allowed_methods=["GET"],
     )
     adapter = HTTPAdapter(max_retries=retries)
@@ -198,7 +200,7 @@ def main():
         now = datetime.now()
         year, month = now.year, now.month
 
-    num_months = int(sys.argv[2]) if len(sys.argv) > 2 else 3
+    num_months = int(sys.argv[2]) if len(sys.argv) > 2 else 1
 
     months = []
     for i in range(num_months):
