@@ -213,7 +213,8 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop):
         all_events.extend(new_events)
         offset += 10
         time.sleep(REQUEST_DELAY_SECONDS)
-        if offset > 2000:
+        if offset > 500:
+            print(f"  -> Sicherheits-Limit (500 Termine) erreicht, breche Paginierung ab", file=sys.stderr)
             break
     return all_events
 
