@@ -63,7 +63,7 @@ def make_session():
         backoff_factor=5,  # 5s, 10s -- give up quickly rather than stall the whole run
         status_forcelist=[429, 500, 502, 503, 504],
         respect_retry_after_header=False,  # berlin.de's Retry-After is too short to be useful here
-        allowed_methods=["GET"],
+        allowed_methods=["GET", "POST"],
     )
     adapter = HTTPAdapter(max_retries=retries)
     session.mount("https://", adapter)
@@ -90,13 +90,29 @@ def fmt(d):
     return d.strftime("%d.%m.%Y")
 
 
-def fetch_page(channel_id, date_start, date_stop, offset):
-    params = {
-        "c": channel_id,
+def submit_search(channel_id, date_start, date_stop):
+    """Establishes the date-filtered search via POST, exactly like the real
+    search form on berlin.de does. berlin.de silently ignores date_start/
+    date_stop when they're sent as GET query params for dates outside a
+    short near-term window -- the actual site form submits them as a POST
+    body to index.php?suchmaske&c=<id>, and the server then remembers the
+    filter for the session (cookie-based) so subsequent GET pagination
+    requests stay filtered. Returns the first results page (ls=0)."""
+    url = f"{BASE}?suchmaske&c={channel_id}"
+    data = {
         "date_start": fmt(date_start),
         "date_stop": fmt(date_stop),
-        "ls": offset,
+        "stichwort": "",
     }
+    resp = SESSION.post(url, data=data, headers=HEADERS, timeout=30)
+    resp.raise_for_status()
+    return resp.text
+
+
+def fetch_page(channel_id, offset):
+    """Fetches a pagination page within the currently active session search
+    (set up beforehand via submit_search)."""
+    params = {"c": channel_id, "ls": offset}
     resp = SESSION.get(BASE, params=params, headers=HEADERS, timeout=30)
     resp.raise_for_status()
     return resp.text
@@ -177,21 +193,31 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop):
     mid-way), keeps whatever events were already collected instead of
     discarding the whole library's results.
 
-    berlin.de sometimes silently drops the date_start/date_stop filter once
-    the offset gets high, causing pagination to run away through the
-    channel's entire history instead of just the requested month. As a
-    safety net, we stop as soon as a page returns events outside the
-    requested date range and discard that page's events."""
+    The date filter is set up via a POST request (submit_search), exactly
+    like the real search form -- berlin.de silently ignores date_start/
+    date_stop when sent as plain GET query params for dates outside a
+    short near-term window. After the POST, the server remembers the
+    filter for the session, so plain GET pagination (ls=...) stays
+    filtered correctly. As an extra safety net, we still stop if a page
+    ever returns events outside the requested date range."""
     all_events = []
     offset = 0
     seen_this_run = set()
+
+    try:
+        html = submit_search(channel_id, date_start, date_stop)
+    except Exception as exc:
+        print(f"  -> Suche konnte nicht gestartet werden ({exc})", file=sys.stderr)
+        return all_events
+
     while True:
-        try:
-            html = fetch_page(channel_id, date_start, date_stop, offset)
-        except Exception as exc:
-            print(f"  -> Abbruch bei Seite ls={offset} ({exc}); "
-                  f"behalte {len(all_events)} bereits gefundene Termine", file=sys.stderr)
-            break
+        if offset > 0:
+            try:
+                html = fetch_page(channel_id, offset)
+            except Exception as exc:
+                print(f"  -> Abbruch bei Seite ls={offset} ({exc}); "
+                      f"behalte {len(all_events)} bereits gefundene Termine", file=sys.stderr)
+                break
         page_events = parse_events(html, library_name)
         new_events = [e for e in page_events if e["link"] not in seen_this_run]
         if not new_events:
