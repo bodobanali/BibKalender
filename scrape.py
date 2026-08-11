@@ -47,6 +47,16 @@ UNSUPPORTED_LIBRARIES = [
     "Stadtbibliothek Treptow-Köpenick",
 ]
 
+# Some libraries aren't tied to any district's own "c" channel (e.g. the ZLB,
+# Berlin's central state library) and only show up in the city-wide calendar
+# (c=22), filterable by "Veranstaltungsort" (v_ort). Found via the site's own
+# venue dropdown (option value = venue id).
+VENUES = {
+    "41945": "Amerika-Gedenkbibliothek (ZLB)",
+    "47797": "Berliner Stadtbibliothek (ZLB)",
+}
+CITY_WIDE_CHANNEL = "22"
+
 MONTH_LABELS_DE = ["", "Januar", "Februar", "März", "April", "Mai", "Juni",
                     "Juli", "August", "September", "Oktober", "November", "Dezember"]
 
@@ -90,20 +100,26 @@ def fmt(d):
     return d.strftime("%d.%m.%Y")
 
 
-def submit_search(channel_id, date_start, date_stop):
+def submit_search(channel_id, date_start, date_stop, venue_id=None):
     """Establishes the date-filtered search via POST, exactly like the real
     search form on berlin.de does. berlin.de silently ignores date_start/
     date_stop when they're sent as GET query params for dates outside a
     short near-term window -- the actual site form submits them as a POST
     body to index.php?suchmaske&c=<id>, and the server then remembers the
     filter for the session (cookie-based) so subsequent GET pagination
-    requests stay filtered. Returns the first results page (ls=0)."""
+    requests stay filtered. Returns the first results page (ls=0).
+
+    If venue_id is given, also filters to that specific "Veranstaltungsort"
+    (used for libraries that don't have their own district channel, e.g.
+    the ZLB, and only show up in the city-wide channel c=22)."""
     url = f"{BASE}?suchmaske&c={channel_id}"
     data = {
         "date_start": fmt(date_start),
         "date_stop": fmt(date_stop),
         "stichwort": "",
     }
+    if venue_id:
+        data["v_ort"] = venue_id
     resp = SESSION.post(url, data=data, headers=HEADERS, timeout=30)
     resp.raise_for_status()
     return resp.text
@@ -188,7 +204,7 @@ def parse_events(html, library_name):
     return events
 
 
-def scrape_library_month(channel_id, library_name, date_start, date_stop):
+def scrape_library_month(channel_id, library_name, date_start, date_stop, venue_id=None):
     """Paginates through results. If a page fails (e.g. berlin.de blocks us
     mid-way), keeps whatever events were already collected instead of
     discarding the whole library's results.
@@ -205,7 +221,7 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop):
     seen_this_run = set()
 
     try:
-        html = submit_search(channel_id, date_start, date_stop)
+        html = submit_search(channel_id, date_start, date_stop, venue_id=venue_id)
     except Exception as exc:
         print(f"  -> Suche konnte nicht gestartet werden ({exc})", file=sys.stderr)
         return all_events
@@ -272,6 +288,17 @@ def main():
                 print(f"Fehler bei {library_name} ({month_str}): {exc}", file=sys.stderr)
             time.sleep(3)
 
+        for venue_id, venue_name in VENUES.items():
+            try:
+                events = scrape_library_month(
+                    CITY_WIDE_CHANNEL, venue_name, date_start, date_stop, venue_id=venue_id
+                )
+                print(f"{venue_name}: {len(events)} Veranstaltungen")
+                all_events.extend(events)
+            except Exception as exc:
+                print(f"Fehler bei {venue_name} ({month_str}): {exc}", file=sys.stderr)
+            time.sleep(3)
+
     month_strs = [f"{y:04d}-{m:02d}" for y, m in months]
     month_labels = {f"{y:04d}-{m:02d}": f"{MONTH_LABELS_DE[m]} {y}" for y, m in months}
 
@@ -280,7 +307,7 @@ def main():
         "monthsCovered": month_strs,
         "monthLabels": month_labels,
         "defaultMonth": month_strs[0],
-        "libraries": LIBRARIES,
+        "libraries": {**LIBRARIES, **VENUES},
         "unsupportedLibraries": UNSUPPORTED_LIBRARIES,
         "events": all_events,
     }
