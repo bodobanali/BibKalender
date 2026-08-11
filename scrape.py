@@ -3,17 +3,15 @@
 Scrapes Veranstaltungen (events) for a set of Berlin Stadtbibliotheken from the
 central berlin.de event calendar (berlin.de/land/kalender) and writes events.json.
 
-By default this scrapes only the CURRENT month (num_months=1), to stay well
-under berlin.de's rate limiting while we confirm stability. Once a run
-completes cleanly, bump this back up (e.g. via the second CLI arg, or by
-changing the default below) to cover more months. Each supported library has
-a fixed "c" (channel) id in that calendar system. Not all 12 Berlin districts
-have their own channel id yet -- see UNSUPPORTED_LIBRARIES.
+By default this scrapes the CURRENT month plus the following month (two
+months total). Each supported library has a fixed "c" (channel) id in that
+calendar system. Not all 12 Berlin districts have their own channel id yet --
+see UNSUPPORTED_LIBRARIES.
 
 Usage:
-    python scrape.py                # current month only
-    python scrape.py 2026-09        # 2026-09 only
-    python scrape.py 2026-09 3      # 2026-09, 2026-10, 2026-11 (second arg = number of months)
+    python scrape.py                # current month + next month
+    python scrape.py 2026-09        # 2026-09 + 2026-10
+    python scrape.py 2026-09 1      # only 2026-09 (second arg = number of months)
 """
 
 import sys
@@ -129,7 +127,7 @@ def parse_events(html, library_name):
         href = heading.get("href", "")
         if not title or not href:
             continue
-        full_link = urljoin("https://www.berlin.de", href)
+        full_link = urljoin("https://www.berlin.de/land/kalender/", href)
 
         categories = [a.get_text(strip=True) for a in article.select(".categories a")]
         recurring = any("regelmäßig" in c.lower() for c in categories)
@@ -226,7 +224,7 @@ def main():
         now = datetime.now()
         year, month = now.year, now.month
 
-    num_months = int(sys.argv[2]) if len(sys.argv) > 2 else 1
+    num_months = int(sys.argv[2]) if len(sys.argv) > 2 else 2
 
     months = []
     for i in range(num_months):

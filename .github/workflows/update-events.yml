@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       month:
-        description: "Startmonat YYYY-MM (leer = aktueller Monat, es wird nur dieser eine Monat gescraped)"
+        description: "Startmonat YYYY-MM (leer = aktueller Monat, es werden ab hier 2 Monate gescraped)"
         required: false
         default: ""
 

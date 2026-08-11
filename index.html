@@ -51,9 +51,15 @@
     padding: 0.5rem 1.5rem 0.5rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 0.75rem;
     align-items: center;
     justify-content: space-between;
+  }
+  .controls-left, .controls-right {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
   }
   .toggle-group {
     display: flex;
@@ -90,6 +96,24 @@
     background: var(--card);
     color: var(--text);
   }
+  .btn-plain {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 0.5rem 0.9rem;
+    font-size: 14px;
+    background: var(--card);
+    color: var(--text);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .btn-plain:hover { border-color: var(--accent); }
+  .btn-plain.active-filter {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-bg);
+  }
   .month-hint {
     font-size: 12px;
     color: var(--text-secondary);
@@ -111,6 +135,111 @@
     width: 16px;
     height: 16px;
   }
+
+  /* Library filter/order panel */
+  .lib-panel-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(20, 18, 12, 0.35);
+    z-index: 50;
+  }
+  .lib-panel-backdrop.open { display: block; }
+  .lib-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: min(360px, 92vw);
+    background: var(--card);
+    box-shadow: -4px 0 24px rgba(0,0,0,0.15);
+    z-index: 51;
+    transform: translateX(100%);
+    transition: transform 0.2s ease;
+    display: flex;
+    flex-direction: column;
+  }
+  .lib-panel.open { transform: translateX(0); }
+  .lib-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.1rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .lib-panel-header h3 {
+    margin: 0;
+    font-size: 16px;
+  }
+  .lib-panel-close {
+    border: none;
+    background: none;
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+    color: var(--text-secondary);
+    padding: 0.25rem;
+  }
+  .lib-panel-actions {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .lib-panel-actions button {
+    flex: 1;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--card);
+    padding: 0.4rem 0.5rem;
+    font-size: 12.5px;
+    cursor: pointer;
+    color: var(--text-secondary);
+  }
+  .lib-panel-list {
+    overflow-y: auto;
+    padding: 0.5rem 0.75rem;
+    flex: 1;
+  }
+  .lib-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+  }
+  .lib-row:hover { background: var(--bg); }
+  .lib-row input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    flex: 0 0 auto;
+  }
+  .lib-row label {
+    flex: 1 1 auto;
+    font-size: 13.5px;
+    min-width: 0;
+    overflow-wrap: break-word;
+  }
+  .lib-row .lib-order-btns {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+  .lib-row .lib-order-btns button {
+    border: 1px solid var(--border);
+    background: var(--card);
+    cursor: pointer;
+    font-size: 10px;
+    line-height: 1;
+    padding: 2px 5px;
+    color: var(--text-secondary);
+    border-radius: 4px;
+  }
+  .lib-row .lib-order-btns button:disabled {
+    opacity: 0.3;
+    cursor: default;
+  }
+
   main {
     max-width: 900px;
     margin: 0 auto;
@@ -126,16 +255,62 @@
     border-bottom: 2px solid var(--border);
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
+    cursor: pointer;
+    user-select: none;
   }
   .section-header h2 {
     font-size: 17px;
     font-weight: 600;
     margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
   }
+  .section-header .chevron {
+    display: inline-block;
+    transition: transform 0.15s ease;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+  .section.collapsed .chevron { transform: rotate(-90deg); }
   .section-header .count {
     font-size: 13px;
     color: var(--text-secondary);
   }
+  .section-body { }
+  .section.collapsed .section-body { display: none; }
+
+  .sub-section { margin-bottom: 1.1rem; }
+  .sub-section:last-child { margin-bottom: 0; }
+  .sub-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    cursor: pointer;
+    user-select: none;
+    padding: 0.3rem 0;
+    color: var(--text-secondary);
+  }
+  .sub-section-header h3 {
+    margin: 0;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+  .sub-section-header .chevron {
+    display: inline-block;
+    transition: transform 0.15s ease;
+    font-size: 11px;
+  }
+  .sub-section.collapsed .chevron { transform: rotate(-90deg); }
+  .sub-section .count { font-size: 12px; }
+  .sub-section.collapsed .sub-section-body { display: none; }
+
   .event-card {
     background: var(--card);
     border: 1px solid var(--border);
@@ -255,13 +430,18 @@
 </header>
 
 <div class="controls">
-  <div class="toggle-group" id="viewToggle">
-    <button data-view="date" class="active">Nach Datum</button>
-    <button data-view="library">Nach Bibliothek</button>
+  <div class="controls-left">
+    <div class="toggle-group" id="viewToggle">
+      <button data-view="date" class="active">Nach Datum</button>
+      <button data-view="library">Nach Bibliothek</button>
+    </div>
+    <div class="month-select-wrap">
+      <label for="monthSelect">Monat</label>
+      <select id="monthSelect"></select>
+    </div>
   </div>
-  <div class="month-select-wrap">
-    <label for="monthSelect">Monat</label>
-    <select id="monthSelect"></select>
+  <div class="controls-right">
+    <button class="btn-plain" id="openLibPanel">Bibliotheken ⚙️</button>
   </div>
 </div>
 <p class="month-hint" id="monthHint"></p>
@@ -275,9 +455,39 @@
 
 <footer id="footerText"></footer>
 
+<div class="lib-panel-backdrop" id="libPanelBackdrop"></div>
+<div class="lib-panel" id="libPanel">
+  <div class="lib-panel-header">
+    <h3>Bibliotheken filtern &amp; sortieren</h3>
+    <button class="lib-panel-close" id="closeLibPanel" aria-label="Schließen">✕</button>
+  </div>
+  <div class="lib-panel-actions">
+    <button id="libShowAll">Alle anzeigen</button>
+    <button id="libHideAll">Alle ausblenden</button>
+  </div>
+  <div class="lib-panel-list" id="libPanelList"></div>
+</div>
+
 <script>
 const weekdays = ["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
 const months = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+
+const STORAGE_ORDER = "bibkalender_libOrder";
+const STORAGE_VISIBLE = "bibkalender_libVisible";
+const STORAGE_COLLAPSED = "bibkalender_collapsed";
+
+function loadJSON(key, fallback) {
+  try {
+    const raw = localStorage.getItem(key);
+    if (!raw) return fallback;
+    return JSON.parse(raw);
+  } catch (e) {
+    return fallback;
+  }
+}
+function saveJSON(key, value) {
+  try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) {}
+}
 
 function formatDayHeading(iso) {
   const d = new Date(iso + "T00:00:00");
@@ -305,27 +515,80 @@ function renderEventCard(e, swap) {
 let allEvents = [];
 let currentView = "date";
 let currentMonth = null;
+let libraryNames = [];
+let libraryOrder = [];
+let libraryVisible = {};
+let collapsedKeys = new Set(loadJSON(STORAGE_COLLAPSED, []));
+
 const container = document.getElementById("eventsContainer");
 const toggleButtons = document.querySelectorAll("#viewToggle button");
+
+function persistCollapsed() {
+  saveJSON(STORAGE_COLLAPSED, Array.from(collapsedKeys));
+}
+
+function toggleCollapsed(key) {
+  if (collapsedKeys.has(key)) collapsedKeys.delete(key);
+  else collapsedKeys.add(key);
+  persistCollapsed();
+  render();
+}
 
 function currentEvents() {
   const hideRecurring = document.getElementById("hideRecurring").checked;
   let evts = allEvents.filter(e => e.date.slice(0, 7) === currentMonth);
+  evts = evts.filter(e => libraryVisible[e.library] !== false);
   if (hideRecurring) evts = evts.filter(e => !e.recurring);
   return evts;
 }
 
+function libIndex(name) {
+  const i = libraryOrder.indexOf(name);
+  return i === -1 ? 999 : i;
+}
+
 function renderByDate() {
-  const sorted = [...currentEvents()].sort((a, b) => a.date.localeCompare(b.date) || (a.time||"").localeCompare(b.time||""));
-  if (!sorted.length) return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`;
-  const groups = {};
-  sorted.forEach(e => { (groups[e.date] = groups[e.date] || []).push(e); });
-  return Object.keys(groups).sort().map(date => `
-    <div class="section">
-      <div class="section-header"><h2>${formatDayHeading(date)}</h2><span class="count">${groups[date].length} Veranstaltung${groups[date].length !== 1 ? "en" : ""}</span></div>
-      ${groups[date].map(e => renderEventCard(e, false)).join("")}
-    </div>
-  `).join("");
+  const evts = currentEvents();
+  if (!evts.length) return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`;
+  const dateGroups = {};
+  evts.forEach(e => { (dateGroups[e.date] = dateGroups[e.date] || []).push(e); });
+
+  return Object.keys(dateGroups).sort().map(date => {
+    const dayEvents = dateGroups[date];
+    const sectionKey = `date:${date}`;
+    const sectionCollapsed = collapsedKeys.has(sectionKey);
+
+    const libGroups = {};
+    dayEvents.forEach(e => { (libGroups[e.library] = libGroups[e.library] || []).push(e); });
+    const libNamesForDay = Object.keys(libGroups).sort((a, b) => libIndex(a) - libIndex(b));
+
+    const subSections = libNamesForDay.map(lib => {
+      const subKey = `datelib:${date}:${lib}`;
+      const subCollapsed = collapsedKeys.has(subKey);
+      const sorted = [...libGroups[lib]].sort((a, b) => (a.time||"").localeCompare(b.time||""));
+      return `
+        <div class="sub-section${subCollapsed ? " collapsed" : ""}">
+          <div class="sub-section-header" data-toggle-key="${subKey}">
+            <h3><span class="chevron">▾</span>${lib}</h3>
+            <span class="count">${sorted.length}</span>
+          </div>
+          <div class="sub-section-body">
+            ${sorted.map(e => renderEventCard(e, false)).join("")}
+          </div>
+        </div>
+      `;
+    }).join("");
+
+    return `
+      <div class="section${sectionCollapsed ? " collapsed" : ""}">
+        <div class="section-header" data-toggle-key="${sectionKey}">
+          <h2><span class="chevron">▾</span>${formatDayHeading(date)}</h2>
+          <span class="count">${dayEvents.length} Veranstaltung${dayEvents.length !== 1 ? "en" : ""}</span>
+        </div>
+        <div class="section-body">${subSections}</div>
+      </div>
+    `;
+  }).join("");
 }
 
 function renderByLibrary() {
@@ -333,26 +596,123 @@ function renderByLibrary() {
   if (!evts.length) return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`;
   const groups = {};
   evts.forEach(e => { (groups[e.library] = groups[e.library] || []).push(e); });
-  return Object.keys(groups).sort().map(lib => {
+  const libNames = Object.keys(groups).sort((a, b) => libIndex(a) - libIndex(b));
+
+  return libNames.map(lib => {
+    const sectionKey = `lib:${lib}`;
+    const sectionCollapsed = collapsedKeys.has(sectionKey);
     const sorted = [...groups[lib]].sort((a, b) => a.date.localeCompare(b.date) || (a.time||"").localeCompare(b.time||""));
     return `
-    <div class="section">
-      <div class="section-header"><h2>${lib}</h2><span class="count">${sorted.length} Veranstaltung${sorted.length !== 1 ? "en" : ""}</span></div>
-      ${sorted.map(e => renderEventCard(e, true)).join("")}
+    <div class="section${sectionCollapsed ? " collapsed" : ""}">
+      <div class="section-header" data-toggle-key="${sectionKey}">
+        <h2><span class="chevron">▾</span>${lib}</h2>
+        <span class="count">${sorted.length} Veranstaltung${sorted.length !== 1 ? "en" : ""}</span>
+      </div>
+      <div class="section-body">
+        ${sorted.map(e => renderEventCard(e, true)).join("")}
+      </div>
     </div>
   `;
   }).join("");
 }
 
+function attachToggleHandlers() {
+  container.querySelectorAll("[data-toggle-key]").forEach(el => {
+    el.addEventListener("click", () => toggleCollapsed(el.dataset.toggleKey));
+  });
+}
+
 function render() {
   container.innerHTML = currentView === "library" ? renderByLibrary() : renderByDate();
   toggleButtons.forEach(b => b.classList.toggle("active", b.dataset.view === currentView));
+  attachToggleHandlers();
+  updateLibButtonState();
 }
 
 toggleButtons.forEach(btn => {
   btn.addEventListener("click", () => { currentView = btn.dataset.view; render(); });
 });
 document.getElementById("hideRecurring").addEventListener("change", render);
+
+/* ---- Library filter/order panel ---- */
+const libPanel = document.getElementById("libPanel");
+const libPanelBackdrop = document.getElementById("libPanelBackdrop");
+const libPanelList = document.getElementById("libPanelList");
+
+function openLibPanel() {
+  renderLibPanel();
+  libPanel.classList.add("open");
+  libPanelBackdrop.classList.add("open");
+}
+function closeLibPanel() {
+  libPanel.classList.remove("open");
+  libPanelBackdrop.classList.remove("open");
+}
+document.getElementById("openLibPanel").addEventListener("click", openLibPanel);
+document.getElementById("closeLibPanel").addEventListener("click", closeLibPanel);
+libPanelBackdrop.addEventListener("click", closeLibPanel);
+
+document.getElementById("libShowAll").addEventListener("click", () => {
+  libraryOrder.forEach(l => libraryVisible[l] = true);
+  saveJSON(STORAGE_VISIBLE, libraryVisible);
+  renderLibPanel();
+  render();
+});
+document.getElementById("libHideAll").addEventListener("click", () => {
+  libraryOrder.forEach(l => libraryVisible[l] = false);
+  saveJSON(STORAGE_VISIBLE, libraryVisible);
+  renderLibPanel();
+  render();
+});
+
+function moveLib(name, dir) {
+  const i = libraryOrder.indexOf(name);
+  const j = i + dir;
+  if (i === -1 || j < 0 || j >= libraryOrder.length) return;
+  [libraryOrder[i], libraryOrder[j]] = [libraryOrder[j], libraryOrder[i]];
+  saveJSON(STORAGE_ORDER, libraryOrder);
+  renderLibPanel();
+  render();
+}
+
+function renderLibPanel() {
+  libPanelList.innerHTML = libraryOrder.map((name, i) => {
+    const checked = libraryVisible[name] !== false;
+    const safeId = "lib_" + i;
+    return `
+      <div class="lib-row">
+        <input type="checkbox" id="${safeId}" data-lib="${encodeURIComponent(name)}" ${checked ? "checked" : ""}>
+        <label for="${safeId}">${name}</label>
+        <div class="lib-order-btns">
+          <button data-move="up" data-lib="${encodeURIComponent(name)}" ${i === 0 ? "disabled" : ""}>▲</button>
+          <button data-move="down" data-lib="${encodeURIComponent(name)}" ${i === libraryOrder.length - 1 ? "disabled" : ""}>▼</button>
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  libPanelList.querySelectorAll("input[type=checkbox]").forEach(cb => {
+    cb.addEventListener("change", () => {
+      const name = decodeURIComponent(cb.dataset.lib);
+      libraryVisible[name] = cb.checked;
+      saveJSON(STORAGE_VISIBLE, libraryVisible);
+      render();
+    });
+  });
+  libPanelList.querySelectorAll("button[data-move]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const name = decodeURIComponent(btn.dataset.lib);
+      moveLib(name, btn.dataset.move === "up" ? -1 : 1);
+    });
+  });
+}
+
+function updateLibButtonState() {
+  const hiddenCount = libraryOrder.filter(l => libraryVisible[l] === false).length;
+  const btn = document.getElementById("openLibPanel");
+  btn.classList.toggle("active-filter", hiddenCount > 0);
+  btn.textContent = hiddenCount > 0 ? `Bibliotheken ⚙️ (${hiddenCount} ausgeblendet)` : "Bibliotheken ⚙️";
+}
 
 fetch("events.json?_=" + Date.now())
   .then(r => {
@@ -382,6 +742,22 @@ fetch("events.json?_=" + Date.now())
     document.getElementById("footerText").textContent =
       "Quelle: zentraler Veranstaltungskalender von berlin.de." +
       (missing ? ` Noch nicht zuverlässig erfassbar: ${missing}.` : "");
+
+    /* set up library order/visibility, merging saved prefs with current data */
+    libraryNames = Object.values(data.libraries || {});
+    const savedOrder = loadJSON(STORAGE_ORDER, null);
+    if (savedOrder && Array.isArray(savedOrder)) {
+      libraryOrder = savedOrder.filter(n => libraryNames.includes(n));
+      libraryNames.forEach(n => { if (!libraryOrder.includes(n)) libraryOrder.push(n); });
+    } else {
+      libraryOrder = libraryNames.slice();
+    }
+    saveJSON(STORAGE_ORDER, libraryOrder);
+
+    const savedVisible = loadJSON(STORAGE_VISIBLE, null);
+    libraryVisible = savedVisible && typeof savedVisible === "object" ? savedVisible : {};
+    libraryOrder.forEach(n => { if (!(n in libraryVisible)) libraryVisible[n] = true; });
+    saveJSON(STORAGE_VISIBLE, libraryVisible);
 
     render();
   })
