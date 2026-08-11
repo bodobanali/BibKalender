@@ -20,7 +20,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
-    line-height: 1.6;
+    line-height: 1.45;
   }
   header {
     padding: 2.5rem 1.5rem 1rem;
@@ -79,18 +79,31 @@
     background: var(--accent);
     color: #fff;
   }
-  .search-wrap {
+  .search-row {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0.25rem 1.5rem 0.25rem;
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem;
   }
-  .search-wrap input {
+  .search-row input {
+    flex: 1 1 220px;
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 0.5rem 0.75rem;
     font-size: 14px;
     background: var(--card);
     color: var(--text);
-    min-width: 220px;
+    min-width: 0;
+  }
+  .search-hint {
+    max-width: 900px;
+    margin: 0 auto 0.75rem;
+    padding: 0 1.5rem;
+    font-size: 11.5px;
+    color: var(--text-secondary);
+    opacity: 0.85;
   }
   .btn-plain {
     border: 1px solid var(--border);
@@ -243,25 +256,26 @@
     padding: 0 1.5rem 3rem;
   }
   .section {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
   }
   .section-header {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
     border-bottom: 2px solid var(--border);
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
+    padding-bottom: 0.4rem;
+    margin-bottom: 0.75rem;
     cursor: pointer;
     user-select: none;
   }
   .section-header h2 {
-    font-size: 17px;
+    font-size: 16.5px;
     font-weight: 600;
     margin: 0;
     display: flex;
     align-items: center;
     gap: 0.4rem;
+    line-height: 1.25;
   }
   .section-header .chevron {
     display: inline-block;
@@ -271,12 +285,12 @@
   }
   .section.collapsed .chevron { transform: rotate(-90deg); }
   .section-header .count {
-    font-size: 13px;
+    font-size: 12.5px;
     color: var(--text-secondary);
   }
   .section.collapsed .section-body { display: none; }
 
-  .sub-section { margin-bottom: 1.1rem; }
+  .sub-section { margin-bottom: 0.9rem; }
   .sub-section:last-child { margin-bottom: 0; }
   .sub-section-header {
     display: flex;
@@ -285,18 +299,19 @@
     gap: 0.5rem;
     cursor: pointer;
     user-select: none;
-    padding: 0.3rem 0;
+    padding: 0.25rem 0;
     color: var(--text-secondary);
   }
   .sub-section-header h3 {
     margin: 0;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.02em;
     display: flex;
     align-items: center;
     gap: 0.35rem;
+    line-height: 1.25;
   }
   .sub-section-header .chevron {
     display: inline-block;
@@ -304,17 +319,17 @@
     font-size: 11px;
   }
   .sub-section.collapsed .chevron { transform: rotate(-90deg); }
-  .sub-section .count { font-size: 12px; }
+  .sub-section .count { font-size: 11.5px; }
   .sub-section.collapsed .sub-section-body { display: none; }
 
   .event-card {
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 10px;
-    padding: 0.85rem 1.1rem;
-    margin-bottom: 0.6rem;
+    padding: 0.7rem 0.9rem;
+    margin-bottom: 0.5rem;
     display: flex;
-    gap: 0.9rem;
+    gap: 0.75rem;
     align-items: flex-start;
     text-decoration: none;
     color: inherit;
@@ -325,51 +340,53 @@
   }
   .event-when {
     flex: 0 0 auto;
-    min-width: 92px;
+    min-width: 78px;
     background: var(--accent-bg);
     color: #0c447c;
     border-radius: 8px;
-    padding: 0.5rem 0.6rem;
+    padding: 0.4rem 0.5rem;
     text-align: center;
-    line-height: 1.3;
+    line-height: 1.2;
   }
   .event-when .date {
-    font-size: 12px;
+    font-size: 11.5px;
     font-weight: 600;
     opacity: 0.85;
   }
   .event-when .time {
     font-weight: 700;
-    font-size: 17px;
-    margin-top: 0.15rem;
+    font-size: 16px;
+    margin-top: 0.1rem;
   }
   .event-when.swap .date {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 700;
     opacity: 1;
   }
   .event-when.swap .time {
-    font-size: 12px;
+    font-size: 11.5px;
     font-weight: 600;
     opacity: 0.85;
-    margin-top: 0.15rem;
+    margin-top: 0.1rem;
   }
   .event-body {
     flex: 1 1 auto;
     min-width: 0;
   }
   .event-title {
-    font-size: 15px;
+    font-size: 16.5px;
+    line-height: 1.28;
     font-weight: 600;
     color: var(--text);
-    margin: 0 0 0.4rem;
+    margin: 0 0 0.3rem;
   }
   .event-meta {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 0.4rem;
-    margin: 0 0 0.35rem;
+    gap: 0.35rem;
+    margin: 0 0 0.25rem;
+    line-height: 1.3;
   }
   .library-badge {
     display: inline-block;
@@ -379,6 +396,13 @@
     font-weight: 700;
     border-radius: 6px;
     padding: 0.15rem 0.5rem;
+    cursor: pointer;
+    border: none;
+    font-family: inherit;
+  }
+  .library-badge:hover {
+    background: #f0997b55;
+    text-decoration: underline;
   }
   .recurring-badge {
     display: inline-flex;
@@ -392,17 +416,20 @@
     padding: 0.15rem 0.5rem;
   }
   .location-text {
-    font-size: 13px;
+    font-size: 12.5px;
     color: var(--text-secondary);
+    line-height: 1.3;
   }
   .category-text {
-    font-size: 12px;
+    font-size: 11.5px;
+    line-height: 1.3;
     color: var(--text-secondary);
     opacity: 0.85;
-    margin: 0 0 0.35rem;
+    margin: 0 0 0.25rem;
   }
   .event-desc {
-    font-size: 13.5px;
+    font-size: 13px;
+    line-height: 1.4;
     color: var(--text-secondary);
     margin: 0;
   }
@@ -418,6 +445,24 @@
     padding: 1rem 1.5rem 3rem;
     font-size: 13px;
     color: var(--text-secondary);
+  }
+
+  @media (max-width: 640px) {
+    header { padding: 1.25rem 1rem 0.75rem; }
+    header h1 { font-size: 21px; }
+    header p { font-size: 13.5px; }
+    .note { padding: 0.6rem 0.8rem; font-size: 13px; }
+    .controls, .search-row, .search-hint, .month-hint, .filter-row, main, footer {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+    .section { margin-bottom: 1.5rem; }
+    .event-card { padding: 0.6rem 0.75rem; gap: 0.6rem; margin-bottom: 0.4rem; }
+    .event-when { min-width: 66px; padding: 0.35rem 0.4rem; }
+    .event-when .time { font-size: 15px; }
+    .event-when.swap .date { font-size: 15px; }
+    .event-title { font-size: 16px; }
+    main { padding-bottom: 2rem; }
   }
 </style>
 </head>
@@ -437,9 +482,6 @@
       <button data-view="date" class="active">Nach Datum</button>
       <button data-view="library">Nach Bibliothek</button>
     </div>
-    <div class="search-wrap">
-      <input type="text" id="searchBox" placeholder="Suchen (Titel, Bezirk, Kategorie, Ort …)">
-    </div>
   </div>
   <div class="controls-right">
     <button class="btn-plain" id="expandAll">Alles ausklappen</button>
@@ -447,6 +489,13 @@
     <button class="btn-plain" id="openLibPanel">Bibliotheken ⚙️</button>
   </div>
 </div>
+
+<div class="search-row">
+  <input type="text" id="searchBox" placeholder="Suchen, z.B. kultur,musik (ODER) / kinder ferien (UND)">
+  <input type="text" id="excludeBox" placeholder="Ausschließen, z.B. senioren,vortrag">
+</div>
+<p class="search-hint">Komma = ODER, Leerzeichen = UND. Beispiel: "kultur,musik kinder" zeigt Treffer mit „kultur" ODER (mit „musik" UND „kinder").</p>
+
 <p class="month-hint" id="monthHint"></p>
 
 <div class="filter-row">
@@ -508,6 +557,24 @@ function formatDayHeading(iso) {
   return weekdays[d.getDay()] + ", " + d.getDate() + ". " + months[d.getMonth()] + " " + d.getFullYear();
 }
 
+/* Comma = OR between groups, whitespace = AND within a group. */
+function parseFilterGroups(str) {
+  return (str || "")
+    .split(",")
+    .map(g => g.trim().toLowerCase())
+    .filter(Boolean)
+    .map(g => g.split(/\s+/).filter(Boolean));
+}
+function groupsMatch(haystack, groups) {
+  if (!groups.length) return false;
+  return groups.some(terms => terms.every(t => haystack.includes(t)));
+}
+
+function mapsUrlFor(e) {
+  const q = e.location ? `${e.location}, Berlin` : `${e.library}, Berlin`;
+  return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q);
+}
+
 function renderEventCard(e, swap) {
   const cats = (e.categories || []).join(", ");
   return `<a class="event-card" href="${e.link}" target="_blank" rel="noopener">
@@ -518,7 +585,7 @@ function renderEventCard(e, swap) {
     <div class="event-body">
       <p class="event-title">${e.title}</p>
       <p class="event-meta">
-        <span class="library-badge">${e.library.replace("Stadtbibliothek ", "")}</span>
+        <button type="button" class="library-badge" data-maps-url="${mapsUrlFor(e)}" title="In Google Maps öffnen">${e.library.replace("Stadtbibliothek ", "")}</button>
         ${e.recurring ? `<span class="recurring-badge">wiederkehrend</span>` : ""}
         <span class="location-text">${e.location}</span>
       </p>
@@ -541,6 +608,7 @@ let lastRenderedKeys = [];
 const container = document.getElementById("eventsContainer");
 const toggleButtons = document.querySelectorAll("#viewToggle button");
 const searchBox = document.getElementById("searchBox");
+const excludeBox = document.getElementById("excludeBox");
 
 function persistCollapsed() {
   saveJSON(STORAGE_COLLAPSED, Array.from(collapsedKeys));
@@ -565,8 +633,17 @@ function currentEvents() {
   let evts = allEvents.filter(e => e.date >= rangeStart && e.date <= rangeEnd);
   evts = evts.filter(e => libraryVisible[e.library] !== false);
   if (hideRecurring) evts = evts.filter(e => !e.recurring);
-  const q = searchBox.value.trim().toLowerCase();
-  if (q) evts = evts.filter(e => eventHaystack(e).includes(q));
+
+  const includeGroups = parseFilterGroups(searchBox.value);
+  const excludeGroups = parseFilterGroups(excludeBox.value);
+  if (includeGroups.length || excludeGroups.length) {
+    evts = evts.filter(e => {
+      const hay = eventHaystack(e);
+      if (includeGroups.length && !groupsMatch(hay, includeGroups)) return false;
+      if (excludeGroups.length && groupsMatch(hay, excludeGroups)) return false;
+      return true;
+    });
+  }
   return evts;
 }
 
@@ -659,6 +736,13 @@ function attachToggleHandlers() {
   container.querySelectorAll("[data-toggle-key]").forEach(el => {
     el.addEventListener("click", () => toggleCollapsed(el.dataset.toggleKey));
   });
+  container.querySelectorAll("[data-maps-url]").forEach(el => {
+    el.addEventListener("click", (evt) => {
+      evt.preventDefault();
+      evt.stopPropagation();
+      window.open(el.dataset.mapsUrl, "_blank", "noopener");
+    });
+  });
 }
 
 function render() {
@@ -673,6 +757,7 @@ toggleButtons.forEach(btn => {
 });
 document.getElementById("hideRecurring").addEventListener("change", render);
 searchBox.addEventListener("input", render);
+excludeBox.addEventListener("input", render);
 
 document.getElementById("expandAll").addEventListener("click", () => {
   lastRenderedKeys.forEach(k => collapsedKeys.delete(k));
