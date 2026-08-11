@@ -90,12 +90,19 @@ HEADERS = {
 
 REQUEST_DELAY_SECONDS = 5
 
+# c=22 (the city-wide channel used for all VENUES entries) gets hit far more
+# densely than the 8 district channels -- 17 venues in a row all targeting
+# the same "c" value, vs. one request spread across 8 different channels.
+# berlin.de appears to soft-block that pattern with plain 404s rather than
+# 429s. We treat those as retryable too, and pace c=22 requests slower.
+CITY_WIDE_DELAY_SECONDS = 12
+
 def make_session():
     session = requests.Session()
     retries = Retry(
-        total=2,
-        backoff_factor=5,  # 5s, 10s -- give up quickly rather than stall the whole run
-        status_forcelist=[429, 500, 502, 503, 504],
+        total=3,
+        backoff_factor=6,  # 6s, 12s, 24s -- enough to ride out a transient soft-block
+        status_forcelist=[404, 429, 500, 502, 503, 504],
         respect_retry_after_header=False,  # berlin.de's Retry-After is too short to be useful here
         allowed_methods=["GET", "POST"],
     )
@@ -169,10 +176,17 @@ def parse_events(html, library_name):
     Structure (verified against live HTML, August 2026):
       article.teaser--event
         h3.title > a.js-ems-event-teaser-heading   (title + link)
-        div.teaser__meta .categories a              (category tags, incl. "Regelmäßige Veranstaltung")
+        div.teaser__meta .categories a              (category tags)
         dl.attributes
           dt "Termin:" / dd (span.date, span.time)
           dt "Veranstaltungsort:" / dd (location text, e.g. "X-Bibliothek in Neukölln")
+
+    Note: berlin.de's actual category taxonomy (checked live) has no
+    "regelmäßige Veranstaltung"/recurring tag at all -- events that clearly
+    recur weekly (e.g. a fixed weekly consultation hour) are not marked as
+    such anywhere on the page. So "recurring" can't be detected per-event
+    here; it's determined afterwards in main() by grouping events with the
+    same title+library across the whole scraped window.
     """
     soup = BeautifulSoup(html, "html.parser")
     events = []
@@ -188,7 +202,6 @@ def parse_events(html, library_name):
         full_link = urljoin("https://www.berlin.de/land/kalender/", href)
 
         categories = [a.get_text(strip=True) for a in article.select(".categories a")]
-        recurring = any("regelmäßig" in c.lower() for c in categories)
 
         dl = article.select_one("dl.attributes")
         date_label, time_label, location = None, "", ""
@@ -223,7 +236,7 @@ def parse_events(html, library_name):
             "location": location,
             "desc": "",
             "link": full_link,
-            "recurring": recurring,
+            "recurring": False,  # filled in afterwards, see mark_recurring_events()
             "categories": categories,
         })
 
@@ -246,6 +259,7 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop, venue_
     all_events = []
     offset = 0
     seen_this_run = set()
+    page_delay = CITY_WIDE_DELAY_SECONDS if channel_id == CITY_WIDE_CHANNEL else REQUEST_DELAY_SECONDS
 
     while True:
         try:
@@ -279,11 +293,34 @@ def scrape_library_month(channel_id, library_name, date_start, date_stop, venue_
             break
 
         offset += 10
-        time.sleep(REQUEST_DELAY_SECONDS)
+        time.sleep(page_delay)
         if offset > 5000:
             print(f"  -> Sicherheits-Limit (5000 Termine) erreicht, breche Paginierung ab", file=sys.stderr)
             break
     return all_events
+
+
+TITLE_NORMALIZE_RE = re.compile(r"\s+")
+
+
+def mark_recurring_events(all_events):
+    """berlin.de doesn't flag recurring events on the page itself (see the
+    note in parse_events), so instead we detect them ourselves: any event
+    whose (library, normalized title) combination shows up on 2+ different
+    dates within everything we scraped is considered recurring. This is
+    necessarily a heuristic (a one-off event that happens to share an exact
+    title with an unrelated one-off would be a false positive, and a
+    recurring series that only has a single occurrence left in the scraped
+    window would be a false negative), but it reflects actual observed
+    repetition instead of a category tag that doesn't exist on the site."""
+    groups = {}
+    for e in all_events:
+        key = (e["library"], TITLE_NORMALIZE_RE.sub(" ", e["title"]).strip().lower())
+        groups.setdefault(key, set()).add(e["date"])
+
+    for e in all_events:
+        key = (e["library"], TITLE_NORMALIZE_RE.sub(" ", e["title"]).strip().lower())
+        e["recurring"] = len(groups[key]) > 1
 
 
 def main():
@@ -323,7 +360,9 @@ def main():
                 all_events.extend(events)
             except Exception as exc:
                 print(f"Fehler bei {venue_name} ({month_str}): {exc}", file=sys.stderr)
-            time.sleep(3)
+            time.sleep(CITY_WIDE_DELAY_SECONDS)
+
+    mark_recurring_events(all_events)
 
     month_strs = [f"{y:04d}-{m:02d}" for y, m in months]
     month_labels = {f"{y:04d}-{m:02d}": f"{MONTH_LABELS_DE[m]} {y}" for y, m in months}
