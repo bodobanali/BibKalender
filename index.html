@@ -58,7 +58,7 @@
   .controls-left, .controls-right {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.75rem;
+    gap: 0.5rem;
     align-items: center;
   }
   .toggle-group {
@@ -79,34 +79,31 @@
     background: var(--accent);
     color: #fff;
   }
-  .month-select-wrap {
+  .search-wrap {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
   }
-  .month-select-wrap label {
-    font-size: 13px;
-    color: var(--text-secondary);
-  }
-  select {
+  .search-wrap input {
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 0.5rem 0.75rem;
     font-size: 14px;
     background: var(--card);
     color: var(--text);
+    min-width: 220px;
   }
   .btn-plain {
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 0.5rem 0.9rem;
-    font-size: 14px;
+    font-size: 13.5px;
     background: var(--card);
     color: var(--text);
     cursor: pointer;
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
+    white-space: nowrap;
   }
   .btn-plain:hover { border-color: var(--accent); }
   .btn-plain.active-filter {
@@ -277,7 +274,6 @@
     font-size: 13px;
     color: var(--text-secondary);
   }
-  .section-body { }
   .section.collapsed .section-body { display: none; }
 
   .sub-section { margin-bottom: 1.1rem; }
@@ -399,6 +395,12 @@
     font-size: 13px;
     color: var(--text-secondary);
   }
+  .category-text {
+    font-size: 12px;
+    color: var(--text-secondary);
+    opacity: 0.85;
+    margin: 0 0 0.35rem;
+  }
   .event-desc {
     font-size: 13.5px;
     color: var(--text-secondary);
@@ -435,12 +437,13 @@
       <button data-view="date" class="active">Nach Datum</button>
       <button data-view="library">Nach Bibliothek</button>
     </div>
-    <div class="month-select-wrap">
-      <label for="monthSelect">Monat</label>
-      <select id="monthSelect"></select>
+    <div class="search-wrap">
+      <input type="text" id="searchBox" placeholder="Suchen (Titel, Bezirk, Kategorie, Ort …)">
     </div>
   </div>
   <div class="controls-right">
+    <button class="btn-plain" id="expandAll">Alles ausklappen</button>
+    <button class="btn-plain" id="collapseAll">Alles einklappen</button>
     <button class="btn-plain" id="openLibPanel">Bibliotheken ⚙️</button>
   </div>
 </div>
@@ -471,6 +474,7 @@
 <script>
 const weekdays = ["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"];
 const months = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+const ROLLING_DAYS = 30;
 
 const STORAGE_ORDER = "bibkalender_libOrder";
 const STORAGE_VISIBLE = "bibkalender_libVisible";
@@ -489,12 +493,23 @@ function saveJSON(key, value) {
   try { localStorage.setItem(key, JSON.stringify(value)); } catch (e) {}
 }
 
+function todayISO() {
+  const d = new Date();
+  return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
+}
+function addDaysISO(iso, days) {
+  const d = new Date(iso + "T00:00:00");
+  d.setDate(d.getDate() + days);
+  return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") + "-" + String(d.getDate()).padStart(2,"0");
+}
+
 function formatDayHeading(iso) {
   const d = new Date(iso + "T00:00:00");
   return weekdays[d.getDay()] + ", " + d.getDate() + ". " + months[d.getMonth()] + " " + d.getFullYear();
 }
 
 function renderEventCard(e, swap) {
+  const cats = (e.categories || []).join(", ");
   return `<a class="event-card" href="${e.link}" target="_blank" rel="noopener">
     <div class="event-when${swap ? " swap" : ""}">
       <div class="date">${e.dateLabel}</div>
@@ -507,6 +522,7 @@ function renderEventCard(e, swap) {
         ${e.recurring ? `<span class="recurring-badge">wiederkehrend</span>` : ""}
         <span class="location-text">${e.location}</span>
       </p>
+      ${cats ? `<p class="category-text">Kategorien: ${cats}</p>` : ""}
       ${e.desc ? `<p class="event-desc">${e.desc}</p>` : ""}
     </div>
   </a>`;
@@ -514,14 +530,17 @@ function renderEventCard(e, swap) {
 
 let allEvents = [];
 let currentView = "date";
-let currentMonth = null;
+let rangeStart = todayISO();
+let rangeEnd = addDaysISO(rangeStart, ROLLING_DAYS - 1);
 let libraryNames = [];
 let libraryOrder = [];
 let libraryVisible = {};
 let collapsedKeys = new Set(loadJSON(STORAGE_COLLAPSED, []));
+let lastRenderedKeys = [];
 
 const container = document.getElementById("eventsContainer");
 const toggleButtons = document.querySelectorAll("#viewToggle button");
+const searchBox = document.getElementById("searchBox");
 
 function persistCollapsed() {
   saveJSON(STORAGE_COLLAPSED, Array.from(collapsedKeys));
@@ -534,11 +553,20 @@ function toggleCollapsed(key) {
   render();
 }
 
+function eventHaystack(e) {
+  return [
+    e.title, e.library, e.location, e.dateLabel, e.time,
+    (e.categories || []).join(" ")
+  ].join(" ").toLowerCase();
+}
+
 function currentEvents() {
   const hideRecurring = document.getElementById("hideRecurring").checked;
-  let evts = allEvents.filter(e => e.date.slice(0, 7) === currentMonth);
+  let evts = allEvents.filter(e => e.date >= rangeStart && e.date <= rangeEnd);
   evts = evts.filter(e => libraryVisible[e.library] !== false);
   if (hideRecurring) evts = evts.filter(e => !e.recurring);
+  const q = searchBox.value.trim().toLowerCase();
+  if (q) evts = evts.filter(e => eventHaystack(e).includes(q));
   return evts;
 }
 
@@ -549,13 +577,15 @@ function libIndex(name) {
 
 function renderByDate() {
   const evts = currentEvents();
-  if (!evts.length) return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`;
+  const keys = [];
+  if (!evts.length) { lastRenderedKeys = keys; return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`; }
   const dateGroups = {};
   evts.forEach(e => { (dateGroups[e.date] = dateGroups[e.date] || []).push(e); });
 
-  return Object.keys(dateGroups).sort().map(date => {
+  const html = Object.keys(dateGroups).sort().map(date => {
     const dayEvents = dateGroups[date];
     const sectionKey = `date:${date}`;
+    keys.push(sectionKey);
     const sectionCollapsed = collapsedKeys.has(sectionKey);
 
     const libGroups = {};
@@ -564,6 +594,7 @@ function renderByDate() {
 
     const subSections = libNamesForDay.map(lib => {
       const subKey = `datelib:${date}:${lib}`;
+      keys.push(subKey);
       const subCollapsed = collapsedKeys.has(subKey);
       const sorted = [...libGroups[lib]].sort((a, b) => (a.time||"").localeCompare(b.time||""));
       return `
@@ -589,17 +620,22 @@ function renderByDate() {
       </div>
     `;
   }).join("");
+
+  lastRenderedKeys = keys;
+  return html;
 }
 
 function renderByLibrary() {
   const evts = currentEvents();
-  if (!evts.length) return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`;
+  const keys = [];
+  if (!evts.length) { lastRenderedKeys = keys; return `<p class="state-msg">Keine Veranstaltungen für diese Auswahl.</p>`; }
   const groups = {};
   evts.forEach(e => { (groups[e.library] = groups[e.library] || []).push(e); });
   const libNames = Object.keys(groups).sort((a, b) => libIndex(a) - libIndex(b));
 
-  return libNames.map(lib => {
+  const html = libNames.map(lib => {
     const sectionKey = `lib:${lib}`;
+    keys.push(sectionKey);
     const sectionCollapsed = collapsedKeys.has(sectionKey);
     const sorted = [...groups[lib]].sort((a, b) => a.date.localeCompare(b.date) || (a.time||"").localeCompare(b.time||""));
     return `
@@ -614,6 +650,9 @@ function renderByLibrary() {
     </div>
   `;
   }).join("");
+
+  lastRenderedKeys = keys;
+  return html;
 }
 
 function attachToggleHandlers() {
@@ -633,6 +672,18 @@ toggleButtons.forEach(btn => {
   btn.addEventListener("click", () => { currentView = btn.dataset.view; render(); });
 });
 document.getElementById("hideRecurring").addEventListener("change", render);
+searchBox.addEventListener("input", render);
+
+document.getElementById("expandAll").addEventListener("click", () => {
+  lastRenderedKeys.forEach(k => collapsedKeys.delete(k));
+  persistCollapsed();
+  render();
+});
+document.getElementById("collapseAll").addEventListener("click", () => {
+  lastRenderedKeys.forEach(k => collapsedKeys.add(k));
+  persistCollapsed();
+  render();
+});
 
 /* ---- Library filter/order panel ---- */
 const libPanel = document.getElementById("libPanel");
@@ -727,16 +778,10 @@ fetch("events.json?_=" + Date.now())
 
     const monthsCovered = data.monthsCovered || (data.month ? [data.month] : []);
     const monthLabels = data.monthLabels || (data.month ? {[data.month]: data.monthLabel} : {});
-    currentMonth = data.defaultMonth || monthsCovered[0];
-
-    const select = document.getElementById("monthSelect");
-    select.innerHTML = monthsCovered.map(m =>
-      `<option value="${m}"${m === currentMonth ? " selected" : ""}>${monthLabels[m] || m}</option>`
-    ).join("");
-    select.addEventListener("change", () => { currentMonth = select.value; render(); });
 
     document.getElementById("monthHint").textContent =
-      `Automatisch aktuell gehalten für: ${monthsCovered.map(m => monthLabels[m] || m).join(", ")}.`;
+      `Zeigt die nächsten ${ROLLING_DAYS} Tage (${formatDayHeading(rangeStart)} bis ${formatDayHeading(rangeEnd)}). ` +
+      `Serverseitig aktuell gehalten für: ${monthsCovered.map(m => monthLabels[m] || m).join(", ")}.`;
 
     const missing = (data.unsupportedLibraries || []).join(", ");
     document.getElementById("footerText").textContent =

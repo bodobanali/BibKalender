@@ -166,6 +166,7 @@ def parse_events(html, library_name):
             "desc": "",
             "link": full_link,
             "recurring": recurring,
+            "categories": categories,
         })
 
     return events
