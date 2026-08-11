@@ -40,12 +40,15 @@ LIBRARIES = {
     "4": "Stadtbibliothek Charlottenburg-Wilmersdorf",
 }
 
-UNSUPPORTED_LIBRARIES = [
-    "Stadtbibliothek Friedrichshain-Kreuzberg",
-    "Stadtbibliothek Lichtenberg",
-    "Stadtbibliothek Spandau",
-    "Stadtbibliothek Treptow-Köpenick",
-]
+# Friedrichshain-Kreuzberg, Lichtenberg, Spandau and Treptow-Köpenick don't
+# have their own district-wide "c" channel, so unlike the 8 LIBRARIES above
+# we can't scrape "everything that district's library system publishes" in
+# one request. Every branch of theirs that berlin.de lists with "Bibliothek"
+# (or the "Bücherei" synonym) in its venue name is covered individually via
+# VENUES below instead. The only real gap: if berlin.de ever adds a new
+# branch in one of these 4 districts whose venue name doesn't contain either
+# word, it would be invisible to us until manually added to VENUES.
+UNSUPPORTED_LIBRARIES = []
 
 # Some libraries aren't tied to any district's own "c" channel (e.g. the ZLB,
 # Berlin's central state library, or branch libraries in districts without
@@ -59,7 +62,11 @@ UNSUPPORTED_LIBRARIES = [
 # venue with "Bibliothek" in its name ends up scraped. Some venues have two
 # near-duplicate entries in berlin.de's own database (e.g. old vs. current
 # record for the same physical library) -- both ids are kept so no stray
-# events are missed.
+# events are missed. One venue (id 50574) is a data-entry typo on berlin.de's
+# side ("Bibliohek" instead of "Bibliothek") and so wouldn't match the
+# "Bibliothek" text filter at all -- found by also checking for "Bücherei"
+# (the German synonym) and manually confirming it's a distinct venue id, not
+# covered by the Tempelhof-Schöneberg channel.
 VENUES = {
     "53820": "Amerika-Gedenkbibliothek (ZLB)",
     "41945": "Amerika-Gedenkbibliothek (ZLB)",
@@ -78,6 +85,7 @@ VENUES = {
     "44345": "Stadtteilbibliothek Heerstraße (Spandau)",
     "41106": "Mittelpunktbibliothek Köpenick (Treptow-Köpenick)",
     "44054": "Bibliothek Heinrich-von-Kleist (Marzahn-Hellersdorf)",
+    "50574": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
 }
 CITY_WIDE_CHANNEL = "22"
 
