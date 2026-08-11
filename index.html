@@ -874,7 +874,7 @@ fetch("events.json?_=" + Date.now())
       (missing ? ` Noch nicht zuverlässig erfassbar: ${missing}.` : "");
 
     /* set up library order/visibility, merging saved prefs with current data */
-    libraryNames = Object.values(data.libraries || {});
+    libraryNames = Array.from(new Set(Object.values(data.libraries || {})));
     const savedOrder = loadJSON(STORAGE_ORDER, null);
     if (savedOrder && Array.isArray(savedOrder)) {
       libraryOrder = savedOrder.filter(n => libraryNames.includes(n));

@@ -48,12 +48,36 @@ UNSUPPORTED_LIBRARIES = [
 ]
 
 # Some libraries aren't tied to any district's own "c" channel (e.g. the ZLB,
-# Berlin's central state library) and only show up in the city-wide calendar
-# (c=22), filterable by "Veranstaltungsort" (v_ort). Found via the site's own
-# venue dropdown (option value = venue id).
+# Berlin's central state library, or branch libraries in districts without
+# their own channel) and only show up in the city-wide calendar (c=22),
+# filterable by "Veranstaltungsort" (v_ort).
+#
+# Found by diffing berlin.de's full v_ort venue dropdown (all venues whose
+# name contains "Bibliothek") against the v_ort dropdowns scoped to each of
+# the 8 district channels above -- any "Bibliothek" venue not already
+# reachable through one of those 8 channels is listed here, so that every
+# venue with "Bibliothek" in its name ends up scraped. Some venues have two
+# near-duplicate entries in berlin.de's own database (e.g. old vs. current
+# record for the same physical library) -- both ids are kept so no stray
+# events are missed.
 VENUES = {
+    "53820": "Amerika-Gedenkbibliothek (ZLB)",
     "41945": "Amerika-Gedenkbibliothek (ZLB)",
     "47797": "Berliner Stadtbibliothek (ZLB)",
+    "36866": "Anna-Seghers-Bibliothek (Lichtenberg)",
+    "38116": "Anton-Saefkow-Bibliothek (Lichtenberg)",
+    "38118": "Bodo-Uhse-Bibliothek (Lichtenberg)",
+    "38117": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
+    "41142": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
+    "41959": "Pablo-Neruda-Bibliothek (Friedrichshain-Kreuzberg)",
+    "55918": "Familienbibliothek Else Ury (Friedrichshain-Kreuzberg)",
+    "41820": "Mittelpunktbibliothek Adalbertstraße (Friedrichshain-Kreuzberg)",
+    "49568": "Stadtteilbibliothek Friedrich von Raumer (Friedrichshain-Kreuzberg)",
+    "23977": "Stadtbibliothek Spandau (Spandau)",
+    "43859": "Stadtteilbibliothek Falkenhagener Feld (Spandau)",
+    "44345": "Stadtteilbibliothek Heerstraße (Spandau)",
+    "41106": "Mittelpunktbibliothek Köpenick (Treptow-Köpenick)",
+    "44054": "Bibliothek Heinrich-von-Kleist (Marzahn-Hellersdorf)",
 }
 CITY_WIDE_CHANNEL = "22"
 
@@ -100,19 +124,30 @@ def fmt(d):
     return d.strftime("%d.%m.%Y")
 
 
-def submit_search(channel_id, date_start, date_stop, venue_id=None):
-    """Establishes the date-filtered search via POST, exactly like the real
-    search form on berlin.de does. berlin.de silently ignores date_start/
-    date_stop when they're sent as GET query params for dates outside a
-    short near-term window -- the actual site form submits them as a POST
-    body to index.php?suchmaske&c=<id>, and the server then remembers the
-    filter for the session (cookie-based) so subsequent GET pagination
-    requests stay filtered. Returns the first results page (ls=0).
+def submit_search(channel_id, date_start, date_stop, venue_id=None, offset=0):
+    """Fetches one results page via POST, exactly like the real search form
+    on berlin.de does. berlin.de silently ignores date_start/date_stop when
+    they're sent as GET query params for dates outside a short near-term
+    window -- the actual site form submits them as a POST body to
+    index.php?suchmaske&c=<id>.
+
+    Originally we POSTed once (page 0) and then paginated with plain GET
+    requests, relying on berlin.de to remember the filter for the session
+    (cookie-based). In practice that session-based filter is unreliable and
+    silently resets after a couple dozen pages, causing unfiltered/out-of-
+    range results to leak in and pagination to be aborted early -- missing
+    real events. Re-POSTing the full filter (including date range) on
+    *every* page, with the pagination offset passed as "ls" in the URL,
+    keeps the filter reliably applied on every single request and avoids
+    that drift entirely (verified live: page ls=0/100/200 all stayed
+    correctly within the requested date range).
 
     If venue_id is given, also filters to that specific "Veranstaltungsort"
     (used for libraries that don't have their own district channel, e.g.
     the ZLB, and only show up in the city-wide channel c=22)."""
     url = f"{BASE}?suchmaske&c={channel_id}"
+    if offset:
+        url += f"&ls={offset}"
     data = {
         "date_start": fmt(date_start),
         "date_stop": fmt(date_stop),
@@ -121,15 +156,6 @@ def submit_search(channel_id, date_start, date_stop, venue_id=None):
     if venue_id:
         data["v_ort"] = venue_id
     resp = SESSION.post(url, data=data, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
-    return resp.text
-
-
-def fetch_page(channel_id, offset):
-    """Fetches a pagination page within the currently active session search
-    (set up beforehand via submit_search)."""
-    params = {"c": channel_id, "ls": offset}
-    resp = SESSION.get(BASE, params=params, headers=HEADERS, timeout=30)
     resp.raise_for_status()
     return resp.text
 
@@ -205,57 +231,57 @@ def parse_events(html, library_name):
 
 
 def scrape_library_month(channel_id, library_name, date_start, date_stop, venue_id=None):
-    """Paginates through results. If a page fails (e.g. berlin.de blocks us
-    mid-way), keeps whatever events were already collected instead of
-    discarding the whole library's results.
+    """Paginates through results, re-POSTing the full date filter on every
+    single page (see submit_search) so the filter can't silently drift or
+    reset mid-way through pagination like it did with GET-based pagination.
 
-    The date filter is set up via a POST request (submit_search), exactly
-    like the real search form -- berlin.de silently ignores date_start/
-    date_stop when sent as plain GET query params for dates outside a
-    short near-term window. After the POST, the server remembers the
-    filter for the session, so plain GET pagination (ls=...) stays
-    filtered correctly. As an extra safety net, we still stop if a page
-    ever returns events outside the requested date range."""
+    Any event that still comes back outside the requested range on a given
+    page is simply dropped (not treated as a reason to abort) -- since the
+    filter is freshly re-applied every request, an occasional stray
+    out-of-range event is far more likely a berlin.de data quirk on that
+    one page than a systemic filter loss, so we keep paginating instead of
+    giving up and losing real in-range events on later pages. Pagination
+    stops once a page yields no new in-range events, or after a generous
+    safety cap to avoid ever looping forever."""
     all_events = []
     offset = 0
     seen_this_run = set()
 
-    try:
-        html = submit_search(channel_id, date_start, date_stop, venue_id=venue_id)
-    except Exception as exc:
-        print(f"  -> Suche konnte nicht gestartet werden ({exc})", file=sys.stderr)
-        return all_events
-
     while True:
-        if offset > 0:
-            try:
-                html = fetch_page(channel_id, offset)
-            except Exception as exc:
-                print(f"  -> Abbruch bei Seite ls={offset} ({exc}); "
-                      f"behalte {len(all_events)} bereits gefundene Termine", file=sys.stderr)
-                break
+        try:
+            html = submit_search(channel_id, date_start, date_stop, venue_id=venue_id, offset=offset)
+        except Exception as exc:
+            print(f"  -> Abbruch bei Seite ls={offset} ({exc}); "
+                  f"behalte {len(all_events)} bereits gefundene Termine", file=sys.stderr)
+            break
+
         page_events = parse_events(html, library_name)
         new_events = [e for e in page_events if e["link"] not in seen_this_run]
         if not new_events:
             break
 
-        out_of_range = [
+        in_range = [
             e for e in new_events
-            if not (date_start <= datetime.strptime(e["dateLabel"], "%d.%m.%Y") <= date_stop)
+            if date_start <= datetime.strptime(e["dateLabel"], "%d.%m.%Y") <= date_stop
         ]
-        if out_of_range:
-            print(f"  -> Datumsfilter offenbar verloren bei ls={offset} "
-                  f"(z.B. {out_of_range[0]['dateLabel']} außerhalb {fmt(date_start)}-{fmt(date_stop)}); "
-                  f"breche Paginierung ab, behalte {len(all_events)} Termine", file=sys.stderr)
-            break
+        out_of_range_count = len(new_events) - len(in_range)
+        if out_of_range_count:
+            print(f"  -> {out_of_range_count} Termin(e) außerhalb {fmt(date_start)}-{fmt(date_stop)} "
+                  f"bei ls={offset} ignoriert", file=sys.stderr)
 
         for e in new_events:
             seen_this_run.add(e["link"])
-        all_events.extend(new_events)
+        all_events.extend(in_range)
+
+        if not in_range:
+            # A page with only out-of-range events means we've reached the
+            # end of the real results for this range.
+            break
+
         offset += 10
         time.sleep(REQUEST_DELAY_SECONDS)
-        if offset > 500:
-            print(f"  -> Sicherheits-Limit (500 Termine) erreicht, breche Paginierung ab", file=sys.stderr)
+        if offset > 1000:
+            print(f"  -> Sicherheits-Limit (1000 Termine) erreicht, breche Paginierung ab", file=sys.stderr)
             break
     return all_events
 
