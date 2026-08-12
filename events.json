@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T13:21:32.157753+00:00",
+  "generatedAt": "2026-08-12T07:06:55.048902+00:00",
   "monthsCovered": [
     "2026-08",
     "2026-09"
@@ -1138,7 +1138,7 @@
       ]
     },
     {
-      "title": "Livestream-Lesung Texte von Lars A. Cramer, gelesen von den Synchronsprecher*innen Giuliana Jakobeit & Konrad Bösherz",
+      "title": "Livestream-Lesung in der Bibliothek und auf Instagram mit Texten von Lars A. Cramer, gelesen von den Synchronsprecher*innen Giuliana Jakobeit & Konrad Bösherz",
       "date": "2026-08-19",
       "dateLabel": "19.08.2026",
       "time": "18:30",
@@ -5791,6 +5791,21 @@
       ]
     },
     {
+      "title": "Spiele-Nachmittag für Erwachsene",
+      "date": "2026-08-11",
+      "dateLabel": "11.08.2026",
+      "time": "17:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=10&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
       "title": "Dialog in Deutsch",
       "date": "2026-08-11",
       "dateLabel": "11.08.2026",
@@ -5936,7 +5951,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267133&ls=10&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267133&ls=20&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -5984,7 +5999,7 @@
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=254515&ls=20&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Lesungen, Vorträge",
         "Senioren",
@@ -6091,7 +6106,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281644&ls=20&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=281644&ls=30&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -6247,7 +6262,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283291&ls=30&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283291&ls=40&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -6389,7 +6404,7 @@
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=270265&ls=40&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Lesungen, Vorträge",
         "Kunst, Kultur",
@@ -6404,7 +6419,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282496&ls=40&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282496&ls=50&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -6556,8 +6571,8 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=278512&ls=50&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=278512&ls=60&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
       "categories": [
         "Feste, Events",
         "Kinder, Jugendliche",
@@ -6710,10 +6725,25 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=60&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Spiele-Nachmittag für Erwachsene",
+      "date": "2026-08-18",
+      "dateLabel": "18.08.2026",
+      "time": "17:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
         "Regelmäßige Veranstaltung"
       ]
     },
@@ -6780,6 +6810,23 @@
       ]
     },
     {
+      "title": "„Zack-Bumm-Fertig!! Dein eigener Comic“ - Workshop",
+      "date": "2026-08-19",
+      "dateLabel": "19.08.2026",
+      "time": "14:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288839&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Highlight"
+      ]
+    },
+    {
       "title": "Podcasting-Studio – MakerSpace",
       "date": "2026-08-19",
       "dateLabel": "19.08.2026",
@@ -6832,7 +6879,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271210&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271210&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -6847,7 +6894,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -6862,7 +6909,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=70&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -6985,7 +7032,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283972&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283972&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -7002,7 +7049,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7017,7 +7064,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283747&ls=80&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283747&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Frauen",
@@ -7142,7 +7189,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286588&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286588&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -7157,7 +7204,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -7172,7 +7219,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283378&ls=90&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283378&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -7298,7 +7345,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -7313,7 +7360,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7328,7 +7375,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=100&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -7454,8 +7501,8 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=264364&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=264364&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
       "categories": [
         "Feste, Events",
         "Kinder, Jugendliche",
@@ -7471,7 +7518,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -7486,7 +7533,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=110&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -7604,6 +7651,21 @@
       ]
     },
     {
+      "title": "Spiele-Nachmittag für Erwachsene",
+      "date": "2026-08-25",
+      "dateLabel": "25.08.2026",
+      "time": "17:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
       "title": "Dialog in Deutsch",
       "date": "2026-08-25",
       "dateLabel": "25.08.2026",
@@ -7611,7 +7673,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -7627,7 +7689,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7642,7 +7704,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=120&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -7752,7 +7814,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -7767,7 +7829,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272770&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272770&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -7782,7 +7844,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7797,7 +7859,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=130&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7904,8 +7966,8 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245992&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=245992&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Freizeit, Sport",
@@ -7920,7 +7982,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7935,7 +7997,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7950,7 +8012,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284881&ls=140&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284881&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -8057,7 +8119,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284527&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284527&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -8072,7 +8134,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -8087,7 +8149,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284152&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284152&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -8104,7 +8166,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242020&ls=150&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242020&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -8181,7 +8243,7 @@
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Gesundheit, Umwelt",
         "Regelmäßige Veranstaltung"
@@ -8196,7 +8258,7 @@
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=246874&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Infoveranstaltungen",
         "Regelmäßige Veranstaltung"
@@ -8210,7 +8272,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -8226,7 +8288,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282502&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282502&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -8242,7 +8304,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Tanz, Theater",
@@ -8257,7 +8319,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Sommergarten Filmtheater am Friedrichshainin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288077&ls=160&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288077&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -8364,7 +8426,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=180&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -8379,7 +8441,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271162&ls=170&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271162&ls=180&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt",
@@ -26031,7 +26093,7 @@
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=285508&ls=50&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Kunst, Kultur",
@@ -26219,7 +26281,7 @@
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=60&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
+      "recurring": true,
       "categories": [
         "Feste, Events",
         "Kinder, Jugendliche",
@@ -27576,6 +27638,1984 @@
       ]
     },
     {
+      "title": "Online Buchklub - Zu Hause und doch dabei",
+      "date": "2026-09-16",
+      "dateLabel": "16.09.2026",
+      "time": "18:30–20:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=254515&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Senioren",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Eltern-Kind-Treff",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "10:00–11:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Erzähltheater auf dem Spielplatz",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Deutschkurs mit Iduna",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242158&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Stille Stunde",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "12:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283369&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Family & Friends Gaming in der Bibliothek",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "13:00–16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Archipel der Stimmen (Siebdruck Workshop)",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "14:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=281644&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Frauen",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Literaturcafé",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288791&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Kunst, Kultur",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "LEGO-Nachmittag",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "15:00–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270280&ls=150&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bastelnachmittag",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241717&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kamishibai",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Lesemäuse: Geschichtenzeit für Kinder",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Schach für alle!",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253702&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino am Nachmittag",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "16:30–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275293&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU: Der True-Crime-Talk und Lesekreis",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "17:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284836&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Lesungen, Vorträge",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Voice Acting - Lebendiger vorlesen",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "18:00–21:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288008&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Bildung, Schule",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Queer-Thursday: Queeres Musizieren",
+      "date": "2026-09-17",
+      "dateLabel": "17.09.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288650&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Lerntandem - Nachhilfe für 1. & 2. Klasse",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "09:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=263467&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "10:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=160&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kamishibai auf dem Hühnerspielplatz",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284527&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "13:00–16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Jeden 2. Freitag: Coding mit OSMO",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268666&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Stille Stunde",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "18:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "WAT KIEKSTE? Musiktheater mit Liedern aus dem Berlin der 20er und 30er Jahre",
+      "date": "2026-09-18",
+      "dateLabel": "18.09.2026",
+      "time": "19:00–21:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=281953&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "3D-Druck Workshop",
+      "date": "2026-09-19",
+      "dateLabel": "19.09.2026",
+      "time": "11:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279670&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Stadt-Land-Spielt!",
+      "date": "2026-09-19",
+      "dateLabel": "19.09.2026",
+      "time": "11:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288422&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Basteln mit Daniela",
+      "date": "2026-09-19",
+      "dateLabel": "19.09.2026",
+      "time": "11:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285508&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Pokemon Tausch Samstag",
+      "date": "2026-09-19",
+      "dateLabel": "19.09.2026",
+      "time": "12:30–14:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=170&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Banned Book Club",
+      "date": "2026-09-19",
+      "dateLabel": "19.09.2026",
+      "time": "13:00–14:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270265&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "DigiQuest",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Sprachcafé für Frauen",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Frauen",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Family & Friends Gaming in der Bibliothek",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "13:00–16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Neu! Montags-Spielrunde",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279082&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Familienexkursion rund um den Wasserturm: Von oben. Von unten. Und dazwischen fließt das Wasser.",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "16:30–17:15",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287485&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Gesundheit, Umwelt",
+        "Spaziergänge, Ausflüge",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Kamishibai Erzähltheater",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241924&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Lesungen, Vorträge",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=180&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Pokémon-Tauschbörse für Kinder und Jugendliche",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "17:30–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=278512&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "10:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Erzähltheater auf dem Spielplatz",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Frauen Workshops",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Frauen",
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "13:00–15:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Geschichten-Kiste",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270517&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Sprachcafé",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bibliotheksnachmittag für die Kleinsten",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "16:15",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=190&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Spiele-Nachmittag für Erwachsene",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "17:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Lesung mit Bianca Schaalburg",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "19:00–22:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288011&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Dialog in Deutsch",
+      "date": "2026-09-22",
+      "dateLabel": "22.09.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Krabbelgruppe",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "09:30–11:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Gamingnachmittag (Nintendo Switch)",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "13:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "15:30–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "DIY MitMachMittwoch: Steine bemalen",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287845&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Herbst-Girlande basteln",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:00–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286444&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Repair-Café",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267133&ls=200&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Workshop: Trinkwasser - Der Wasserkreislauf und lecker Leitungswasser das ganze Jahr",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:30–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286234&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Gesundheit, Umwelt",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Sprachcafé",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "16:30–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270439&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Geselliger Tanz mit dem Tanzleiter Ronald Kosellek",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "17:00–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241720&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Tanz, Theater",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Frauenkörper neu gesehen - Buchvorstellung und Gespräch",
+      "date": "2026-09-23",
+      "dateLabel": "23.09.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=280114&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Eltern-Kind-Treff",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "10:00–11:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Erzähltheater auf dem Spielplatz",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Deutschkurs mit Iduna",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242158&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Stille Stunde",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "12:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283369&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Family & Friends Gaming in der Bibliothek",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=210&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "13:00–16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "LEGO-Nachmittag",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "15:00–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270280&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Codingnachmittag",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=245992&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kamishibai",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276415&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Lesemäuse: Geschichtenzeit für Kinder",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Workshop: Slutshaming Kontrolle, Macht, Beschämung & Doppelmoral",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "16:30–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283753&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Frauen",
+        "Infoveranstaltungen",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino am Nachmittag",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "16:30–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275293&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Queer Thursday: Filmvorführung",
+      "date": "2026-09-24",
+      "dateLabel": "24.09.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288653&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Lerntandem - Nachhilfe für 1. & 2. Klasse",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "09:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=263467&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "10:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=220&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kamishibai auf dem Hühnerspielplatz",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284527&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "13:00–16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "\"Als Ela das All eroberte\" | Eine Lesung mit Adina Hermann und Raúl Krauthausen",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276796&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "Komm spielen: Lego education",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242020&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Stille Stunde",
+      "date": "2026-09-25",
+      "dateLabel": "25.09.2026",
+      "time": "18:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Im Märchen versteckt - Malen in der Bibliothek",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286567&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Theater mit Schatten und Licht - „Kleine Raupe zieht hinaus“",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "11:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288524&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Tanz, Theater",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Zuhör-Pop-up Aktionen",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Gesundheit, Umwelt",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "3D-Druck – MakerSpace",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "11:30–14:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246874&ls=230&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Pokemon Tausch Samstag",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "12:30–14:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Volkstanz",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Tanz, Theater",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Upcycling-Basteln: Meereswelten aus alten Büchern und Zeitungen",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "15:30–16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285127&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Gesundheit, Umwelt",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Manga Workshop",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "16:00–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282697&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Philosophische Teestube",
+      "date": "2026-09-27",
+      "dateLabel": "27.09.2026",
+      "time": "15:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285190&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Gesundheit, Umwelt",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "DigiQuest",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Sprachcafé für Frauen",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Frauen",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Family & Friends Gaming in der Bibliothek",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "13:00–16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=240&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Mitmach-Nachmittag  mit Tante Milli Tausendgrün",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288521&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kompostwürmer live erleben",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287542&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Gesundheit, Umwelt",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "NEU Spielenachmittag für Kinder",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:00–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Coding & Co.",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270247&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Kamishibai Erzähltheater",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241924&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Lesungen, Vorträge",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Spielzeug-Tauschbörse",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "17:15–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=264364&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "10:00–12:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "NEU Book a librarian",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "10:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Erzähltheater auf dem Spielplatz",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "10:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=250&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Frauen Workshops",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Feste, Events",
+        "Frauen",
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "13:00–15:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Geschichten-Kiste",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270517&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Sprachcafé",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "15:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bibliotheksnachmittag für die Kleinsten",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Bilderbuchkino",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "16:15",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Spiele-Nachmittag für Erwachsene",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "17:00–19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Dialog in Deutsch",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Krabbelgruppe",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "09:30–11:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Karowin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Gamingnachmittag (Nintendo Switch)",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "13:00–17:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Stadtteilbibliothek Buchin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=260&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "13:00–15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Podcasting-Studio – MakerSpace",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "15:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241687&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Digital-Zebra",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "15:30–18:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bettina-von-Arnim-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "LEGO® Build the Change: Wasser der Zukunft",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Bibliothek am Wasserturmin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285424&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Kinder, Jugendliche",
+        "Gesundheit, Umwelt",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "LEGO-Nachmittag",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "16:00–17:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284920&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Digital-Zebra: allgemeine Digital-Beratung",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Infoveranstaltungen",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Sprachcafé",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "16:30–18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270439&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Bildung, Schule",
+        "Regelmäßige Veranstaltung"
+      ]
+    },
+    {
+      "title": "Das Akkordeon - Instrument des Jahres 2026",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "19:00–20:30",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Janusz- Korczak-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=280942&ls=270&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Musik, Konzerte",
+        "Highlight"
+      ]
+    },
+    {
       "title": "Upcycling-Workshop: Modegeschichte zum Selbermachen",
       "date": "2026-09-01",
       "dateLabel": "01.09.2026",
@@ -27705,7 +29745,7 @@
       ]
     },
     {
-      "title": "Ernst Schüssling und Andreas von Studnitz: \"Wie das Militär den Norden Berlins für sich entdeckte - Die Geschichte von 196 Jahren militärischer Präsenz\"",
+      "title": "Ernst Schüssling und Andreas von Studnitz: \"Wie das Militär den Norden Berlins für sich entdeckte - Die Geschichte von 200 Jahren militärischer Präsenz\"",
       "date": "2026-09-03",
       "dateLabel": "03.09.2026",
       "time": "19:00",
@@ -30960,52 +33000,6 @@
       ]
     },
     {
-      "title": "Nähtreff in der Bibliothek Tempelhof",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "15:30",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254761&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Game 4U in der Bibliothek Schöneberg",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "16:00–19:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "\"Digital-Zebra on Tour\" in der Bibliothek Schöneberg",
       "date": "2026-09-05",
       "dateLabel": "05.09.2026",
@@ -31087,7 +33081,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271732&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271732&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -31102,7 +33096,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -31118,7 +33112,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276397&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276397&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -31239,7 +33233,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288539&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288539&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kunst, Kultur",
@@ -31255,7 +33249,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=167058&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=167058&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -31270,7 +33264,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=265687&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265687&ls=20&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
@@ -31390,7 +33384,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268660&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268660&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -31406,7 +33400,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282490&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282490&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -31420,7 +33414,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271717&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271717&ls=30&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -31543,7 +33537,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=265687&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265687&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
@@ -31557,7 +33551,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -31573,7 +33567,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272497&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272497&ls=40&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kunst, Kultur",
@@ -31693,7 +33687,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -31707,7 +33701,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -31723,7 +33717,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Alter Parkin Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270448&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270448&ls=50&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -31844,7 +33838,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -31860,7 +33854,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -31875,7 +33869,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=60&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -31992,7 +33986,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244756&ls=80&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=244756&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -32007,7 +34001,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=168777&ls=80&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=168777&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt",
@@ -32022,7 +34016,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=214174&ls=80&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=214174&ls=70&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -37125,6 +39119,21 @@
       ]
     },
     {
+      "title": "Comic-Workshop mit Cynthia Alonso",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "10:00–12:00",
+      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
+      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288953&ls=50&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur"
+      ]
+    },
+    {
       "title": "Das Digital-Zebra - Die öffentliche Digital-Beratung",
       "date": "2026-09-28",
       "dateLabel": "28.09.2026",
@@ -37192,7 +39201,7 @@
       "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271102&ls=50&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271102&ls=60&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -38126,37 +40135,6 @@
       ]
     },
     {
-      "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "16:00–18:00",
-      "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
-      "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=0&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Game 4U in der Bibliothek Schöneberg",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "16:00–19:00",
-      "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
-      "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=0&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "\"Digital-Zebra on Tour\" in der Bibliothek Schöneberg",
       "date": "2026-09-05",
       "dateLabel": "05.09.2026",
@@ -38243,7 +40221,7 @@
       "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287293&ls=10&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287293&ls=0&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Politik, Bürgerservice",
@@ -38252,17 +40230,16 @@
       ]
     },
     {
-      "title": "Game 4U in der Bibliothek Schöneberg",
+      "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
       "date": "2026-09-11",
       "dateLabel": "11.09.2026",
-      "time": "16:00–19:00",
+      "time": "16:00–18:00",
       "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=10&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=0&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
-        "Kinder, Jugendliche",
         "Freizeit, Sport",
         "Kunst, Kultur"
       ]
@@ -38399,7 +40376,7 @@
       "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=20&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189333&ls=10&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -38415,7 +40392,7 @@
       "library": "Theodor-Heuss-Bibliothek (Tempelhof-Schöneberg)",
       "location": "Bibliohek Schöneberg \"Theodor-Heuss-Bücherei\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=20&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=10&c=22&v_ort=50574&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
