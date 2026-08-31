@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T11:05:27.247709+00:00",
+  "generatedAt": "2026-08-31T12:12:41.077346+00:00",
   "monthsCovered": [
     "2026-08",
     "2026-09"
@@ -39,36 +39,6 @@
   },
   "unsupportedLibraries": [],
   "events": [
-    {
-      "title": "Kunst im Hansaviertel - Führung mit Camille Compere",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285271&ls=0&c=327&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport",
-        "Spaziergänge, Ausflüge"
-      ]
-    },
-    {
-      "title": "Fadendruck-Workshop: Kunst mit Linie und Struktur",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285262&ls=0&c=327&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
     {
       "title": "„Hier lebe ich, hier wähle ich!“ Symbolwahl in Berlin-Mitte",
       "date": "2026-08-31",
@@ -196,7 +166,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=10&c=327&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=0&c=327&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -210,7 +180,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=250606&ls=10&c=327&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=250606&ls=0&c=327&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -443,7 +413,7 @@
       ]
     },
     {
-      "title": "Kaffee und KI: Online sicher einkaufen",
+      "title": "ALLE PLÄTZE BELEGT: Kaffee und KI: Online sicher einkaufen",
       "date": "2026-08-31",
       "dateLabel": "31.08.2026",
       "time": "15:00–17:00",
@@ -503,21 +473,6 @@
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "ABGESAGT: Lesung: Die Glorreichen 77. Rache kennt keinen Ruhestand",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Sommergarten Filmtheater am Friedrichshainin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288077&ls=0&c=409&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Highlight"
       ]
     },
     {
@@ -666,7 +621,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271162&ls=10&c=409&date_start=01.08.2026&date_stop=31.08.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271162&ls=0&c=409&date_start=01.08.2026&date_stop=31.08.2026",
       "recurring": false,
       "categories": [
         "Gesundheit, Umwelt",
@@ -766,20 +721,6 @@
       ]
     },
     {
-      "title": "Bilderbuchkino in der Bibliothek Tempelhof",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "15:30–16:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=0&c=145&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
       "title": "Rat zur Ausbildung (Infostand) in der Bibliothek Tempelhof",
       "date": "2026-08-31",
       "dateLabel": "31.08.2026",
@@ -791,66 +732,6 @@
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wunderkammer der verschwundenen Gärten\"",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283549&ls=0&c=4&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "It's A Balance Trick - Zeitgenössische Kunst zwischen Gleichgewicht und Instabilität",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283570&ls=0&c=4&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=0&c=4&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=0&c=4&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
       ]
     },
     {
@@ -876,67 +757,9 @@
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=0&c=4&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Lachyoga",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "11:00–12:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282448&ls=0&c=22&v_ort=41945&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
-      "title": "Zeichenworkshop Gedankenbilder",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "13:00–16:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285847&ls=0&c=22&v_ort=41945&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Crashkurs Brush Lettering",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "13:00–15:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286249&ls=0&c=22&v_ort=41945&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": false,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Kindertanzen",
-      "date": "2026-08-30",
-      "dateLabel": "30.08.2026",
-      "time": "14:00–15:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288173&ls=0&c=22&v_ort=41945&date_start=01.08.2026&date_stop=31.08.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
       ]
     },
     {
@@ -7199,20 +7022,6 @@
       ]
     },
     {
-      "title": "Digitale Sprechstunde in der Margarete-Kubicka-Bibliothek",
-      "date": "2026-09-01",
-      "dateLabel": "01.09.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Margarete-Kubicka-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=161817&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Infoveranstaltungen"
-      ]
-    },
-    {
       "title": "Bibliothek trifft Nachbarschaft: Gemeinsames Häkeln und Stricken",
       "date": "2026-09-01",
       "dateLabel": "01.09.2026",
@@ -7226,6 +7035,20 @@
         "Kinder, Jugendliche",
         "Senioren",
         "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Digitale Sprechstunde in der Margarete-Kubicka-Bibliothek",
+      "date": "2026-09-01",
+      "dateLabel": "01.09.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Margarete-Kubicka-Bibliothekin Neukölln",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=161817&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Infoveranstaltungen"
       ]
     },
     {
@@ -7301,22 +7124,6 @@
       "categories": [
         "Kinder, Jugendliche",
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Digital-Zebra in der Helene-Nathan-Bibliothek",
-      "date": "2026-09-02",
-      "dateLabel": "02.09.2026",
-      "time": "15:00–17:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=10&c=146&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Senioren",
-        "Bildung, Schule"
       ]
     },
     {
@@ -7433,7 +7240,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=20&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=10&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -7587,7 +7394,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=214735&ls=30&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=214735&ls=20&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -7744,7 +7551,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=269152&ls=40&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=269152&ls=30&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -7896,7 +7703,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=50&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=40&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -8051,7 +7858,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288257&ls=60&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288257&ls=50&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -8201,7 +8008,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=151664&ls=70&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=151664&ls=60&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -8349,7 +8156,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284983&ls=80&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284983&ls=70&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -8502,7 +8309,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289409&ls=90&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289409&ls=80&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Infoveranstaltungen"
@@ -8583,6 +8390,20 @@
         "Senioren",
         "Bildung, Schule",
         "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "„Magnolia“ von Agata Koch – Lesung & Bilderreise",
+      "date": "2026-09-21",
+      "dateLabel": "21.09.2026",
+      "time": "17:00",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Gertrud-Haß-Bibliothekin Neukölln",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290915&ls=90&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
       ]
     },
     {
@@ -10005,7 +9826,7 @@
       ]
     },
     {
-      "title": "Kaffee und KI: KI - eine Einführung, Nutzung, Möglichkeiten, Risiken",
+      "title": "ALLE PLÄTZE BELEGT: Kaffee und KI: KI - eine Einführung, Nutzung, Möglichkeiten, Risiken",
       "date": "2026-09-10",
       "dateLabel": "10.09.2026",
       "time": "15:00–17:00",
@@ -10533,7 +10354,7 @@
       ]
     },
     {
-      "title": "Kaffee und KI: Aufbaukurs: KI und Deepfake",
+      "title": "ALLE PLÄTZE BELEGT: Kaffee und KI: Aufbaukurs: KI und Deepfake",
       "date": "2026-09-17",
       "dateLabel": "17.09.2026",
       "time": "15:00–17:00",
@@ -20899,6 +20720,22 @@
       ]
     },
     {
+      "title": "Gesundheitscafé 55+ Fit und gesund mit Dr. Esmeralda Heiden",
+      "date": "2026-09-02",
+      "dateLabel": "02.09.2026",
+      "time": "10:30–12:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290885&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Senioren",
+        "Freizeit, Sport",
+        "Bildung, Schule"
+      ]
+    },
+    {
       "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
       "date": "2026-09-02",
       "dateLabel": "02.09.2026",
@@ -21009,7 +20846,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Europäische Akademie Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289160&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289160&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Politik und Gesellschaft",
@@ -21159,7 +20996,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -21303,24 +21140,10 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=40&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Stadtteilfest Siemensstadt mit der Bibliothek Halemweg",
-      "date": "2026-09-04",
-      "dateLabel": "04.09.2026",
-      "time": "16:00–20:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Jugendplatzin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287893&ls=40&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
         "Freizeit, Sport"
       ]
     },
@@ -21337,6 +21160,20 @@
       "categories": [
         "Ausstellungen",
         "Kunst, Kultur"
+      ]
+    },
+    {
+      "title": "Stadtteilfest Siemensstadt mit der Bibliothek Halemweg",
+      "date": "2026-09-04",
+      "dateLabel": "04.09.2026",
+      "time": "16:00–20:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Jugendplatzin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287893&ls=40&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Freizeit, Sport"
       ]
     },
     {
@@ -21377,7 +21214,7 @@
       "location": "Berlin, Charlottenburg, Bhf. Zooin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=265927&ls=40&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Bildung, Schule"
       ]
@@ -21450,7 +21287,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289562&ls=40&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289562&ls=50&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -21548,22 +21385,6 @@
       ]
     },
     {
-      "title": "Workshop: Gelli Plate Image Transfer",
-      "date": "2026-09-06",
-      "dateLabel": "06.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289169&ls=50&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "Lesezauber",
       "date": "2026-09-06",
       "dateLabel": "06.09.2026",
@@ -21576,6 +21397,22 @@
       "categories": [
         "Kinder, Jugendliche",
         "Tanz, Theater",
+        "Kunst, Kultur"
+      ]
+    },
+    {
+      "title": "Workshop: Gelli Plate Image Transfer",
+      "date": "2026-09-06",
+      "dateLabel": "06.09.2026",
+      "time": "14:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289169&ls=50&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
         "Kunst, Kultur"
       ]
     },
@@ -21601,7 +21438,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272878&ls=50&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272878&ls=60&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -21616,7 +21453,7 @@
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=277576&ls=60&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
       ]
@@ -21747,7 +21584,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=60&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=70&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -21814,6 +21651,22 @@
       ]
     },
     {
+      "title": "Gesundheitscafé 55+ Fit und gesund mit Dr. Esmeralda Heiden",
+      "date": "2026-09-09",
+      "dateLabel": "09.09.2026",
+      "time": "10:30–12:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290885&ls=70&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Senioren",
+        "Freizeit, Sport",
+        "Bildung, Schule"
+      ]
+    },
+    {
       "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
       "date": "2026-09-09",
       "dateLabel": "09.09.2026",
@@ -21871,6 +21724,21 @@
       ]
     },
     {
+      "title": "Märchenspaß auf der Lesewiese",
+      "date": "2026-09-09",
+      "dateLabel": "09.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290873&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Tanz, Theater"
+      ]
+    },
+    {
       "title": "Zuhör-Raum - Redestab-Kreis ohne Gesprächsthema",
       "date": "2026-09-09",
       "dateLabel": "09.09.2026",
@@ -21878,8 +21746,8 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=70&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
       "categories": [
         "Gesundheit, Umwelt"
       ]
@@ -21892,7 +21760,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283570&ls=70&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283570&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -22008,7 +21876,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -22022,7 +21890,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -22036,7 +21904,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=80&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -22055,6 +21923,20 @@
       "categories": [
         "Musik, Konzerte",
         "Bildung, Schule"
+      ]
+    },
+    {
+      "title": "Dozentenkonzert: Kersthold Piper Duo – Dialogue in Jazz – Next Chapter",
+      "date": "2026-09-10",
+      "dateLabel": "10.09.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290861&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte"
       ]
     },
     {
@@ -22140,7 +22022,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287545&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287545&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -22154,7 +22036,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -22169,7 +22051,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287614&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287614&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -22184,7 +22066,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=90&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -22290,7 +22172,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kommunale Galeriein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283570&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283570&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -22305,7 +22187,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -22320,7 +22202,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -22335,8 +22217,8 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289868&ls=100&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289868&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Bühnen, Filme",
@@ -22352,7 +22234,7 @@
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=289970&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Musik, Konzerte"
@@ -22404,6 +22286,36 @@
       ]
     },
     {
+      "title": "Tabletop in der Dietrich-Bonhoeffer-Bibliothek!",
+      "date": "2026-09-14",
+      "dateLabel": "14.09.2026",
+      "time": "15:30",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290882&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Märchenspaß auf der Lesewiese",
+      "date": "2026-09-14",
+      "dateLabel": "14.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290873&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Tanz, Theater"
+      ]
+    },
+    {
       "title": "Sven liest: Alice im Wunderland",
       "date": "2026-09-14",
       "dateLabel": "14.09.2026",
@@ -22411,7 +22323,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276079&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276079&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
@@ -22425,7 +22337,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Onlinein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273307&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=273307&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -22443,7 +22355,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule"
@@ -22457,11 +22369,26 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
         "Kunst, Kultur"
+      ]
+    },
+    {
+      "title": "Kindermitmachausstellung: „Ich bestimme mit! In Familie, Schule und Freizeit.“",
+      "date": "2026-09-15",
+      "dateLabel": "15.09.2026",
+      "time": "12:00–16:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290876&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Ausstellungen",
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -22472,7 +22399,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -22486,10 +22413,24 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=110&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Offenes Kamishibai „Wer bestimmt hier eigentlich?“",
+      "date": "2026-09-15",
+      "dateLabel": "15.09.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290870&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -22519,1416 +22460,6 @@
       "categories": [
         "Politik, Bürgerservice",
         "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Leseclub für Kinder",
-      "date": "2026-09-15",
-      "dateLabel": "15.09.2026",
-      "time": "17:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Offene Malstunde in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "15:00–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281611&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Johanna-Moosdorf-Bibliothek",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Johanna-Moosdorf- Bibliothek (Stadtteil- bibliothek Neuwestend)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276097&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Ingeborg-Bachmann-Bibliothek",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Bilderbuchkino: Genug gebrüllt Löwe",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289007&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Tuba Vibes Project zu Gast im Hof Kösters – Dozentenkonzert",
-      "date": "2026-09-16",
-      "dateLabel": "16.09.2026",
-      "time": "19:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Hof Köstersin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286822&ls=120&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Spielenachmittag für Familien mit Kindern in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek (im Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287890&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Kleidertauschparty in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Stricken und Häkeln – Offener Treff für alle",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287569&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Heinrich-Schulz-Bibliothek",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde in Kooperation mit Lesewelt e.V. in der Stadteilbibliothek Halemweg",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Spieleabend in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-17",
-      "dateLabel": "17.09.2026",
-      "time": "17:00–20:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=130&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Europäischer Kiezspaziergang in Charlottenburg",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "wird noch bekannt gegebenin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286141&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Spaziergänge, Ausflüge",
-        "Bildung, Schule",
-        "Bildung",
-        "Kultur"
-      ]
-    },
-    {
-      "title": "Brettspiele für Kinder – wöchentlicher Spieletreff für Kinder",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "15:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Pen and Paper mit Nexus e.V.",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "17:00–21:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290423&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Offene Geschichtenzeit in der Heinrich-Schulz-Bibliothek",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Dozentenkonzert – Auftaktveranstaltung für den Querflötenorchester-Workshop",
-      "date": "2026-09-18",
-      "dateLabel": "18.09.2026",
-      "time": "18:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286825&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Rathaus Schmargendorf"
-      ]
-    },
-    {
-      "title": "Workshop: Querflötenorchester",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287572&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Rathaus Schmargendorf"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Digital-Café",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284161&ls=140&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Druckwerkstatt im Rahmen der Ausstellung \"Wir kommen wieder\"",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "13:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284536&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Stadtführung - Obdachlos auf schicken Straßen",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Berlin, Charlottenburg, Bhf. Zooin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=265927&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "I WRITE – Schreibclub/Writing Club",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "14:30–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244240&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "25 Jahre Gitarrenfahrt nach Schloss Kröchlendorff – Dozentenkonzert",
-      "date": "2026-09-19",
-      "dateLabel": "19.09.2026",
-      "time": "17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Schlosskirche Kröchlendorffin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286840&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-20",
-      "dateLabel": "20.09.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Druckwerkstatt im Rahmen der Ausstellung \"Wir kommen wieder\"",
-      "date": "2026-09-20",
-      "dateLabel": "20.09.2026",
-      "time": "11:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284536&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-20",
-      "dateLabel": "20.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Musikworkshop für Familien: Taucht ein in die Welt der Lateinamerikanischen Musik!",
-      "date": "2026-09-20",
-      "dateLabel": "20.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289976&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Musik, Konzerte"
-      ]
-    },
-    {
-      "title": "Puppentheater: Drei Steine für die Suppe",
-      "date": "2026-09-20",
-      "dateLabel": "20.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290000&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Bühnen, Filme",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Deutsch für Eltern nichtdeutscher Muttersprache in den Schulen ihrer Kinder - Stufe A2 - Teil 2",
-      "date": "2026-09-21",
-      "dateLabel": "21.09.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=150&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Erzählzeit in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-21",
-      "dateLabel": "21.09.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=277576&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Deutsch für Eltern nichtdeutscher Muttersprache in den Schulen ihrer Kinder - Stufe A2 - Teil 2",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Kleidertauschparty in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284647&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Leseclub für Kinder",
-      "date": "2026-09-22",
-      "dateLabel": "22.09.2026",
-      "time": "17:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Offene Malstunde in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "15:00–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281611&ls=160&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Johanna-Moosdorf-Bibliothek",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Johanna-Moosdorf- Bibliothek (Stadtteil- bibliothek Neuwestend)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276097&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Ingeborg-Bachmann-Bibliothek",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Zuhör-Raum - Redestab-Kreis ohne Gesprächsthema",
-      "date": "2026-09-23",
-      "dateLabel": "23.09.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Spielenachmittag für Familien mit Kindern in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek (im Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287890&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Kleidertauschparty in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Stricken und Häkeln – Offener Treff für alle",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287569&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Heinrich-Schulz-Bibliothek",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=170&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde in Kooperation mit Lesewelt e.V. in der Stadteilbibliothek Halemweg",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Spieleabend in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "17:00–20:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Erzählcafé „Kindheit in der Nachkriegszeit“",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "18:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289892&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Politik, Bürgerservice",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Duo Aequalis – Frauen und der Kontrabass – Dozentenkonzert",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286849&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Frauen",
-        "Bildung, Schule",
-        "Musikschule City West, Rathaus Schmargendorf"
-      ]
-    },
-    {
-      "title": "Europa klingt – Von Nord- nach Südeuropa – Dozentenkonzert",
-      "date": "2026-09-24",
-      "dateLabel": "24.09.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Kirchsaal des Evangelischen Campuses Danielin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286852&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Brettspiele für Kinder – wöchentlicher Spieletreff für Kinder",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "15:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Offene Geschichtenzeit in der Heinrich-Schulz-Bibliothek",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Workshop: Über das Üben für Pianistinnen & Pianisten mit Prof. Sabine Simon (UdK)",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "18:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286861&ls=180&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Platanenallee"
-      ]
-    },
-    {
-      "title": "Die Welt der Oper – Dozentenkonzert",
-      "date": "2026-09-25",
-      "dateLabel": "25.09.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286858&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Rathaus Schmargendorf"
-      ]
-    },
-    {
-      "title": "Workshop: Über das Üben für Pianistinnen & Pianisten mit Prof. Sabine Simon (UdK)",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286861&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Platanenallee"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "MANGA DAY 2026 in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289922&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "MANGA DAY 2026: Workshop Manga zeichnen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289925&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "I WRITE – Schreibclub/Writing Club",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244240&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Workshop: Über das Üben für Pianistinnen & Pianisten mit Prof. Sabine Simon (UdK)",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286861&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Platanenallee"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=190&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Abschlusskonzert des Workshops „Übers Üben\"",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "13:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Musikschule City West, Konzertsaal Platanenalleein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288059&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Platanenallee"
-      ]
-    },
-    {
-      "title": "Das kleine rote Haus - Eine Geschichte erzählt von Kathleen Rappolt",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290003&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "Plüschtheater - Der Wolf und das Einhorn",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290006&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Dozentenkonzert: Barocke Trios",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290789&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Rathaus Schmargendorf"
-      ]
-    },
-    {
-      "title": "Deutsch für Eltern nichtdeutscher Muttersprache in den Schulen ihrer Kinder - Stufe A2 - Teil 2",
-      "date": "2026-09-28",
-      "dateLabel": "28.09.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Märchenstunde – Michaela erzählt Märchen",
-      "date": "2026-09-28",
-      "dateLabel": "28.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Deutsch für Eltern nichtdeutscher Muttersprache in den Schulen ihrer Kinder - Stufe A2 - Teil 2",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Kleidertauschparty in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=200&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284647&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Leseclub für Kinder",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "17:00–18:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "10:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Offene Malstunde in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "15:00–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281611&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Johanna-Moosdorf-Bibliothek",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Johanna-Moosdorf- Bibliothek (Stadtteil- bibliothek Neuwestend)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276097&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Ingeborg-Bachmann-Bibliothek",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Geschichtenzeit in der Adolf-Reichwein-Bibliothek",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272890&ls=210&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
       ]
     },
     {
@@ -24872,7 +23403,7 @@
       "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=288173&ls=60&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport"
       ]
@@ -27362,6 +25893,20 @@
         "Feste, Events",
         "Kinder, Jugendliche",
         "Senioren"
+      ]
+    },
+    {
+      "title": "Kamishibai-Vorlesetheater für Kinder ab 3 Jahre",
+      "date": "2026-09-26",
+      "dateLabel": "26.09.2026",
+      "time": "10:00",
+      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
+      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290900&ls=10&c=22&v_ort=38117&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
