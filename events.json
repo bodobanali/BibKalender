@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:30:43.857728+00:00",
+  "generatedAt": "2026-09-27T11:10:37.677565+00:00",
   "monthsCovered": [
     "2026-09",
     "2026-10"
@@ -39,77 +39,6 @@
   },
   "unsupportedLibraries": [],
   "events": [
-    {
-      "title": "Manga Day",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288851&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Free Lab",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–13:45",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Philipp-Schaeffer-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=259474&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Play Dungeons & Dragons at the Library",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=235051&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Vorlesen mit Safak Sengül",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:30–11:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Der Märchenkoffer – Eine Reise durch immersive Märchenwelten: Familienworkshop Märchen, Tanz & Digitale Bildwelten",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "15:00–16:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288854&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
     {
       "title": "Wildkräuterspaziergang mit Romain Elleboudt",
       "date": "2026-09-27",
@@ -156,21 +85,6 @@
       ]
     },
     {
-      "title": "Puzzletauschbörse",
-      "date": "2026-09-28",
-      "dateLabel": "28.09.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288497&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
       "title": "Pflanzentauschbörse",
       "date": "2026-09-28",
       "dateLabel": "28.09.2026",
@@ -186,6 +100,21 @@
       ]
     },
     {
+      "title": "Puzzletauschbörse",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "10:00–19:30",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bruno-Lösche-Bibliothekin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288497&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt"
+      ]
+    },
+    {
       "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
       "date": "2026-09-28",
       "dateLabel": "28.09.2026",
@@ -193,7 +122,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -208,25 +137,10 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223074&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223074&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Klimawaage ausprobieren",
-      "date": "2026-09-28",
-      "dateLabel": "28.09.2026",
-      "time": "12:30–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek Tiergarten-Südin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
       ]
     },
     {
@@ -237,7 +151,22 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt"
+      ]
+    },
+    {
+      "title": "Klimawaage ausprobieren",
+      "date": "2026-09-28",
+      "dateLabel": "28.09.2026",
+      "time": "12:30–18:00",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bibliothek Tiergarten-Südin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -252,7 +181,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -342,7 +271,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266308&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=266308&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -357,7 +286,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289133&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289133&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -372,7 +301,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -387,7 +316,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279304&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279304&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -401,7 +330,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=10&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -454,21 +383,6 @@
       ]
     },
     {
-      "title": "Pflanzentauschbörse",
-      "date": "2026-09-29",
-      "dateLabel": "29.09.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288494&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
       "title": "Puzzletauschbörse",
       "date": "2026-09-29",
       "dateLabel": "29.09.2026",
@@ -484,6 +398,21 @@
       ]
     },
     {
+      "title": "Pflanzentauschbörse",
+      "date": "2026-09-29",
+      "dateLabel": "29.09.2026",
+      "time": "10:00–19:30",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bruno-Lösche-Bibliothekin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288494&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt"
+      ]
+    },
+    {
       "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
       "date": "2026-09-29",
       "dateLabel": "29.09.2026",
@@ -491,7 +420,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -506,7 +435,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -521,7 +450,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -536,7 +465,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -551,7 +480,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289145&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289145&ls=20&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -640,7 +569,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289121&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289121&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -655,7 +584,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289127&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -670,7 +599,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -685,7 +614,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287122&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287122&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -700,7 +629,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=30&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -737,21 +666,6 @@
       ]
     },
     {
-      "title": "Pflanzentauschbörse",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288494&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
       "title": "Puzzletauschbörse",
       "date": "2026-09-30",
       "dateLabel": "30.09.2026",
@@ -760,6 +674,21 @@
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=288497&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt"
+      ]
+    },
+    {
+      "title": "Pflanzentauschbörse",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "10:00–19:30",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bruno-Lösche-Bibliothekin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288494&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -789,7 +718,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283918&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283918&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Bildung, Schule",
@@ -804,26 +733,11 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Klimawaage ausprobieren",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "12:30–18:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek Tiergarten-Südin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
       ]
     },
     {
@@ -834,7 +748,22 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291718&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Gesundheit, Umwelt"
+      ]
+    },
+    {
+      "title": "Klimawaage ausprobieren",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "12:30–18:00",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Bibliothek Tiergarten-Südin Mitte",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288491&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -849,7 +778,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=40&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -937,7 +866,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288512&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288512&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -952,7 +881,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288515&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288515&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -968,7 +897,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=236923&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=236923&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -983,7 +912,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289799&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289799&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -999,7 +928,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=50&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -1083,21 +1012,6 @@
       ]
     },
     {
-      "title": "Hans Fallada in Moabit: „Alles in meinem Leben endet in einem Buch“",
-      "date": "2026-09-30",
-      "dateLabel": "30.09.2026",
-      "time": "19:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Kurt-Tucholsky-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288881&ls=70&c=327&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Freizeit, Sport"
-      ]
-    },
-    {
       "title": "Comiclesung „Cannon“ von Lee Lai, moderiert von Hengameh Yaghoobifarah",
       "date": "2026-09-30",
       "dateLabel": "30.09.2026",
@@ -1105,7 +1019,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288878&ls=70&c=327&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288878&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -1113,31 +1027,17 @@
       ]
     },
     {
-      "title": "Stadtnatur: Ergebnisse des Schablonendruckworkshops mit Mina Braun",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
+      "title": "Hans Fallada in Moabit: „Alles in meinem Leben endet in einem Buch“",
+      "date": "2026-09-30",
+      "dateLabel": "30.09.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Berlin-Mitte",
+      "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288257&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Zeichenworkshop: Meine Manga-Figur und ihre Geschichte",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00–18:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Gertrud-Junge-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289250&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288881&ls=60&c=327&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
-        "Kinder, Jugendliche",
+        "Lesungen, Vorträge",
         "Freizeit, Sport"
       ]
     },
@@ -1271,7 +1171,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=234712&ls=10&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=234712&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -1286,7 +1186,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=10&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242914&ls=0&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -1422,71 +1322,11 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285316&ls=20&c=146&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285316&ls=10&c=146&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
         "Bühnen, Filme",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Manga Day",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293665&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Länderreise - Entdecke mit uns Europa",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "12:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276436&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Kunst, Kultur",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Europäischer Tag der Sprachen – Lesung Matthias Nawrat „Über allem ein weiter Himmel-Nachrichten aus Europa“",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–16:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293461&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
         "Kunst, Kultur"
       ]
     },
@@ -1588,7 +1428,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266521&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=266521&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1603,7 +1443,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -1617,7 +1457,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281947&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=281947&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -1632,7 +1472,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=0&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
@@ -1663,7 +1503,7 @@
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=137668&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport"
       ]
@@ -1736,7 +1576,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=20&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -1750,7 +1590,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287428&ls=20&c=439&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287428&ls=10&c=439&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -1759,173 +1599,17 @@
       ]
     },
     {
-      "title": "Stadtspaziergang: Orte Frauen*Lesbenbewegung der DDR und Umbruchszeit im Prenzlauer Berg",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–12:00",
+      "title": "Theatervorstellung: GEMEINSAM AUF DER BÜHNE",
+      "date": "2026-09-27",
+      "dateLabel": "27.09.2026",
+      "time": "15:00",
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293452&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291098&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
-      "categories": [
-        "Frauen",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Im Märchen versteckt - Malen in der Bibliothek",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286567&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Theater mit Schatten und Licht - „Kleine Raupe zieht hinaus“",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288524&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Zuhör-Pop-up Aktionen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Gesundheit, Umwelt",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "3D-Druck – MakerSpace",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:30–14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=246874&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Infoveranstaltungen",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Pokemon Tausch Samstag",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "12:30–14:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Buchin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Feste, Events",
-        "Freizeit, Sport",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Eine musikalische Reise mit Natalia Natalevych",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286576&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Musik, Konzerte",
-        "Kunst, Kultur",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Wäschekorbtheater zum Mitmachen mit Anna Srivastava",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289574&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Volkstanz",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
       "categories": [
         "Tanz, Theater",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Upcycling-Basteln: Meereswelten aus alten Büchern und Zeitungen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "15:30–16:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Bibliothek am Wasserturmin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285127&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Gesundheit, Umwelt",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Manga Workshop",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "16:00–17:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282697&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur",
         "Highlight"
       ]
     },
@@ -1937,26 +1621,11 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285190&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285190&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Gesundheit, Umwelt",
         "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Theatervorstellung: GEMEINSAM AUF DER BÜHNE",
-      "date": "2026-09-27",
-      "dateLabel": "27.09.2026",
-      "time": "15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Kurt-Tucholsky-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291098&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Tanz, Theater",
-        "Highlight"
       ]
     },
     {
@@ -1967,7 +1636,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -1982,7 +1651,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1997,7 +1666,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2012,7 +1681,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2029,7 +1698,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2044,7 +1713,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287542&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287542&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2060,7 +1729,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288521&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288521&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2075,7 +1744,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=0&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2091,7 +1760,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270247&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270247&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2106,7 +1775,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2121,7 +1790,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290330&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290330&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -2136,7 +1805,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=264364&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=264364&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -2153,7 +1822,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290801&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290801&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -2168,7 +1837,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2183,7 +1852,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2198,7 +1867,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276418&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2213,7 +1882,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282361&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2231,7 +1900,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271021&ls=10&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2246,7 +1915,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270517&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270517&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2261,7 +1930,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2277,7 +1946,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2293,7 +1962,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242011&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2308,7 +1977,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2323,7 +1992,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -2339,7 +2008,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2354,7 +2023,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2370,7 +2039,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2385,7 +2054,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=20&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2400,7 +2069,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285424&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285424&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -2417,7 +2086,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284920&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284920&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2432,7 +2101,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241852&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2447,7 +2116,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270439&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270439&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -2462,7 +2131,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290411&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290411&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2478,7 +2147,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Zoom Online-Meetingin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292732&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292732&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -2495,26 +2164,12 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=280942&ls=40&c=409&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=280942&ls=30&c=409&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
         "Musik, Konzerte",
         "Highlight"
-      ]
-    },
-    {
-      "title": "Ausstellung: „Lost&Found – Fundsachen aus der Bibliothek“",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–16:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=0&c=230&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
       ]
     },
     {
@@ -2662,7 +2317,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=10&c=230&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=0&c=230&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2683,22 +2338,6 @@
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "KulturLeben Berlin in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=222774&ls=0&c=67&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Kunst, Kultur",
-        "Infoveranstaltungen"
       ]
     },
     {
@@ -2843,55 +2482,10 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267787&ls=10&c=67&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267787&ls=0&c=67&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung „Frauenarbeit – Frauenalltag – Frauenrechte“, ein Ausstellungsprojekt mit Zeitzeuginnen aus Brandenburg in der Bibliothek Schöneberg",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–19:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Frauen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Puzzle-Treff in der Bibliothek Tempelhof",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:30–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Tischtennis vor der Bibliothek Tempelhof",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00–15:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282505&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
       ]
     },
     {
@@ -3008,7 +2602,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289841&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289841&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3024,7 +2618,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=269317&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=269317&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Bildung, Schule",
@@ -3039,7 +2633,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=10&c=145&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=0&c=145&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3124,98 +2718,6 @@
     },
     {
       "title": "Workshop: Über das Üben für Pianistinnen & Pianisten mit Prof. Sabine Simon (UdK)",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286861&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Bildung, Schule",
-        "Musikschule City West, Platanenallee"
-      ]
-    },
-    {
-      "title": "Wir kommen wieder. Über Tourismus und die Destination West-Berlin",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung \"Wir kommen wieder\"  vom Reisen zum Tourismus und zurück",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Basement Berlinin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283648&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "MANGA DAY 2026 in der Eberhard-Alexander-Burgh-Bibliothek",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289922&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "MANGA DAY 2026: Workshop Manga zeichnen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289925&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "I WRITE – Schreibclub/Writing Club",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244240&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Workshop: Über das Üben für Pianistinnen & Pianisten mit Prof. Sabine Simon (UdK)",
       "date": "2026-09-27",
       "dateLabel": "27.09.2026",
       "time": "10:00–13:00",
@@ -3223,7 +2725,7 @@
       "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=286861&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Musik, Konzerte",
         "Bildung, Schule",
@@ -3284,7 +2786,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290006&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290006&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3299,7 +2801,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290003&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290003&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3314,7 +2816,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290789&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290789&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -3330,7 +2832,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule"
@@ -3344,7 +2846,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290882&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290882&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3359,7 +2861,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292165&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292165&ls=0&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3431,7 +2933,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292987&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292987&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -3446,7 +2948,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -3460,7 +2962,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3474,7 +2976,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284647&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284647&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3488,7 +2990,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282376&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3502,7 +3004,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Museum Charlottenburg-Wilmersdorf in der Villa Oppenheimin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283657&ls=10&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -3576,7 +3078,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3590,7 +3092,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272890&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272890&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3604,7 +3106,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -3618,55 +3120,10 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=30&c=4&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=20&c=4&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt"
-      ]
-    },
-    {
-      "title": "Demokratiemonat in der Zentral- und Landesbibliothek Berlin",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288125&ls=0&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "MANGA DAY 2026",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "12:00–15:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288179&ls=0&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Manga kolorieren am Leuchttisch | Mangaworkshop für Jugendliche | MANGA DAY 2026",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:30–17:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288155&ls=0&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
       ]
     },
     {
@@ -3782,42 +3239,12 @@
       "library": "Amerika-Gedenkbibliothek (ZLB)",
       "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288125&ls=10&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288125&ls=0&c=22&v_ort=41945&date_start=01.09.2026&date_stop=30.09.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
         "Bildung, Schule",
         "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "FamilienSamstag \"Vom Fischer un sin Fru\"",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00",
-      "library": "Anna-Seghers-Bibliothek (Lichtenberg)",
-      "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292864&ls=0&c=22&v_ort=36866&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Mutmach-Musikworkshop I  Monkey und ich - Der geheimnisvolle Garten",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "16:00–16:45",
-      "library": "Anna-Seghers-Bibliothek (Lichtenberg)",
-      "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289988&ls=0&c=22&v_ort=36866&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Musik, Konzerte"
       ]
     },
     {
@@ -3939,65 +3366,6 @@
       ]
     },
     {
-      "title": "Nadel & Faden",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "09:00–13:00",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273217&ls=0&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Senioren",
-        "Freizeit, Sport",
-        "Frauen"
-      ]
-    },
-    {
-      "title": "Comic-Workshop mit Cynthia Alonso",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "10:00–12:00",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288953&ls=0&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Unser Kiez, unsere Stadt – wie wollen wir leben?",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "14:00–16:30",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290339&ls=0&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Upcycling mit Papier",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "15:00–17:30",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289751&ls=0&c=22&v_ort=38116&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
       "title": "Lachyoga",
       "date": "2026-09-27",
       "dateLabel": "27.09.2026",
@@ -4056,37 +3424,6 @@
       ]
     },
     {
-      "title": "Vorhang auf für tolle Geschichten! | Kamishibai-Vorlesetheater",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00",
-      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
-      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292780&ls=0&c=22&v_ort=38117&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Offenes Musikangebot für Kinder I  Sing mit! Spiel mit!",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "15:00–15:45",
-      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
-      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290069&ls=0&c=22&v_ort=38117&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "Vorlesezeit mit Lesewelt e.V.",
       "date": "2026-09-28",
       "dateLabel": "28.09.2026",
@@ -4131,54 +3468,6 @@
       ]
     },
     {
-      "title": "Manga Day",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "",
-      "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
-      "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289340&ls=0&c=22&v_ort=41142&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kunst, Kultur",
-        "Konferenzen, Messen"
-      ]
-    },
-    {
-      "title": "Europa spricht! Sprachen-Parcours zum Europäischen Tag der Sprachen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–14:00",
-      "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
-      "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284617&ls=0&c=22&v_ort=41142&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kunst, Kultur",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Europa spricht! Sprachen-Parcours zum Europäischen Tag der Sprachen",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–14:00",
-      "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
-      "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284830&ls=0&c=22&v_ort=41142&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Kunst, Kultur",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
       "title": "Spielenachmittag für Kinder und Familien",
       "date": "2026-09-29",
       "dateLabel": "29.09.2026",
@@ -4191,67 +3480,6 @@
       "categories": [
         "Kinder, Jugendliche",
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Manga Day",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "",
-      "library": "Mittelpunktbibliothek Adalbertstraße (Friedrichshain-Kreuzberg)",
-      "location": "Mittelpunktbibliothek Adalbertstraße Wilhelm-Liebknecht-/Namik-Kemal-Bibliothekin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289442&ls=0&c=22&v_ort=41820&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Kleidertauschparty",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "11:00–14:00",
-      "library": "Mittelpunktbibliothek Adalbertstraße (Friedrichshain-Kreuzberg)",
-      "location": "Mittelpunktbibliothek Adalbertstraße Wilhelm-Liebknecht-/Namik-Kemal-Bibliothekin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289433&ls=0&c=22&v_ort=41820&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Ausstellungen",
-        "Wochen- und Flohmärkte",
-        "Konferenzen, Messen"
-      ]
-    },
-    {
-      "title": "Manga Day",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "",
-      "library": "Stadtteilbibliothek Friedrich von Raumer (Friedrichshain-Kreuzberg)",
-      "location": "Stadtteilbibliothek Friedrich von Raumerin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289448&ls=0&c=22&v_ort=49568&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Comic-Tausch",
-      "date": "2026-09-26",
-      "dateLabel": "26.09.2026",
-      "time": "13:00–15:00",
-      "library": "Stadtteilbibliothek Friedrich von Raumer (Friedrichshain-Kreuzberg)",
-      "location": "Stadtteilbibliothek Friedrich von Raumerin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288017&ls=0&c=22&v_ort=49568&date_start=01.09.2026&date_stop=30.09.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Wochen- und Flohmärkte",
-        "Kunst, Kultur"
       ]
     },
     {
@@ -13898,7 +13126,7 @@
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=276436&ls=90&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
         "Kunst, Kultur",
@@ -14162,359 +13390,6 @@
       "categories": [
         "Freizeit, Sport",
         "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Makerspace in der Ehm-Welk-Bibliothek",
-      "date": "2026-10-26",
-      "dateLabel": "26.10.2026",
-      "time": "15:00–17:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275797&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
-      "date": "2026-10-26",
-      "dateLabel": "26.10.2026",
-      "time": "15:00–18:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275800&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Senioren",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Lesemontag bei Weinerts",
-      "date": "2026-10-26",
-      "dateLabel": "26.10.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266521&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-27",
-      "dateLabel": "27.10.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Monochrome Melancholie – Stille sichtbar machen\" von Eberhard Hollerbach",
-      "date": "2026-10-27",
-      "dateLabel": "27.10.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Das ganz große Glück\" – Fröhliche Zeichnungen von Antje Püpke",
-      "date": "2026-10-27",
-      "dateLabel": "27.10.2026",
-      "time": "13:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
-      "date": "2026-10-27",
-      "dateLabel": "27.10.2026",
-      "time": "13:00–16:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275800&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Senioren",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Bastel-Buch: Kunst aus alten Büchern",
-      "date": "2026-10-27",
-      "dateLabel": "27.10.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=137668&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Soziales Schreibbüro",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282877&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Monochrome Melancholie – Stille sichtbar machen\" von Eberhard Hollerbach",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=110&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Das ganz große Glück\" – Fröhliche Zeichnungen von Antje Püpke",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "11:00–15:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "11:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275800&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Senioren",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "14:00–19:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "„Abendgruß“ Zwei Erzählungen in einem Buch von Kerstin Hensel",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "19:00–20:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290366&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Monochrome Melancholie – Stille sichtbar machen\" von Eberhard Hollerbach",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "12:00–19:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Makerspace in der Ehm-Welk-Bibliothek",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "15:00–17:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275797&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Mitmachtag am Donnerstag",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "16:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Stadtteilbibliothek Erich Weinertin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266530&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Ausstellung: \"Monochrome Melancholie – Stille sichtbar machen\" von Eberhard Hollerbach",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "09:00–13:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "10:00–19:30",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=120&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Digital-Zebra - Wegweiser durch die digitale Welt",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "11:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275800&ls=130&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Senioren",
-        "Bildung, Schule",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Spielenachmittag für junge Erwachsene",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "17:00–22:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266545&ls=130&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Schach und Gedächtnistraining in der Bibliothek",
-      "date": "2026-10-31",
-      "dateLabel": "31.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276427&ls=130&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Bildung, Schule"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-31",
-      "dateLabel": "31.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=130&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
       ]
     },
     {
@@ -15960,7 +14835,7 @@
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=286567&ls=90&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Highlight"
@@ -16005,7 +14880,7 @@
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=246874&ls=90&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Infoveranstaltungen",
         "Regelmäßige Veranstaltung"
@@ -19294,7 +18169,7 @@
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=300&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Gesundheit, Umwelt",
         "Regelmäßige Veranstaltung"
@@ -21915,20 +20790,6 @@
       ]
     },
     {
-      "title": "Lesekreis der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-10-05",
-      "dateLabel": "05.10.2026",
-      "time": "17:00–19:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=131915&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "Mietberatung in der Ingeborg-Drewitz-Bibliothek",
       "date": "2026-10-06",
       "dateLabel": "06.10.2026",
@@ -22027,7 +20888,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=167022&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=167022&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -22174,7 +21035,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267787&ls=30&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267787&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
@@ -22294,6 +21155,20 @@
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
+      ]
+    },
+    {
+      "title": "Lesekreis der Ingeborg-Drewitz-Bibliothek",
+      "date": "2026-10-08",
+      "dateLabel": "08.10.2026",
+      "time": "17:00–18:30",
+      "library": "Stadtbibliothek Steglitz-Zehlendorf",
+      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=131915&ls=30&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Kunst, Kultur"
       ]
     },
     {
@@ -23280,7 +22155,7 @@
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=222774&ls=100&c=67&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Musik, Konzerte",
         "Kunst, Kultur",
@@ -25362,7 +24237,7 @@
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=100&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport",
         "Kunst, Kultur"
@@ -30598,7 +29473,7 @@
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=273217&ls=30&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Senioren",
         "Freizeit, Sport",
