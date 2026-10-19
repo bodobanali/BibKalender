@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T10:14:18.126099+00:00",
+  "generatedAt": "2026-10-19T11:22:50.851848+00:00",
   "monthsCovered": [
     "2026-10",
     "2026-11"
@@ -39,51 +39,6 @@
   },
   "unsupportedLibraries": [],
   "events": [
-    {
-      "title": "Moabit Güterbahnhof - Deportationsbahnhof - Eine Ausstellung von Gleis 69",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "10:00–16:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Lecture Performance Walk mit Ute Richter Käthe \"Kollwitz Dienstag, 13. Oktober 1914\"",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "14:00–16:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292438&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Kinonachmittag: Kein Land für Niemand - Abschottung eines Einwanderungslandes",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "14:30–17:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292441&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
     {
       "title": "Das »Digital-Zebra« - Die öffentliche Digital-Beratung",
       "date": "2026-10-19",
@@ -197,7 +152,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -212,7 +167,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=250606&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=250606&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -226,7 +181,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=277720&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=277720&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -348,7 +303,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -363,7 +318,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -378,7 +333,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -495,7 +450,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -511,7 +466,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -526,7 +481,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -645,7 +600,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=236923&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=236923&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -660,7 +615,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289799&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289799&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -676,7 +631,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -797,7 +752,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -812,7 +767,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295874&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295874&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -828,7 +783,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -948,7 +903,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -964,7 +919,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -979,7 +934,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -1097,7 +1052,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -1112,7 +1067,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1128,7 +1083,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -1247,7 +1202,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1262,7 +1217,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1277,7 +1232,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -1399,7 +1354,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292462&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292462&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1414,7 +1369,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1430,7 +1385,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266299&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=266299&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -1549,7 +1504,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287119&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287119&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1564,7 +1519,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1579,7 +1534,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=90&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1699,7 +1654,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -1713,7 +1668,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1728,7 +1683,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=100&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -1851,7 +1806,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -1866,7 +1821,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1882,7 +1837,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=110&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2002,7 +1957,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292507&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292507&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -2018,7 +1973,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=227019&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=227019&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -2032,7 +1987,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=120&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2155,7 +2110,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292510&ls=140&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292510&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -2172,7 +2127,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287113&ls=140&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287113&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2187,7 +2142,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288845&ls=140&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288845&ls=130&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -3674,6 +3629,21 @@
       "recurring": true,
       "categories": [
         "Ausstellungen"
+      ]
+    },
+    {
+      "title": "\"Zwischen den Seiten\" - Begegnungsformat für Mädchen und junge Frauen",
+      "date": "2026-10-31",
+      "dateLabel": "31.10.2026",
+      "time": "12:00–13:30",
+      "library": "Stadtbibliothek Neukölln",
+      "location": "Helene-Nathan-Bibliothekin Neukölln",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296087&ls=90&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Frauen"
       ]
     },
     {
@@ -5763,7 +5733,7 @@
       ]
     },
     {
-      "title": "Lesung mit Margit Auer – „Die Schule der magischen Tiere - Band 17: Hoch hinaus!“",
+      "title": "AUSGEBUCHT Lesung mit Margit Auer – „Die Schule der magischen Tiere - Band 17: Hoch hinaus!“",
       "date": "2026-10-23",
       "dateLabel": "23.10.2026",
       "time": "16:30",
@@ -8965,35 +8935,6 @@
       ]
     },
     {
-      "title": "SonntagsMANDALAlerei in der Bibliothek Tempelhof",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "13:00–16:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295436&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Frauen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Bilderbuchkino in der Bibliothek Tempelhof",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "15:30–16:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
       "title": "Ausstellung „Frauenarbeit – Frauenalltag – Frauenrechte“, ein Ausstellungsprojekt mit Zeitzeuginnen aus Brandenburg in der Bibliothek Schöneberg",
       "date": "2026-10-19",
       "dateLabel": "19.10.2026",
@@ -9074,6 +9015,21 @@
       ]
     },
     {
+      "title": "Bastle deine eigene Buchlampe in der Bibliothek Schöneberg",
+      "date": "2026-10-20",
+      "dateLabel": "20.10.2026",
+      "time": "10:00–13:30",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292141&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Kunst, Kultur"
+      ]
+    },
+    {
       "title": "Workshop: Mini Podcast in der Bibliothek Lichtenrade",
       "date": "2026-10-20",
       "dateLabel": "20.10.2026",
@@ -9086,21 +9042,6 @@
       "categories": [
         "Kinder, Jugendliche",
         "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Bastle deine eigene Buchlampe in der Bibliothek Schöneberg",
-      "date": "2026-10-20",
-      "dateLabel": "20.10.2026",
-      "time": "10:00–13:30",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292141&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
         "Kunst, Kultur"
       ]
     },
@@ -9128,7 +9069,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Marienfeldein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295097&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295097&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -9143,7 +9084,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Metzplatzin Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270469&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270469&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -9282,7 +9223,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284104&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -9298,7 +9239,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293539&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293539&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -9422,7 +9363,7 @@
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=295436&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Frauen",
         "Kunst, Kultur"
@@ -9436,7 +9377,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -9450,7 +9391,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -9586,7 +9527,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244756&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=244756&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -9601,7 +9542,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -9655,22 +9596,6 @@
       ]
     },
     {
-      "title": "Ihr Schlüssel zur Kultur - KulturLeben Berlin e.V. in der Bibliothek Schöneberg",
-      "date": "2026-10-28",
-      "dateLabel": "28.10.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=214174&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Tanz, Theater",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
       "title": "Finanz-Fitness Teil 2 in der Bibliothek Lichtenrade",
       "date": "2026-10-28",
       "dateLabel": "28.10.2026",
@@ -9683,6 +9608,22 @@
       "categories": [
         "Kunst, Kultur",
         "Bildung, Schule",
+        "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "Ihr Schlüssel zur Kultur - KulturLeben Berlin e.V. in der Bibliothek Schöneberg",
+      "date": "2026-10-28",
+      "dateLabel": "28.10.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=214174&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
+        "Politik, Bürgerservice",
+        "Tanz, Theater",
         "Infoveranstaltungen"
       ]
     },
@@ -9741,7 +9682,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294892&ls=50&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294892&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -9757,7 +9698,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295256&ls=50&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295256&ls=40&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -9874,6 +9815,22 @@
       ]
     },
     {
+      "title": "Game 4U in der Bibliothek Schöneberg",
+      "date": "2026-10-30",
+      "dateLabel": "30.10.2026",
+      "time": "16:00–18:30",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=50&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Kunst, Kultur"
+      ]
+    },
+    {
       "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
       "date": "2026-10-30",
       "dateLabel": "30.10.2026",
@@ -9889,22 +9846,6 @@
       ]
     },
     {
-      "title": "Game 4U in der Bibliothek Schöneberg",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "16:00–18:30",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271735&ls=60&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "Ausstellung „Frauenarbeit – Frauenalltag – Frauenrechte“, ein Ausstellungsprojekt mit Zeitzeuginnen aus Brandenburg in der Bibliothek Schöneberg",
       "date": "2026-10-31",
       "dateLabel": "31.10.2026",
@@ -9912,7 +9853,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=60&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=50&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -9948,36 +9889,6 @@
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "MeerMärchen - Von Fischen, Fischern und dem Zauber der Wellen",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290063&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "Bilderflüsterer & Trickfilm-Zauberer",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292303&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater"
       ]
     },
     {
@@ -10076,7 +9987,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294718&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295087&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -10091,7 +10002,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295087&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294718&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -10106,7 +10017,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294733&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294733&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -10120,7 +10031,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294463&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294463&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -10252,7 +10163,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -10266,7 +10177,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -10346,20 +10257,6 @@
       ]
     },
     {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-10-22",
-      "dateLabel": "22.10.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
       "title": "Spielenachmittag für Familien mit Kindern in der Adolf-Reichwein-Bibliothek",
       "date": "2026-10-22",
       "dateLabel": "22.10.2026",
@@ -10368,6 +10265,20 @@
       "location": "Adolf-Reichwein-Bibliothek (im Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=287890&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche"
+      ]
+    },
+    {
+      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
+      "date": "2026-10-22",
+      "dateLabel": "22.10.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -10395,7 +10306,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -10410,7 +10321,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -10545,7 +10456,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291664&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291664&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -10560,7 +10471,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291667&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291667&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -10642,6 +10553,22 @@
       ]
     },
     {
+      "title": "Gemeinsames Weihnachtskarten schreiben an Menschen in Senioreneinrichtungen",
+      "date": "2026-10-24",
+      "dateLabel": "24.10.2026",
+      "time": "10:00–14:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296153&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Weihnachtszeit, Jahreswechsel",
+        "Kunst, Kultur"
+      ]
+    },
+    {
       "title": "Digital-Café – Gemeinsam digital in der Heinrich-Schulz-Bibliothek",
       "date": "2026-10-24",
       "dateLabel": "24.10.2026",
@@ -10685,14 +10612,14 @@
       ]
     },
     {
-      "title": "Kleines Gruselvarieté – Witzig-Skurriles Marionettentheater",
+      "title": "Theater auf dem Bügelbrett - Beim Teufel zu Besuch",
       "date": "2026-10-25",
       "dateLabel": "25.10.2026",
       "time": "14:00",
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294496&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290075&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -10786,6 +10713,22 @@
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
+      ]
+    },
+    {
+      "title": "Die netten Jahre sind vorbei. Politisches Kabarett bis an die Scherzgrenze",
+      "date": "2026-10-26",
+      "dateLabel": "26.10.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296177&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Feste, Events",
+        "Bühnen, Filme",
+        "Kunst, Kultur"
       ]
     },
     {
@@ -12182,20 +12125,6 @@
       ]
     },
     {
-      "title": "Lachyoga",
-      "date": "2026-10-18",
-      "dateLabel": "18.10.2026",
-      "time": "11:00–12:00",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289199&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
       "title": "Das Digital-Zebra - Die öffentliche Digital-Beratung",
       "date": "2026-10-19",
       "dateLabel": "19.10.2026",
@@ -12335,7 +12264,7 @@
       "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271102&ls=10&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271102&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -12487,7 +12416,7 @@
       "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276010&ls=20&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276010&ls=10&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -28006,6 +27935,20 @@
       ]
     },
     {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-02",
+      "dateLabel": "02.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
+      ]
+    },
+    {
       "title": "Sprechstunde der Pflegestützpunkte Reinickendorf: Beratung rund um Pflege und Alter",
       "date": "2026-11-02",
       "dateLabel": "02.11.2026",
@@ -28100,18 +28043,31 @@
       ]
     },
     {
-      "title": "Gaming mit der Switch 2",
+      "title": "Infostand „Blaualgen (Cyanobakterien)“ - Stellen Sie Dr. Britta Geiser Ihre Fragen!",
       "date": "2026-11-03",
       "dateLabel": "03.11.2026",
-      "time": "16:00",
+      "time": "11:00–18:30",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296102&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-03",
+      "dateLabel": "03.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
+        "Ausstellungen"
       ]
     },
     {
@@ -28131,6 +28087,21 @@
       ]
     },
     {
+      "title": "Gaming mit der Switch 2",
+      "date": "2026-11-03",
+      "dateLabel": "03.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport"
+      ]
+    },
+    {
       "title": "Lettekiez liest! \"Queere Tiere\" Lesung & Gespräch mit Magda Wystub",
       "date": "2026-11-03",
       "dateLabel": "03.11.2026",
@@ -28138,10 +28109,38 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Buchhandlung am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294343&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294343&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "BÜHNENTAUSCH  „Augen für die Kunst“ – Lesung & Gespräch mit Hans Dickel und Sabine Ziegenrücker",
+      "date": "2026-11-03",
+      "dateLabel": "03.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296120&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-04",
+      "dateLabel": "04.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28152,7 +28151,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=0&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28177,6 +28176,35 @@
         "Senioren",
         "Freizeit, Sport",
         "Offene Gruppen zum Mitmachen"
+      ]
+    },
+    {
+      "title": "Meet the Artist der Ausstellung “ME+BeFallen”: Performance und Gespräch mit Anna Kubelík und Tarik Goetzke",
+      "date": "2026-11-04",
+      "dateLabel": "04.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296105&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-05",
+      "dateLabel": "05.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28220,7 +28248,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28236,7 +28264,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294430&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294430&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
@@ -28250,10 +28278,38 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
+      ]
+    },
+    {
+      "title": "Auf Blickfang: Verstehen wie unsere Augen die Welt erkunden",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "13:00–18:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296108&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Infoveranstaltungen"
       ]
     },
     {
@@ -28264,13 +28320,41 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge",
         "Bildung, Schule",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "Deutsch-arabische Märchenstunde: “Onkel Mäuserich” - mit Dr. Yasser Eryani und Angelika Horn",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "16:00–17:15",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296126&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
+      ]
+    },
+    {
+      "title": "Wir erforschen die Welt der Dinosaurier!",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296123&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -28281,7 +28365,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267757&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267757&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Senioren",
@@ -28297,7 +28381,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28305,17 +28389,45 @@
       ]
     },
     {
-      "title": "Lettekiez liest! \"Vielleicht wollte er gar nicht schweigen...: Mein Vater, Auschwitz und der 7. Oktober\" Lesung & Gespräch mit Misha Schoeneberg",
+      "title": "Lettekiez liest! \"Vielleicht wollte er gar nicht schweigen, er fand bloß die Worte nicht\" Lesung & Gespräch mit Misha Schoeneberg",
       "date": "2026-11-06",
       "dateLabel": "06.11.2026",
       "time": "18:30",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294346&ls=10&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294346&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "Wildtiernah: Berlins tierische Nachbarschaft - Vortrag & Gespräch mit Silke Voigt-Heucke",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296111&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-07",
+      "dateLabel": "07.11.2026",
+      "time": "11:00–16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28326,7 +28438,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254590&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=254590&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -28343,11 +28455,40 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294265&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294265&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Wochen- und Flohmärkte"
+      ]
+    },
+    {
+      "title": "Kindertrödel in der Humboldt-Bibliothek - Mit Unterhaltungsprogramm und Kuchenverkauf",
+      "date": "2026-11-08",
+      "dateLabel": "08.11.2026",
+      "time": "10:00–13:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296129&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Wochen- und Flohmärkte"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-09",
+      "dateLabel": "09.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28358,7 +28499,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28374,7 +28515,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -28389,7 +28530,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28405,7 +28546,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28422,7 +28563,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28438,7 +28579,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233275&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233275&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -28453,25 +28594,69 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291119&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291119&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport"
       ]
     },
     {
-      "title": "Gaming mit der Switch 2",
+      "title": "„Giftige Blaualgen gibt es nur im Sommer, oder?“ - Vortrag & Gespräch mit Dr. Britta Geiser",
+      "date": "2026-11-09",
+      "dateLabel": "09.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296114&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
+        "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "Lettekiez liest! „Osmans Garten“ - Lesung und Gespräch mit Michael Feindler",
+      "date": "2026-11-10",
+      "dateLabel": "10.11.2026",
+      "time": "10:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Buchhandlung am Schäferseein Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296186&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-10",
+      "dateLabel": "10.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
+      ]
+    },
+    {
+      "title": "Berliner Puppentheater: Der Grolltroll",
       "date": "2026-11-10",
       "dateLabel": "10.11.2026",
       "time": "16:00",
       "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=20&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296132&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
-        "Freizeit, Sport"
+        "Tanz, Theater"
       ]
     },
     {
@@ -28482,12 +28667,56 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
         "Freizeit, Sport",
         "Bildung, Schule"
+      ]
+    },
+    {
+      "title": "Gaming mit der Switch 2",
+      "date": "2026-11-10",
+      "dateLabel": "10.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-11",
+      "dateLabel": "11.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
+      ]
+    },
+    {
+      "title": "Berliner Puppentheater: Der Grolltroll",
+      "date": "2026-11-11",
+      "dateLabel": "11.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296132&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Tanz, Theater"
       ]
     },
     {
@@ -28498,7 +28727,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28516,13 +28745,41 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Senioren",
         "Freizeit, Sport",
         "Offene Gruppen zum Mitmachen"
+      ]
+    },
+    {
+      "title": "LESEZEICHEN – Literatur live in Tegel Peggy Mädler: “Selbstregulierung des Herzens”",
+      "date": "2026-11-11",
+      "dateLabel": "11.11.2026",
+      "time": "19:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296135&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-12",
+      "dateLabel": "12.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28533,7 +28790,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=247075&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247075&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -28550,7 +28807,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28567,7 +28824,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28583,10 +28840,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279577&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279577&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
+      ]
+    },
+    {
+      "title": "saTIERisches: Berühmte Menschen und ihre Lieblingstiere - Szenische Lesung mit dem Kalliope-Team",
+      "date": "2026-11-12",
+      "dateLabel": "12.11.2026",
+      "time": "19:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296138&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Tanz, Theater"
       ]
     },
     {
@@ -28597,10 +28868,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-13",
+      "dateLabel": "13.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28611,7 +28896,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28628,11 +28913,25 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268552&ls=30&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268552&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
         "Bildung, Schule"
+      ]
+    },
+    {
+      "title": "Wir rätseln, lauschen und gestalten uns durch die Welt der Märchen.",
+      "date": "2026-11-13",
+      "dateLabel": "13.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296144&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -28643,11 +28942,39 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "Lyrischer Dialog nach Gedichten von Ingeborg Bachmann und Paul Celan mit Anne Schuldt und Bardo Henning",
+      "date": "2026-11-13",
+      "dateLabel": "13.11.2026",
+      "time": "19:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296147&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-14",
+      "dateLabel": "14.11.2026",
+      "time": "11:00–16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28658,7 +28985,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254584&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=254584&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -28668,19 +28995,31 @@
       ]
     },
     {
-      "title": "Bastel-Montag",
-      "date": "2026-11-16",
-      "dateLabel": "16.11.2026",
-      "time": "16:00–17:00",
+      "title": "Herbstliche Tastenvielfalt - Aufführung der Musikschule Reinickendorf",
+      "date": "2026-11-14",
+      "dateLabel": "14.11.2026",
+      "time": "16:00",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296150&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-16",
+      "dateLabel": "16.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Basteln"
+        "Ausstellungen"
       ]
     },
     {
@@ -28691,11 +29030,27 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
         "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Bastel-Montag",
+      "date": "2026-11-16",
+      "dateLabel": "16.11.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Basteln"
       ]
     },
     {
@@ -28706,7 +29061,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28722,7 +29077,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28739,7 +29094,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28755,7 +29110,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=259276&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=259276&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -28764,18 +29119,17 @@
       ]
     },
     {
-      "title": "Gaming mit der Switch 2",
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
       "date": "2026-11-17",
       "dateLabel": "17.11.2026",
-      "time": "16:00",
+      "time": "11:00–19:00",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport"
+        "Ausstellungen"
       ]
     },
     {
@@ -28786,12 +29140,41 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=40&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
         "Freizeit, Sport",
         "Bildung, Schule"
+      ]
+    },
+    {
+      "title": "Gaming mit der Switch 2",
+      "date": "2026-11-17",
+      "dateLabel": "17.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "BÜHNENTAUSCH “ Die Frauen tragen die Last” - Lesung & Gespräch mit Rainer Drews",
+      "date": "2026-11-17",
+      "dateLabel": "17.11.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296156&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
       ]
     },
     {
@@ -28802,10 +29185,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Buchhandlung am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294349&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294349&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-18",
+      "dateLabel": "18.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28816,13 +29213,27 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Senioren",
         "Freizeit, Sport",
         "Offene Gruppen zum Mitmachen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-19",
+      "dateLabel": "19.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28833,7 +29244,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=247102&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247102&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -28849,7 +29260,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28866,12 +29277,26 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "“Krug in the box”- Theater mit Bridge Markland",
+      "date": "2026-11-19",
+      "dateLabel": "19.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296159&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Tanz, Theater"
       ]
     },
     {
@@ -28882,10 +29307,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-20",
+      "dateLabel": "20.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28896,7 +29335,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28913,7 +29352,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233272&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233272&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Senioren",
@@ -28929,11 +29368,40 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "Schattentheater Scuraluna: “Der kleine Angsthase”",
+      "date": "2026-11-20",
+      "dateLabel": "20.11.2026",
+      "time": "16:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296162&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Tanz, Theater"
+      ]
+    },
+    {
+      "title": "Cosy Hobby Abend: Puzzeln, Basteln, Tee trinken",
+      "date": "2026-11-20",
+      "dateLabel": "20.11.2026",
+      "time": "18:00–21:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296165&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Freizeit, Sport"
       ]
     },
     {
@@ -28944,10 +29412,38 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294352&ls=50&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294352&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-21",
+      "dateLabel": "21.11.2026",
+      "time": "11:00–16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-23",
+      "dateLabel": "23.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=90&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -28958,7 +29454,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -28973,7 +29469,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -28989,7 +29485,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29005,7 +29501,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29022,12 +29518,26 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Bildung, Schule",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-24",
+      "dateLabel": "24.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -29038,7 +29548,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253654&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -29054,7 +29564,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=253657&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29062,18 +29572,32 @@
       ]
     },
     {
-      "title": "Ahmad Mansour: Haltung ohne Hass",
+      "title": "„Haltung ohne Hass“ - Lesung & Gespräch mit Ahmad Mansour",
       "date": "2026-11-24",
       "dateLabel": "24.11.2026",
       "time": "19:00",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294421&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294421&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
         "Infoveranstaltungen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-25",
+      "dateLabel": "25.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=100&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -29084,7 +29608,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233269&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233269&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29099,13 +29623,41 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=60&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Senioren",
         "Freizeit, Sport",
         "Offene Gruppen zum Mitmachen"
+      ]
+    },
+    {
+      "title": "“Queere Einsamkeit – Queere Gemeinschaft” - Lesung & Gespräch mit Lennart Herberhold",
+      "date": "2026-11-25",
+      "dateLabel": "25.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296171&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-26",
+      "dateLabel": "26.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -29116,7 +29668,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=189381&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29133,12 +29685,26 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223560&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "Konzert des Luna Salonorchester: “Wir machen Musik ...!”",
+      "date": "2026-11-26",
+      "dateLabel": "26.11.2026",
+      "time": "19:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296174&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte"
       ]
     },
     {
@@ -29149,10 +29715,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289079&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-27",
+      "dateLabel": "27.11.2026",
+      "time": "11:00–19:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -29163,13 +29743,28 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=110&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge",
         "Bildung, Schule",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "Robos im Winterland!",
+      "date": "2026-11-27",
+      "dateLabel": "27.11.2026",
+      "time": "16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296180&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Robotik & Tüfteln"
       ]
     },
     {
@@ -29180,7 +29775,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268558&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268558&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -29195,11 +29790,25 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291146&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Vorlesen"
+      ]
+    },
+    {
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
+      "date": "2026-11-28",
+      "dateLabel": "28.11.2026",
+      "time": "11:00–16:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Ausstellungen"
       ]
     },
     {
@@ -29210,7 +29819,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254593&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=254593&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29227,26 +29836,24 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292984&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292984&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
       ]
     },
     {
-      "title": "Bastel-Montag",
+      "title": "„ME+BeFallen“ – Ausstellung mit Audio-Arbeiten",
       "date": "2026-11-30",
       "dateLabel": "30.11.2026",
-      "time": "16:00–17:00",
+      "time": "11:00–19:00",
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296099&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Basteln"
+        "Ausstellungen"
       ]
     },
     {
@@ -29257,11 +29864,27 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=70&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267763&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Senioren",
         "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Bastel-Montag",
+      "date": "2026-11-30",
+      "dateLabel": "30.11.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267922&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Basteln"
       ]
     },
     {
@@ -29272,23 +29895,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Reinickendorf- Westin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Bildung, Schule",
-        "Vorlesen"
-      ]
-    },
-    {
-      "title": "Vorlesestunde in der Bibliothek am Schäfersee",
-      "date": "2026-11-30",
-      "dateLabel": "30.11.2026",
-      "time": "16:30–17:30",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Bibliothek am Schäferseein Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289088&ls=120&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -29304,11 +29911,27 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=80&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=145957&ls=130&c=230&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Lesungen, Vorträge",
+        "Bildung, Schule",
+        "Vorlesen"
+      ]
+    },
+    {
+      "title": "Vorlesestunde in der Bibliothek am Schäfersee",
+      "date": "2026-11-30",
+      "dateLabel": "30.11.2026",
+      "time": "16:30–17:30",
+      "library": "Stadtbibliothek Reinickendorf",
+      "location": "Bibliothek am Schäferseein Reinickendorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267751&ls=130&c=230&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche",
         "Bildung, Schule",
         "Vorlesen"
       ]
@@ -33243,20 +33866,6 @@
       ]
     },
     {
-      "title": "Scary Tales",
-      "date": "2026-11-01",
-      "dateLabel": "01.11.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295427&ls=0&c=4&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
       "title": "Theater auf dem Bügelbrett - Hexe auf Probe",
       "date": "2026-11-01",
       "dateLabel": "01.11.2026",
@@ -33269,6 +33878,20 @@
       "categories": [
         "Kinder, Jugendliche",
         "Tanz, Theater"
+      ]
+    },
+    {
+      "title": "Scary Tales",
+      "date": "2026-11-01",
+      "dateLabel": "01.11.2026",
+      "time": "14:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295427&ls=0&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -33809,6 +34432,22 @@
       ]
     },
     {
+      "title": "Fachgruppenkonzert Zupfinstrumente",
+      "date": "2026-11-06",
+      "dateLabel": "06.11.2026",
+      "time": "19:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296090&ls=30&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": false,
+      "categories": [
+        "Musik, Konzerte",
+        "Bildung, Schule",
+        "Musikschule City West, Rathaus Schmargendorf"
+      ]
+    },
+    {
       "title": "Fachgruppenkonzert Streichinstrumente",
       "date": "2026-11-07",
       "dateLabel": "07.11.2026",
@@ -33816,7 +34455,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Kirchsaal des Evangelischen Campuses Danielin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292333&ls=30&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292333&ls=40&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -33968,7 +34607,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286912&ls=40&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286912&ls=50&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -34113,7 +34752,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=50&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=60&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -34254,7 +34893,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=60&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276907&ls=70&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -34402,7 +35041,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286915&ls=70&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286915&ls=80&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -34424,6 +35063,22 @@
         "Musik, Konzerte",
         "Bildung, Schule",
         "Musikschule City West, Platanenallee"
+      ]
+    },
+    {
+      "title": "Gemeinsames Weihnachtskarten schreiben an Menschen in Senioreneinrichtungen",
+      "date": "2026-11-14",
+      "dateLabel": "14.11.2026",
+      "time": "10:00–14:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296153&ls=80&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "recurring": true,
+      "categories": [
+        "Freizeit, Sport",
+        "Weihnachtszeit, Jahreswechsel",
+        "Kunst, Kultur"
       ]
     },
     {
@@ -34536,7 +35191,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=80&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=90&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule"
@@ -34550,7 +35205,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=80&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=90&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -34680,7 +35335,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=90&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=100&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -34694,7 +35349,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=90&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=100&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -34821,7 +35476,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294670&ls=100&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294670&ls=110&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -34836,7 +35491,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=100&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=110&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -34969,7 +35624,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=110&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=120&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -34984,7 +35639,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Charlottenburg, Festsaalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291688&ls=110&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291688&ls=120&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -35124,7 +35779,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=120&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289625&ls=130&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule"
@@ -35138,7 +35793,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=120&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=130&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -35267,7 +35922,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Johanna-Moosdorf- Bibliothek (Stadtteil- bibliothek Neuwestend)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276097&ls=130&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276097&ls=140&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -35281,7 +35936,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=130&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276091&ls=140&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -35408,7 +36063,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=140&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287926&ls=150&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -35422,7 +36077,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=140&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272428&ls=150&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -35553,7 +36208,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=150&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289787&ls=160&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -35568,7 +36223,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286987&ls=150&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286987&ls=160&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -35709,7 +36364,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Musikschule City West, Platanenalleein Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287005&ls=160&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287005&ls=170&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": true,
       "categories": [
         "Musik, Konzerte",
@@ -35725,7 +36380,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Rathaus Schmargendorf Ursula-Mamlok-Saalin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287014&ls=160&c=4&date_start=01.11.2026&date_stop=30.11.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287014&ls=170&c=4&date_start=01.11.2026&date_stop=30.11.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
