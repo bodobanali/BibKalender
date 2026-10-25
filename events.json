@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:15:11.891603+00:00",
+  "generatedAt": "2026-10-25T10:25:50.965224+00:00",
   "monthsCovered": [
     "2026-10",
     "2026-11"
@@ -39,81 +39,6 @@
   },
   "unsupportedLibraries": [],
   "events": [
-    {
-      "title": "Play Dungeons & Dragons at the Library",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=235051&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Mobiles Planetarium „INTENSE“ der Stiftung Planetarium Berlin in der Bibliothek am Luisenbad",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bibliothek am Luisenbadin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
-      "title": "Moabit Güterbahnhof - Deportationsbahnhof - Eine Ausstellung von Gleis 69",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Hansabibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Workshop: Kreativ trifft digital für Kinder – 3D-Modelle basteln",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:30–13:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Schiller-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Workshops, DIY"
-      ]
-    },
-    {
-      "title": "Vorlesen mit Safak Sengül",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:30–11:30",
-      "library": "Stadtbibliothek Berlin-Mitte",
-      "location": "Bruno-Lösche-Bibliothekin Mitte",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
-      ]
-    },
     {
       "title": "Moabit Güterbahnhof - Deportationsbahnhof - Eine Ausstellung von Gleis 69",
       "date": "2026-10-25",
@@ -197,7 +122,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -212,7 +137,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -227,7 +152,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233446&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -242,7 +167,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294607&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -257,7 +182,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=0&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -349,7 +274,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -364,7 +289,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287107&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287107&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -379,7 +304,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292462&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292462&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -394,7 +319,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -410,7 +335,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=266299&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=266299&ls=10&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -500,7 +425,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=273964&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -515,7 +440,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275644&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275644&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -529,7 +454,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287119&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287119&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -544,7 +469,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -559,7 +484,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287125&ls=20&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -648,7 +573,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -663,7 +588,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292504&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292504&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -679,7 +604,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=251032&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -693,7 +618,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -708,7 +633,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289883&ls=30&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -800,7 +725,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=233296&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -815,7 +740,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292489&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292489&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -831,7 +756,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=200762&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -846,7 +771,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -862,7 +787,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291886&ls=40&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -952,7 +877,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=210829&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -967,7 +892,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285670&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -982,7 +907,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek Tiergarten-Südin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292507&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292507&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -998,7 +923,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=227019&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=227019&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -1012,7 +937,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bibliothek am Luisenbadin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292423&ls=50&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1105,7 +1030,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Kurt-Tucholsky-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285259&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285259&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1120,7 +1045,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292510&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292510&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -1137,7 +1062,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283954&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283954&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -1152,7 +1077,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Philipp-Schaeffer-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287113&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287113&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1167,7 +1092,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Hansabibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288845&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288845&ls=60&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Freizeit, Sport",
@@ -1259,7 +1184,7 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Schiller-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293743&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1275,69 +1200,10 @@
       "library": "Stadtbibliothek Berlin-Mitte",
       "location": "Bruno-Lösche-Bibliothekin Mitte",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=80&c=327&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292171&ls=70&c=327&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Tag der Bibliotheken - \"Das ist meine Bibliothek\"",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294841&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Ausstellungen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Ausstellung „Schrott oder Schatz: was in deinem Elektrogerät steckt“",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293038&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Gesundheit, Umwelt"
-      ]
-    },
-    {
-      "title": "\"Mach Dir ein Bild! Von einer Welt, in der Lesen und Schreiben nicht selbstverständlich ist\" - Ausstellung mit Bildern von Rita Grunow",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293953&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Tiergestütze Leseförderung - Entspannt Lesen üben mit Vorlesehund Chess",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Neukölln",
-      "location": "Helene-Nathan-Bibliothekin Neukölln",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293101&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Bildung, Schule"
       ]
     },
     {
@@ -1440,7 +1306,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Margarete-Kubicka-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292345&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292345&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -1455,7 +1321,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290315&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290315&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Senioren",
@@ -1471,7 +1337,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gemeinschaftshaus Gropiusstadtin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288368&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288368&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Frauen",
@@ -1487,7 +1353,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293038&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293038&ls=0&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -1593,7 +1459,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291472&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291472&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -1608,7 +1474,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=155625&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=155625&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -1623,7 +1489,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293038&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293038&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -1638,7 +1504,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293953&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293953&ls=10&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -1743,7 +1609,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293941&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293941&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1758,7 +1624,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Margarete-Kubicka-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=186347&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=186347&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Senioren",
@@ -1773,7 +1639,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=155631&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=155631&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -1788,7 +1654,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Haß-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289397&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289397&ls=20&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge"
@@ -1891,7 +1757,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288284&ls=40&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288284&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1906,7 +1772,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Gertrud-Junge-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=257029&ls=40&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=257029&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -1921,7 +1787,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295493&ls=40&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295493&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -1936,7 +1802,7 @@
       "library": "Stadtbibliothek Neukölln",
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293953&ls=40&c=146&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293953&ls=30&c=146&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -1955,36 +1821,6 @@
       "categories": [
         "Kinder, Jugendliche",
         "Frauen"
-      ]
-    },
-    {
-      "title": "Aktionswoche zum Tag der Bibliotheken 2026",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295991&ls=0&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge"
-      ]
-    },
-    {
-      "title": "Ausstellung: Salka-Valka Schallenberg „Otto Nagel – Visionär einer gerechten Gesellschaft“",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Marzahn-Hellersdorf",
-      "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=0&c=439&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
       ]
     },
     {
@@ -2113,7 +1949,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=10&c=439&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=0&c=439&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -2127,7 +1963,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mittelpunktbibliothek Ehm Welkin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=10&c=439&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283429&ls=0&c=439&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur"
@@ -2258,7 +2094,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Mark-Twain-Bibliothek / Bezirkszentralbibliothekin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=20&c=439&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287071&ls=10&c=439&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -2272,7 +2108,7 @@
       "library": "Stadtbibliothek Marzahn-Hellersdorf",
       "location": "Bibliothek Kaulsdorfin Marzahn-Hellersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=20&c=439&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290372&ls=10&c=439&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -2382,132 +2218,6 @@
       ]
     },
     {
-      "title": "Pokémon TradeDay",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–18:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Karowin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293323&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Freizeit, Sport",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Obst & Gemüse - ein Märchensalat | Erzähltheater mit Sabine Kolbe",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293614&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Die Tagebücher von Adam und Eva - Vorlese-Ensemble präsentiert",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293635&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Kunst, Kultur",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Pokemon Tausch Samstag",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "12:30–14:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Stadtteilbibliothek Buchin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Feste, Events",
-        "Freizeit, Sport",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Textil-Kreativwerkstatt",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "13:00–15:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284509&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Frau macht Wort - Lesungen",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293620&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Frauen",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "FORSCHE (NDE) FRAUEN - Vorlese-Ensemble präsentiert",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293638&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Frauen",
-        "Highlight"
-      ]
-    },
-    {
-      "title": "Kreativer Bastelspaß für Familien in der Bibliothek!",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "15:30",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Bibliothek am Wasserturmin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242092&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
       "title": "Book a librarian",
       "date": "2026-10-26",
       "dateLabel": "26.10.2026",
@@ -2545,7 +2255,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276361&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2560,7 +2270,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2575,7 +2285,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275212&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2592,7 +2302,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292576&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292576&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2607,7 +2317,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295556&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295556&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2624,7 +2334,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288521&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288521&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2639,7 +2349,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286027&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2655,7 +2365,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270247&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270247&ls=0&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2700,7 +2410,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290330&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290330&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -2715,7 +2425,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294307&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294307&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -2732,7 +2442,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292258&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292258&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -2748,7 +2458,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=279628&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2763,7 +2473,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272737&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272737&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2778,7 +2488,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285163&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285163&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2794,7 +2504,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=265675&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2810,7 +2520,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241693&ls=10&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2858,7 +2568,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288917&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -2873,7 +2583,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293284&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293284&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -2888,7 +2598,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241957&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -2904,7 +2614,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288794&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2919,7 +2629,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242212&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2935,7 +2645,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285172&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285172&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -2951,7 +2661,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=241687&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=241687&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -2966,7 +2676,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=20&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -3011,7 +2721,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=273661&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=273661&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -3027,7 +2737,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267133&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267133&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -3043,7 +2753,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294037&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294037&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -3059,7 +2769,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=246979&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3074,7 +2784,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242158&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242158&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -3089,7 +2799,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283369&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283369&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -3104,7 +2814,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242077&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -3119,7 +2829,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=247570&ls=30&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen",
@@ -3166,7 +2876,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=281644&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=281644&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -3183,7 +2893,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293242&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293242&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3198,7 +2908,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=270280&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=270280&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3213,7 +2923,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=242140&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=242140&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3228,7 +2938,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267328&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3243,26 +2953,11 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275293&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275293&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
         "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Autorenlesung: \"Die Wunschmörder\" mit Burkhard Nagel (Azubi Wochen)",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "18:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293251&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Lesungen, Vorträge",
-        "Highlight"
       ]
     },
     {
@@ -3273,10 +2968,25 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=288668&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=288668&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Autorenlesung: \"Die Wunschmörder\" mit Burkhard Nagel (Azubi Wochen)",
+      "date": "2026-10-29",
+      "dateLabel": "29.10.2026",
+      "time": "18:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293251&ls=40&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Lesungen, Vorträge",
         "Highlight"
       ]
     },
@@ -3318,7 +3028,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Kurt-Tucholsky-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296423&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296423&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Spaziergänge, Ausflüge",
@@ -3333,7 +3043,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293281&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293281&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3348,7 +3058,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293278&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293278&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3364,7 +3074,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bettina-von-Arnim-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268666&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268666&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -3380,7 +3090,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296408&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296408&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3395,7 +3105,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Janusz- Korczak-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293989&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293989&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -3410,7 +3120,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282871&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=282871&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Bildung, Schule",
@@ -3425,25 +3135,11 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274216&ls=50&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
         "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Nähmaschinen Workshop für Kinder",
-      "date": "2026-10-31",
-      "dateLabel": "31.10.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Heinrich-Böll-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290750&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
       ]
     },
     {
@@ -3463,6 +3159,20 @@
       ]
     },
     {
+      "title": "Nähmaschinen Workshop für Kinder",
+      "date": "2026-10-31",
+      "dateLabel": "31.10.2026",
+      "time": "11:00–13:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Heinrich-Böll-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290750&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche"
+      ]
+    },
+    {
       "title": "2. Tag der Hochsensibilität",
       "date": "2026-10-31",
       "dateLabel": "31.10.2026",
@@ -3470,7 +3180,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292327&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292327&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -3486,7 +3196,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Heinrich-Böll-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287554&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt",
@@ -3501,7 +3211,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294679&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294679&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt",
@@ -3516,7 +3226,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=285508&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=285508&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3532,28 +3242,12 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Buchin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=274189&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
         "Freizeit, Sport",
         "Regelmäßige Veranstaltung"
-      ]
-    },
-    {
-      "title": "Comics zeichnen mit Meike Dölp",
-      "date": "2026-10-31",
-      "dateLabel": "31.10.2026",
-      "time": "14:00",
-      "library": "Stadtbibliothek Pankow",
-      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293725&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Freizeit, Sport",
-        "Highlight"
       ]
     },
     {
@@ -3564,11 +3258,27 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293644&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293644&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
         "Kunst, Kultur",
+        "Highlight"
+      ]
+    },
+    {
+      "title": "Comics zeichnen mit Meike Dölp",
+      "date": "2026-10-31",
+      "dateLabel": "31.10.2026",
+      "time": "14:00",
+      "library": "Stadtbibliothek Pankow",
+      "location": "Wolfdietrich-Schnurre-Bibliothekin Pankow",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293725&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": false,
+      "categories": [
+        "Kinder, Jugendliche",
+        "Freizeit, Sport",
         "Highlight"
       ]
     },
@@ -3580,7 +3290,7 @@
       "library": "Stadtbibliothek Pankow",
       "location": "Stadtteilbibliothek Karowin Pankow",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=70&c=409&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284746&ls=60&c=409&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Tanz, Theater",
@@ -3600,52 +3310,6 @@
       "categories": [
         "Feste, Events",
         "Highlight"
-      ]
-    },
-    {
-      "title": "Ausstellung: „Lost&Found – Fundsachen aus der Bibliothek“",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00–16:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen"
-      ]
-    },
-    {
-      "title": "Tüftel-Samstag für Familien - Thema: 3D-Gestaltung mit TinkerCad",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "13:00–15:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254593&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Senioren",
-        "Freizeit, Sport",
-        "Robotik & Tüfteln"
-      ]
-    },
-    {
-      "title": "Kindertheater mit Nicole Gospodarek: „Vom Bett, das nicht schlafen konnte“",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "16:00",
-      "library": "Stadtbibliothek Reinickendorf",
-      "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291164&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Tanz, Theater"
       ]
     },
     {
@@ -3764,7 +3428,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291149&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291149&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -3779,7 +3443,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -3793,7 +3457,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289064&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289064&ls=0&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -3909,7 +3573,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek am Schäferseein Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=236287&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3927,7 +3591,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=223170&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -3944,7 +3608,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291158&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291158&ls=10&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -4063,7 +3727,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=30&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287521&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen"
@@ -4077,7 +3741,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Bibliothek im Märkischen Viertelin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289076&ls=30&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289076&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -4091,7 +3755,7 @@
       "library": "Stadtbibliothek Reinickendorf",
       "location": "Stadtteilbibliothek Frohnauin Reinickendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=30&c=230&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=267748&ls=20&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -4186,53 +3850,6 @@
       "link": "https://www.berlin.de/land/kalender/index.php?detail=292984&ls=30&c=230&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "KulturLeben Berlin in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00–13:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=222774&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Musik, Konzerte",
-        "Kunst, Kultur",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "125 Jahre Chorverband Berlin – die Hauptstadt singt. Eine Ausstellung in der Ingeborg-Drewitz-Bibliothek",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00–16:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287332&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Musik, Konzerte"
-      ]
-    },
-    {
-      "title": "Diaspora und Dasein – Wege jüdischer und kurdischer Frauen  Eine Stadtführung durch Kreuzberg in Kooperation mit dem jüdisch-kurdischen Frauenverein Pek Koach e.V.",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00–17:00",
-      "library": "Stadtbibliothek Steglitz-Zehlendorf",
-      "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289376&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Spaziergänge, Ausflüge",
         "Infoveranstaltungen"
       ]
     },
@@ -4347,7 +3964,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=238651&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=238651&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Politik, Bürgerservice",
@@ -4363,7 +3980,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=239014&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=239014&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -4377,7 +3994,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287332&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287332&ls=0&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -4497,7 +4114,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=275323&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=275323&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -4513,7 +4130,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291182&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291182&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -4527,7 +4144,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Stadtteilbibliothek Lankwitzin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=250441&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=250441&ls=10&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -4641,7 +4258,7 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291634&ls=30&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291634&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -4656,56 +4273,11 @@
       "library": "Stadtbibliothek Steglitz-Zehlendorf",
       "location": "Gottfried-Benn-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290783&ls=30&c=67&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290783&ls=20&c=67&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
         "Kinder, Jugendliche",
-        "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Ausstellung „Frauenarbeit – Frauenalltag – Frauenrechte“, ein Ausstellungsprojekt mit Zeitzeuginnen aus Brandenburg in der Bibliothek Schöneberg",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–19:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Ausstellungen",
-        "Frauen",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Puzzle-Treff in der Bibliothek Tempelhof",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:30–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Tischtennis vor der Bibliothek Tempelhof",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00–15:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=282505&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
         "Freizeit, Sport"
       ]
     },
@@ -4822,7 +4394,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=295271&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=295271&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -4838,7 +4410,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=268717&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -4852,7 +4424,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287392&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287392&ls=0&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -4974,7 +4546,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293524&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293524&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kunst, Kultur",
@@ -4990,7 +4562,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293239&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293239&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Lesungen, Vorträge",
@@ -5005,7 +4577,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293791&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293791&ls=10&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5130,7 +4702,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289247&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -5146,7 +4718,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Lichtenradein Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293794&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293794&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5162,22 +4734,7 @@
       "library": "Stadtbibliothek Tempelhof-Schöneberg",
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254761&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
-      "date": "2026-10-30",
-      "dateLabel": "30.10.2026",
-      "time": "16:00–18:00",
-      "library": "Stadtbibliothek Tempelhof-Schöneberg",
-      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=254761&ls=20&c=145&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport",
@@ -5196,6 +4753,21 @@
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
+        "Freizeit, Sport",
+        "Kunst, Kultur"
+      ]
+    },
+    {
+      "title": "Schach Treff am Freitag in der Bibliothek Schöneberg",
+      "date": "2026-10-30",
+      "dateLabel": "30.10.2026",
+      "time": "16:00–18:00",
+      "library": "Stadtbibliothek Tempelhof-Schöneberg",
+      "location": "Bibliothek Schöneberg \"Theodor-Heuss-Bibliothek\"in Tempelhof-Schöneberg",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287098&ls=30&c=145&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
         "Freizeit, Sport",
         "Kunst, Kultur"
       ]
@@ -5244,50 +4816,6 @@
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Gemeinsames Weihnachtskarten schreiben an Menschen in Senioreneinrichtungen",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:00–14:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296153&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport",
-        "Weihnachtszeit, Jahreswechsel",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Digital-Café – Gemeinsam digital in der Heinrich-Schulz-Bibliothek",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "13:00–16:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272443&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "I WRITE – Schreibclub/Writing Club",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:30–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=244240&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kunst, Kultur"
       ]
     },
     {
@@ -5402,7 +4930,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=290882&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=290882&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5417,7 +4945,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294877&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294877&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5432,7 +4960,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272446&ls=0&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -5552,7 +5080,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294454&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294454&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5568,7 +5096,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294457&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294457&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -5583,7 +5111,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=284641&ls=10&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -5702,7 +5230,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292156&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292156&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -5718,7 +5246,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=272593&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=272593&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Gesundheit, Umwelt",
@@ -5733,7 +5261,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294451&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294451&ls=20&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Ausstellungen",
@@ -5850,7 +5378,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276085&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -5864,7 +5392,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=283687&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Gesundheit, Umwelt"
@@ -5878,7 +5406,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Ingeborg-Bachmann-Bibliothek (Stadtteilbibliothek West)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296588&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296588&ls=30&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -6000,7 +5528,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Adolf-Reichwein-Bibliothek  (Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292159&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292159&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -6016,10 +5544,24 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=287569&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=287569&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
+      ]
+    },
+    {
+      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
+      "date": "2026-10-29",
+      "dateLabel": "29.10.2026",
+      "time": "16:00–17:00",
+      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
+      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
+      "desc": "",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=40&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "recurring": true,
+      "categories": [
+        "Kinder, Jugendliche"
       ]
     },
     {
@@ -6031,20 +5573,6 @@
       "location": "Adolf-Reichwein-Bibliothek (im Rathaus Schmargendorf)in Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=287890&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Vorlesestunde mit Lesewelt e.V. in der Dietrich-Bonhoeffer-Bibliothek",
-      "date": "2026-10-29",
-      "dateLabel": "29.10.2026",
-      "time": "16:00–17:00",
-      "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
-      "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276910&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -6144,7 +5672,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=245593&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Freizeit, Sport"
@@ -6158,7 +5686,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Dietrich-Bonhoeffer-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294487&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=294487&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -6173,7 +5701,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Terzo Mondoin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=286897&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=286897&ls=50&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Musik, Konzerte",
@@ -6297,7 +5825,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=70&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=289601&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -6312,7 +5840,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Stadtteilbibliothek Halemwegin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=70&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291661&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche",
@@ -6327,7 +5855,7 @@
       "library": "Stadtbibliothek Charlottenburg-Wilmersdorf",
       "location": "Eberhard-Alexander-Burgh-Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276913&ls=70&c=4&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276913&ls=60&c=4&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Kinder, Jugendliche"
@@ -6410,78 +5938,6 @@
       ]
     },
     {
-      "title": "Margit Auer ließt! Die Schule der Magischen Tiere",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291505&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Kuscheltier-Übernachtung und Abholung der Kuscheltiere",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "12:00–12:30",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291502&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Robo-Werkstatt | Coding für Kinder",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "13:00–15:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291101&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Wortschätze - Erzählstunde in der Jurte",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "15:00–16:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291382&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "All you can read feat. Amerika-Gedenkbibliothek",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "17:00–21:00",
-      "library": "Amerika-Gedenkbibliothek (ZLB)",
-      "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292558&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Lesungen, Vorträge",
-        "Kunst, Kultur"
-      ]
-    },
-    {
       "title": "Astro Bot | VR-Gaming zum Ausprobieren",
       "date": "2026-10-27",
       "dateLabel": "27.10.2026",
@@ -6532,7 +5988,7 @@
       "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=291101&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
       ]
@@ -6546,23 +6002,9 @@
       "location": "Amerika-Gedenkbibliothek der ZLBin Friedrichshain-Kreuzberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=291382&ls=0&c=22&v_ort=41945&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Gemeinsam spielend älter werden",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00–16:00",
-      "library": "Anna-Seghers-Bibliothek (Lichtenberg)",
-      "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296618&ls=0&c=22&v_ort=36866&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Freizeit, Sport"
       ]
     },
     {
@@ -6708,7 +6150,7 @@
       "library": "Anna-Seghers-Bibliothek (Lichtenberg)",
       "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=293806&ls=10&c=22&v_ort=36866&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=293806&ls=0&c=22&v_ort=36866&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
@@ -6752,35 +6194,6 @@
       "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=296738&ls=10&c=22&v_ort=36866&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Blasisafari – Die Blasinstrumente-Entdeckungstour für Kinder",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00–16:00",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=289700&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Musik, Konzerte"
-      ]
-    },
-    {
-      "title": "Bastel-Workshop „Kleine Laternen“",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "15:00–17:30",
-      "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
-      "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=294274&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -6913,7 +6326,7 @@
       "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276022&ls=10&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276022&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -6927,7 +6340,7 @@
       "library": "Anton-Saefkow-Bibliothek (Lichtenberg)",
       "location": "Anton-Saefkow-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=276028&ls=10&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=276028&ls=0&c=22&v_ort=38116&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Infoveranstaltungen"
@@ -6993,21 +6406,6 @@
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
-      ]
-    },
-    {
-      "title": "Workshop I Manga zeichnen",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "15:00–17:00",
-      "library": "Bodo-Uhse-Bibliothek (Lichtenberg)",
-      "location": "Bodo-Uhse-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296615&ls=0&c=22&v_ort=38118&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
       ]
     },
     {
@@ -7112,54 +6510,6 @@
         "Kinder, Jugendliche",
         "Senioren",
         "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Vorhang auf für tolle Geschichten! | Kamishibai-Vorlesetheater",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:00",
-      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
-      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292780&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Monkey und Ich – Kürbisklänge",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "15:00",
-      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
-      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254893&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Musik, Konzerte",
-        "Tanz, Theater"
-      ]
-    },
-    {
-      "title": "Monkey und Ich – Kürbisklänge",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "16:00",
-      "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
-      "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=254893&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Musik, Konzerte",
-        "Tanz, Theater"
       ]
     },
     {
@@ -7278,7 +6628,7 @@
       "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
       "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=271945&ls=10&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=271945&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": true,
       "categories": [
         "Feste, Events",
@@ -7294,7 +6644,7 @@
       "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
       "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=292777&ls=10&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=292777&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Feste, Events",
@@ -7310,43 +6660,12 @@
       "library": "Egon-Erwin-Kisch-Bibliothek (Lichtenberg)",
       "location": "Egon-Erwin-Kisch-Bibliothekin Lichtenberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=296732&ls=10&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=296732&ls=0&c=22&v_ort=38117&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Musik, Konzerte",
         "Freizeit, Sport"
-      ]
-    },
-    {
-      "title": "Workshopreihe: STOP! – Gegen Diskriminierung einschreiten",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "10:30–14:30",
-      "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
-      "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291532&ls=0&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": true,
-      "categories": [
-        "Politik, Bürgerservice",
-        "Infoveranstaltungen"
-      ]
-    },
-    {
-      "title": "Tag der Bibliotheken in Friedrichshain",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "14:00–20:00",
-      "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
-      "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291538&ls=0&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Feste, Events",
-        "Lesungen, Vorträge",
-        "Kunst, Kultur"
       ]
     },
     {
@@ -7474,7 +6793,7 @@
       "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
       "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291589&ls=10&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291589&ls=0&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Lesungen, Vorträge",
@@ -7489,7 +6808,7 @@
       "library": "Bezirkszentralbibliothek Pablo Neruda (Friedrichshain-Kreuzberg)",
       "location": "Bezirkszentralbibliothek Pablo Nerudain Friedrichshain-Kreuzberg",
       "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291529&ls=10&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
+      "link": "https://www.berlin.de/land/kalender/index.php?detail=291529&ls=0&c=22&v_ort=41142&date_start=01.10.2026&date_stop=31.10.2026",
       "recurring": false,
       "categories": [
         "Kinder, Jugendliche"
@@ -7507,37 +6826,6 @@
       "recurring": false,
       "categories": [
         "Wochen- und Flohmärkte"
-      ]
-    },
-    {
-      "title": "Keloğlan und die verzauberte Schüssel // Keloğlan ve Sihirli Çanak",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "11:30",
-      "library": "Mittelpunktbibliothek Adalbertstraße (Friedrichshain-Kreuzberg)",
-      "location": "Mittelpunktbibliothek Adalbertstraße Wilhelm-Liebknecht-/Namik-Kemal-Bibliothekin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291931&ls=0&c=22&v_ort=41820&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Lesungen, Vorträge",
-        "Kunst, Kultur"
-      ]
-    },
-    {
-      "title": "Worte erzählen – Bilder und Geschichten",
-      "date": "2026-10-24",
-      "dateLabel": "24.10.2026",
-      "time": "12:00–15:00",
-      "library": "Mittelpunktbibliothek Adalbertstraße (Friedrichshain-Kreuzberg)",
-      "location": "Mittelpunktbibliothek Adalbertstraße Wilhelm-Liebknecht-/Namik-Kemal-Bibliothekin Friedrichshain-Kreuzberg",
-      "desc": "",
-      "link": "https://www.berlin.de/land/kalender/index.php?detail=291919&ls=0&c=22&v_ort=41820&date_start=01.10.2026&date_stop=31.10.2026",
-      "recurring": false,
-      "categories": [
-        "Kinder, Jugendliche",
-        "Kunst, Kultur"
       ]
     },
     {
@@ -14344,7 +13632,7 @@
       "location": "Helene-Nathan-Bibliothekin Neukölln",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=293101&ls=60&c=146&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Bildung, Schule"
@@ -22293,7 +21581,7 @@
       "location": "Bibliothek am Wasserturmin Pankow",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=242092&ls=320&c=409&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Regelmäßige Veranstaltung"
@@ -24457,7 +23745,7 @@
       "location": "Humboldt-Bibliothek Tegelin Reinickendorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=254593&ls=130&c=230&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Kinder, Jugendliche",
         "Senioren",
@@ -26461,7 +25749,7 @@
       "location": "Ingeborg-Drewitz-Bibliothekin Steglitz-Zehlendorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=222774&ls=120&c=67&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Musik, Konzerte",
         "Kunst, Kultur",
@@ -28619,7 +27907,7 @@
       "location": "Bibliothek Tempelhof \"Eva-Maria-Buch-Haus\"in Tempelhof-Schöneberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=234187&ls=130&c=145&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport",
         "Kunst, Kultur"
@@ -30204,7 +29492,7 @@
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=296153&ls=100&c=4&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport",
         "Weihnachtszeit, Jahreswechsel",
@@ -30950,7 +30238,7 @@
       "location": "Heinrich-Schulz- Bibliothekin Charlottenburg-Wilmersdorf",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=272443&ls=150&c=4&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Infoveranstaltungen"
       ]
@@ -32435,7 +31723,7 @@
       "location": "Anna-Seghers-Bibliothek im Linden-Center Hohenschönhausenin Lichtenberg",
       "desc": "",
       "link": "https://www.berlin.de/land/kalender/index.php?detail=296618&ls=30&c=22&v_ort=36866&date_start=01.11.2026&date_stop=30.11.2026",
-      "recurring": true,
+      "recurring": false,
       "categories": [
         "Freizeit, Sport"
       ]
