@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-31T10:54:33.970057+00:00",
+  "generatedAt": "2026-11-01T11:52:34.385433+00:00",
   "monthsCovered": [
-    "2026-10",
-    "2026-11"
+    "2026-11",
+    "2026-12"
   ],
   "monthLabels": {
-    "2026-10": "Oktober 2026",
-    "2026-11": "November 2026"
+    "2026-11": "November 2026",
+    "2026-12": "Dezember 2026"
   },
-  "defaultMonth": "2026-10",
+  "defaultMonth": "2026-11",
   "libraries": {
     "327": "Stadtbibliothek Berlin-Mitte",
     "146": "Stadtbibliothek Neukölln",
